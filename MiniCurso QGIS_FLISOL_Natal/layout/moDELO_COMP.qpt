@@ -1,0 +1,65 @@
+<Composer title="Compositor 1" visible="1">
+ <ComposerMap keepLayerSet="false" id="0" previewMode="Cache">
+  <Extent ymin="9344739.586612806" xmin="242283.4456373849" ymax="9369665.393326983" xmax="265172.0469951142"/>
+  <LayerSet/>
+  <Grid gridStyle="1" crossLength="1" penColorRed="0" penColorBlue="0" intervalX="3000" offsetX="0" intervalY="3000" offsetY="0" show="1" penWidth="0" penColorGreen="0">
+   <Annotation direction="2" precision="3" position="0" frameDistance="1" show="1" font="MS Shell Dlg 2,8.25,-1,5,50,0,0,0,0,0"/>
+  </Grid>
+  <ComposerItem width="191" x="21" y="3" rotation="0" height="208" frame="true" outlineWidth="0.3" zValue="1" lastValidViewScaleFactor="2.279620853080569" positionLock="false">
+   <FrameColor alpha="255" red="0" blue="0" green="0"/>
+   <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerMap>
+ <ComposerAttributeTable contentFont="MS Shell Dlg 2,8.25,-1,5,50,0,0,0,0,0" gridStrokeWidth="0.5" gridColorGreen="0" composerMap="-1" showGrid="1" headerFont="MS Shell Dlg 2,8.25,-1,5,50,0,0,0,0,0" gridColorBlue="0" lineTextDist="1" gridColorRed="0" showOnlyVisibleFeatures="1" vectorLayer="Limite_dos_bairros20110727125852110">
+  <displayAttributes/>
+  <attributeAliasMap/>
+  <sortColumns/>
+  <ComposerItem width="77.5" x="215" y="8" rotation="0" height="146.3" frame="true" outlineWidth="0.3" zValue="4" lastValidViewScaleFactor="2.279620853080569" positionLock="false">
+   <FrameColor alpha="255" red="0" blue="0" green="0"/>
+   <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerAttributeTable>
+ <ComposerScaleBar segmentMillimeters="16.68953004290936" numMapUnitsPerScaleBarUnit="1" numSegments="2" height="5" labelBarSpace="3" outlineWidth="1" numSegmentsLeft="0" style="Single Box" unitLabel="" font="MS Shell Dlg 2,12,-1,5,50,0,0,0,0,0" mapId="0" boxContentSpace="1" numUnitsPerSegment="2000">
+  <BrushColor red="0" blue="0" green="0"/>
+  <ComposerItem width="43.87906008581877" x="234" y="155" rotation="0" height="14.2" frame="true" outlineWidth="0.3" zValue="3" lastValidViewScaleFactor="2.279620853080569" positionLock="false">
+   <FrameColor alpha="255" red="0" blue="0" green="0"/>
+   <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerScaleBar>
+ <ComposerArrow startMarkerFile="" arrowHeadWidth="4" endMarkerFile="" outlineWidth="1" markerMode="2">
+  <ArrowColor alpha="255" red="0" blue="0" green="0"/>
+  <StartPoint x="184" y="34"/>
+  <StopPoint x="184" y="34"/>
+  <ComposerItem width="5" x="181.5" y="31.5" rotation="0" height="5" frame="true" outlineWidth="0" zValue="5" lastValidViewScaleFactor="2.279620853080569" positionLock="false">
+   <FrameColor alpha="0" red="255" blue="255" green="255"/>
+   <BackgroundColor alpha="0" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerArrow>
+ <ComposerLegend symbolWidth="7" title="Legenda" boxSpace="2" titleFont="MS Shell Dlg 2,16,-1,5,50,0,0,0,0,0" groupFont="MS Shell Dlg 2,14,-1,5,50,0,0,0,0,0" layerFont="MS Shell Dlg 2,12,-1,5,50,0,0,0,0,0" symbolSpace="2" symbolHeight="4" layerSpace="3" iconLabelSpace="2" itemFont="MS Shell Dlg 2,12,-1,5,50,0,0,0,0,0">
+  <Model>
+   <LayerItem layerId="Limite_dos_bairros20110727125852110" text="Limite_dos_bairros">
+    <VectorClassificationItem layerId="Limite_dos_bairros20110727125852110" text="">
+     <symbol>
+      <lowervalue></lowervalue>
+      <uppervalue></uppervalue>
+      <label></label>
+      <pointsymbol>hard:circle</pointsymbol>
+      <pointsize>2</pointsize>
+      <pointsizeunits>pixels</pointsizeunits>
+      <outlinecolor red="0" blue="0" green="0"/>
+      <outlinestyle>SolidLine</outlinestyle>
+      <outlinewidth>0.26</outlinewidth>
+      <fillcolor red="1" blue="50" green="144"/>
+      <fillpattern>SolidPattern</fillpattern>
+      <texturepath null="1"></texturepath>
+     </symbol>
+    </VectorClassificationItem>
+   </LayerItem>
+  </Model>
+  <ComposerItem width="48" x="227" y="172" rotation="0" height="23" frame="true" outlineWidth="0.3" zValue="2" lastValidViewScaleFactor="2.279620853080569" positionLock="false">
+   <FrameColor alpha="255" red="0" blue="0" green="0"/>
+   <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerLegend>
+ <Composition printResolution="300" paperWidth="297" snapGridOffsetX="1" snapGridResolution="1" snapGridOffsetY="0" snapping="1" paperHeight="210"/>
+</Composer>

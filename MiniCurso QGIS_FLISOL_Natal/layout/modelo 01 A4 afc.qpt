@@ -1,0 +1,289 @@
+<Composer title="Compositor 2" visible="1">
+ <ComposerPicture pictureWidth="4.04635" file="./SVG_DESENHOS/CONVENÇÕES TANQUE REDE.svg" pictureHeight="3.9167" mapId="-1">
+  <ComposerItem width="4.04635" x="220.177" y="167.926" rotation="0" height="3.9167" frame="true" outlineWidth="0.3" zValue="6" lastValidViewScaleFactor="11.1141" id="" positionLock="false">
+   <FrameColor alpha="255" red="0" blue="0" green="0"/>
+   <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerPicture>
+ <ComposerPicture pictureWidth="4.04635" file="./SVG_DESENHOS/CONVENÇÕES BOIA AMORTECEDORA.svg" pictureHeight="3.9167" mapId="-1">
+  <ComposerItem width="4.04635" x="220.23" y="184.926" rotation="0" height="3.9167" frame="true" outlineWidth="0.3" zValue="15" lastValidViewScaleFactor="11.3154" id="" positionLock="false">
+   <FrameColor alpha="255" red="0" blue="0" green="0"/>
+   <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerPicture>
+ <ComposerPicture pictureWidth="4.04635" file="./SVG_DESENHOS/CONVENÇÕES BALSA DE DESPESCA.svg" pictureHeight="3.9167" mapId="-1">
+  <ComposerItem width="4.04635" x="252.922" y="179.262" rotation="0" height="3.9167" frame="true" outlineWidth="0.3" zValue="18" lastValidViewScaleFactor="11.1141" id="" positionLock="false">
+   <FrameColor alpha="255" red="0" blue="0" green="0"/>
+   <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerPicture>
+ <ComposerLabel valign="32" labelText="nononono" halign="1" margin="1">
+  <LabelFont description="Ubuntu,7,-1,5,50,0,0,0,0,0"/>
+  <FontColor red="0" blue="0" green="0"/>
+  <ComposerItem width="30.2871" x="224.914" y="189.918" rotation="0" height="6.74969" frame="false" outlineWidth="0.3" zValue="8" lastValidViewScaleFactor="5.65772" id="" positionLock="false">
+   <FrameColor alpha="255" red="0" blue="0" green="0"/>
+   <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerLabel>
+ <ComposerLabel valign="32" labelText="nononono" halign="1" margin="1">
+  <LabelFont description="Ubuntu,7,-1,5,50,0,0,0,0,0"/>
+  <FontColor red="0" blue="0" green="0"/>
+  <ComposerItem width="30.2871" x="257.514" y="166.889" rotation="0" height="6.74969" frame="false" outlineWidth="0.3" zValue="12" lastValidViewScaleFactor="5.65772" id="" positionLock="false">
+   <FrameColor alpha="255" red="0" blue="0" green="0"/>
+   <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerLabel>
+ <ComposerLabel valign="32" labelText="Proprietário:&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;Responsável Técnico:&#xa;" halign="1" margin="1">
+  <LabelFont description="Ubuntu,7,-1,5,75,0,0,0,0,0"/>
+  <FontColor red="0" blue="0" green="0"/>
+  <ComposerItem width="70" x="219" y="100.053" rotation="0" height="45.412" frame="true" outlineWidth="0.3" zValue="27" lastValidViewScaleFactor="2.77852" id="" positionLock="false">
+   <FrameColor alpha="255" red="0" blue="0" green="0"/>
+   <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerLabel>
+ <ComposerLabel valign="32" labelText="PROJETO DE descrição&#xa;&#xa;BACIA HIDROGRÁFICA DO RIO nome&#xa;RIO identificação - RESERVATÓRIO identificação&#xa;MUNICÍPIO nome - ESTADO DE nome&#xa;PLANTA GEORREFERENCIADA&#xa;SISTEMA DE COORDENADAS XXXXXX&#xa;DATUM HORIZONTAL XXXX&#xa;MERIDIANO CENTRAL XXº X" halign="4" margin="1">
+  <LabelFont description="Ubuntu,7,-1,5,50,0,0,0,0,0"/>
+  <FontColor red="0" blue="0" green="0"/>
+  <ComposerItem width="70" x="219" y="20" rotation="0" height="31.4662" frame="true" outlineWidth="0.3" zValue="20" lastValidViewScaleFactor="2.82886" id="" positionLock="false">
+   <FrameColor alpha="255" red="0" blue="0" green="0"/>
+   <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerLabel>
+ <ComposerLabel valign="32" labelText="nononono" halign="1" margin="1">
+  <LabelFont description="Ubuntu,7,-1,5,50,0,0,0,0,0"/>
+  <FontColor red="0" blue="0" green="0"/>
+  <ComposerItem width="30.2871" x="224.763" y="184.103" rotation="0" height="6.74969" frame="false" outlineWidth="0.3" zValue="9" lastValidViewScaleFactor="2.82886" id="" positionLock="false">
+   <FrameColor alpha="255" red="0" blue="0" green="0"/>
+   <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerLabel>
+ <ComposerLabel valign="128" labelText="Prancha 04/04 A4" halign="4" margin="1">
+  <LabelFont description="Ubuntu,8,-1,5,25,1,0,0,0,0"/>
+  <FontColor red="0" blue="0" green="0"/>
+  <ComposerItem width="17" x="272" y="10" rotation="0" height="8.9" frame="true" outlineWidth="0.3" zValue="23" lastValidViewScaleFactor="2.82886" id="" positionLock="false">
+   <FrameColor alpha="255" red="0" blue="0" green="0"/>
+   <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerLabel>
+ <ComposerLabel valign="32" labelText="nononono" halign="1" margin="1">
+  <LabelFont description="Ubuntu,7,-1,5,50,0,0,0,0,0"/>
+  <FontColor red="0" blue="0" green="0"/>
+  <ComposerItem width="30.2871" x="257.421" y="178.889" rotation="0" height="6" frame="false" outlineWidth="0.3" zValue="10" lastValidViewScaleFactor="5.65772" id="" positionLock="false">
+   <FrameColor alpha="255" red="0" blue="0" green="0"/>
+   <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerLabel>
+ <ComposerLabel valign="32" labelText="&#xa;&#xa;______________________________&#xa;nomenomenomenome&#xa;CNPJ/CPF&#xa;&#xa;&#xa;&#xa;&#xa;______________________________&#xa;nomenomenomenome&#xa;profissão - identificação&#xa;" halign="4" margin="1">
+  <LabelFont description="Ubuntu,7,-1,5,50,0,0,0,0,0"/>
+  <FontColor red="0" blue="0" green="0"/>
+  <ComposerItem width="67.8719" x="220.23" y="104.236" rotation="0" height="38.2243" frame="false" outlineWidth="0.3" zValue="28" lastValidViewScaleFactor="2.82886" id="" positionLock="false">
+   <FrameColor alpha="255" red="0" blue="0" green="0"/>
+   <BackgroundColor alpha="0" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerLabel>
+ <ComposerLabel valign="128" labelText="Escala 1:XXXX" halign="4" margin="1">
+  <LabelFont description="Ubuntu,7,-1,5,75,0,0,0,0,0"/>
+  <FontColor red="0" blue="0" green="0"/>
+  <ComposerItem width="33.5967" x="255.403" y="154" rotation="0" height="6" frame="true" outlineWidth="0.3" zValue="31" lastValidViewScaleFactor="2.82886" id="" positionLock="false">
+   <FrameColor alpha="255" red="0" blue="0" green="0"/>
+   <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerLabel>
+ <ComposerLabel valign="32" labelText="Convenções:" halign="1" margin="1">
+  <LabelFont description="Ubuntu,7,-1,5,75,1,0,0,0,0"/>
+  <FontColor red="0" blue="0" green="0"/>
+  <ComposerItem width="69.9999" x="219" y="160.697" rotation="0" height="42.3031" frame="true" outlineWidth="0.3" zValue="4" lastValidViewScaleFactor="11.1141" id="" positionLock="false">
+   <FrameColor alpha="255" red="0" blue="0" green="0"/>
+   <BackgroundColor alpha="0" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerLabel>
+ <ComposerLabel valign="32" labelText="nononono" halign="1" margin="1">
+  <LabelFont description="Ubuntu,7,-1,5,50,0,0,0,0,0"/>
+  <FontColor red="0" blue="0" green="0"/>
+  <ComposerItem width="30.2871" x="224.763" y="172.103" rotation="0" height="6.74969" frame="false" outlineWidth="0.3" zValue="13" lastValidViewScaleFactor="2.82886" id="" positionLock="false">
+   <FrameColor alpha="255" red="0" blue="0" green="0"/>
+   <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerLabel>
+ <ComposerLabel valign="32" labelText="nononono" halign="1" margin="1">
+  <LabelFont description="Ubuntu,7,-1,5,50,0,0,0,0,0"/>
+  <FontColor red="0" blue="0" green="0"/>
+  <ComposerItem width="30.2871" x="224.763" y="167.103" rotation="0" height="5.87505" frame="false" outlineWidth="0.3" zValue="11" lastValidViewScaleFactor="2.82886" id="" positionLock="false">
+   <FrameColor alpha="255" red="0" blue="0" green="0"/>
+   <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerLabel>
+ <ComposerLabel valign="32" labelText="DADOS DO PROJETO:&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;" halign="1" margin="1">
+  <LabelFont description="Ubuntu,8,-1,5,75,0,1,0,0,0"/>
+  <FontColor red="0" blue="0" green="0"/>
+  <ComposerItem width="70" x="219" y="53" rotation="0" height="46" frame="true" outlineWidth="0.3" zValue="24" lastValidViewScaleFactor="2.82886" id="" positionLock="false">
+   <FrameColor alpha="255" red="0" blue="0" green="0"/>
+   <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerLabel>
+ <ComposerLabel valign="32" labelText="descrição&#xa;detalhes&#xa;informações&#xa;" halign="1" margin="1">
+  <LabelFont description="Ubuntu,7,-1,5,50,0,0,0,0,0"/>
+  <FontColor red="0" blue="0" green="0"/>
+  <ComposerItem width="69.2814" x="219.181" y="58.0833" rotation="0" height="37.008" frame="false" outlineWidth="0.3" zValue="25" lastValidViewScaleFactor="2.81517" id="" positionLock="false">
+   <FrameColor alpha="255" red="0" blue="0" green="0"/>
+   <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerLabel>
+ <ComposerLabel valign="128" labelText="outras informações" halign="2" margin="1">
+  <LabelFont description="Ubuntu,6,-1,5,50,0,0,0,0,0"/>
+  <FontColor red="0" blue="0" green="0"/>
+  <ComposerItem width="69.8161" x="218.993" y="146.349" rotation="0" height="6.9" frame="true" outlineWidth="0.3" zValue="39" lastValidViewScaleFactor="2.82886" id="" positionLock="false">
+   <FrameColor alpha="255" red="0" blue="0" green="0"/>
+   <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerLabel>
+ <ComposerMap keepLayerSet="false" id="3" previewMode="Cache" drawCanvasItems="true">
+  <Extent ymin="-1.00826" xmin="-1.19723" ymax="1" xmax="1.19723"/>
+  <LayerSet/>
+  <Grid gridStyle="0" crossLength="3" penColorRed="0" penColorBlue="0" intervalX="0" offsetX="0" intervalY="0" offsetY="0" show="0" penWidth="0" penColorGreen="0">
+   <Annotation direction="0" precision="3" position="1" frameDistance="1" show="0" font="Ubuntu,11,-1,5,50,0,0,0,0,0"/>
+  </Grid>
+  <ComposerItem width="62" x="14" y="12" rotation="0" height="52" frame="true" outlineWidth="0.3" zValue="30" lastValidViewScaleFactor="2.81517" id="" positionLock="false">
+   <FrameColor alpha="255" red="0" blue="0" green="0"/>
+   <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerMap>
+ <ComposerMap keepLayerSet="false" id="2" previewMode="Render" drawCanvasItems="true">
+  <Extent ymin="-1.2508" xmin="-1.19723" ymax="1" xmax="1.19723"/>
+  <LayerSet/>
+  <Grid gridStyle="0" crossLength="1" penColorRed="0" penColorBlue="0" intervalX="250" offsetX="0" intervalY="250" offsetY="0" show="1" penWidth="0.1" penColorGreen="0">
+   <Annotation direction="3" precision="2" position="1" frameDistance="1" show="1" font="Ubuntu,8,-1,5,50,0,0,0,0,0"/>
+  </Grid>
+  <ComposerItem width="200" x="14" y="12" rotation="0" height="188" frame="true" outlineWidth="0.3" zValue="2" lastValidViewScaleFactor="2.81517" id="" positionLock="false">
+   <FrameColor alpha="255" red="0" blue="0" green="0"/>
+   <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerMap>
+ <ComposerAttributeTable contentFont="Arial,6,-1,5,50,0,0,0,0,0" gridStrokeWidth="0.5" gridColorGreen="0" composerMap="3" showGrid="1" headerFont="Arial,6,-1,5,50,0,0,0,0,0" gridColorBlue="0" lineTextDist="0.5" gridColorRed="0" showOnlyVisibleFeatures="0">
+  <displayAttributes>
+   <attributeEntry index="0"/>
+   <attributeEntry index="2"/>
+   <attributeEntry index="3"/>
+   <attributeEntry index="4"/>
+   <attributeEntry index="5"/>
+  </displayAttributes>
+  <attributeAliasMap>
+   <aliasEntry key="0" value="Ponto"/>
+   <aliasEntry key="2" value="UTM X"/>
+   <aliasEntry key="3" value="UTM Y"/>
+   <aliasEntry key="4" value="Latitude"/>
+   <aliasEntry key="5" value="Longitude"/>
+  </attributeAliasMap>
+  <sortColumns/>
+  <ComposerItem width="55" x="16.968" y="138.925" rotation="0" height="46" frame="false" outlineWidth="0.3" zValue="39" lastValidViewScaleFactor="2.82886" id="" positionLock="false">
+   <FrameColor alpha="255" red="0" blue="0" green="0"/>
+   <BackgroundColor alpha="182" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerAttributeTable>
+ <ComposerLabel valign="128" labelText="PROJETO nome" halign="4" margin="1">
+  <LabelFont description="Ubuntu,12,-1,5,75,0,0,0,0,0"/>
+  <FontColor red="0" blue="0" green="0"/>
+  <ComposerItem width="52" x="219" y="10" rotation="0" height="9" frame="true" outlineWidth="0.3" zValue="22" lastValidViewScaleFactor="2.82886" id="" positionLock="false">
+   <FrameColor alpha="255" red="0" blue="0" green="0"/>
+   <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerLabel>
+ <ComposerLabel valign="32" labelText="nononono" halign="1" margin="1">
+  <LabelFont description="Ubuntu,7,-1,5,50,0,0,0,0,0"/>
+  <FontColor red="0" blue="0" green="0"/>
+  <ComposerItem width="30.2871" x="257.421" y="184.091" rotation="0" height="6" frame="false" outlineWidth="0.3" zValue="37" lastValidViewScaleFactor="1.41443" id="" positionLock="false">
+   <FrameColor alpha="255" red="0" blue="0" green="0"/>
+   <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerLabel>
+ <ComposerLabel valign="32" labelText="nononono" halign="1" margin="1">
+  <LabelFont description="Ubuntu,7,-1,5,50,0,0,0,0,0"/>
+  <FontColor red="0" blue="0" green="0"/>
+  <ComposerItem width="30.2871" x="224.763" y="178.103" rotation="0" height="6.74969" frame="false" outlineWidth="0.3" zValue="7" lastValidViewScaleFactor="2.82886" id="" positionLock="false">
+   <FrameColor alpha="255" red="0" blue="0" green="0"/>
+   <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerLabel>
+ <ComposerLabel valign="128" labelText="Data: XX de XXX de 20XX" halign="4" margin="1">
+  <LabelFont description="Ubuntu,7,-1,5,75,0,0,0,0,0"/>
+  <FontColor red="0" blue="0" green="0"/>
+  <ComposerItem width="33.5753" x="219" y="154" rotation="0" height="6" frame="true" outlineWidth="0.3" zValue="29" lastValidViewScaleFactor="2.82886" id="" positionLock="false">
+   <FrameColor alpha="255" red="0" blue="0" green="0"/>
+   <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerLabel>
+ <ComposerLabel valign="32" labelText="nononono" halign="1" margin="1">
+  <LabelFont description="Ubuntu,7,-1,5,50,0,0,0,0,0"/>
+  <FontColor red="0" blue="0" green="0"/>
+  <ComposerItem width="30.2871" x="257.514" y="172.889" rotation="0" height="6.74969" frame="false" outlineWidth="0.3" zValue="21" lastValidViewScaleFactor="5.65772" id="" positionLock="false">
+   <FrameColor alpha="255" red="0" blue="0" green="0"/>
+   <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerLabel>
+ <ComposerScaleBar segmentMillimeters="2.58931" numMapUnitsPerScaleBarUnit="1" numSegments="2" height="2" alignment="0" labelBarSpace="1.5" outlineWidth="0.5" numSegmentsLeft="1" style="Double Box" unitLabel="m" font="Ubuntu,7,-1,5,50,0,0,0,0,0" mapId="3" boxContentSpace="1" numUnitsPerSegment="0.1">
+  <BrushColor red="0" blue="0" green="0"/>
+  <ComposerItem width="16.7679" x="18.2235" y="187.755" rotation="0" height="7.9" frame="false" outlineWidth="0.3" zValue="33" lastValidViewScaleFactor="2.81517" id="" positionLock="false">
+   <FrameColor alpha="255" red="0" blue="0" green="0"/>
+   <BackgroundColor alpha="0" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerScaleBar>
+ <ComposerShape shapeType="1" shapeWidth="72" outlineWidth="0.5" transparentFill="1" shapeHeight="195.163">
+  <OutlineColor alpha="255" red="0" blue="0" green="0"/>
+  <FillColor alpha="255" red="0" blue="0" green="0"/>
+  <ComposerItem width="72" x="218" y="8.83749" rotation="0" height="195.163" frame="true" outlineWidth="0" zValue="3" lastValidViewScaleFactor="11.1141" id="" positionLock="false">
+   <FrameColor alpha="0" red="255" blue="255" green="255"/>
+   <BackgroundColor alpha="0" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerShape>
+ <ComposerShape shapeType="1" shapeWidth="281.284" outlineWidth="0.25" transparentFill="1" shapeHeight="197.03">
+  <OutlineColor alpha="255" red="0" blue="0" green="0"/>
+  <FillColor alpha="255" red="0" blue="0" green="0"/>
+  <ComposerItem width="281.284" x="10" y="8" rotation="0" height="197.03" frame="true" outlineWidth="0" zValue="1" lastValidViewScaleFactor="2.82886" id="" positionLock="false">
+   <FrameColor alpha="0" red="255" blue="255" green="255"/>
+   <BackgroundColor alpha="0" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerShape>
+ <ComposerPicture pictureWidth="4.04635" file="./SVG_DESENHOS/CONVENÇÕES ALERTA NOTURNO.svg" pictureHeight="3.9167" mapId="-1">
+  <ComposerItem width="4.04635" x="220.177" y="173.196" rotation="0" height="3.9167" frame="true" outlineWidth="0.3" zValue="14" lastValidViewScaleFactor="2.77852" id="" positionLock="false">
+   <FrameColor alpha="255" red="0" blue="0" green="0"/>
+   <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerPicture>
+ <ComposerPicture pictureWidth="4" file="." pictureHeight="4" mapId="-1">
+  <ComposerItem width="4" x="252.922" y="184.926" rotation="0" height="4" frame="true" outlineWidth="0.3" zValue="36" lastValidViewScaleFactor="2.82886" id="" positionLock="false">
+   <FrameColor alpha="255" red="0" blue="0" green="0"/>
+   <BackgroundColor alpha="255" red="0" blue="255" green="0"/>
+  </ComposerItem>
+ </ComposerPicture>
+ <ComposerPicture pictureWidth="23.331" file="../../Pacotes/esri_north_arrows/esri_north_001l.svg" pictureHeight="23.331" mapId="-1">
+  <ComposerItem width="23.331" x="187.708" y="14.4935" rotation="0" height="23.331" frame="false" outlineWidth="0.3" zValue="5" lastValidViewScaleFactor="2.82886" id="" positionLock="false">
+   <FrameColor alpha="255" red="0" blue="0" green="0"/>
+   <BackgroundColor alpha="0" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerPicture>
+ <ComposerPicture pictureWidth="4.04635" file="./SVG_DESENHOS/CONVENÇÕES BOIA CEGA.svg" pictureHeight="3.9167" mapId="-1">
+  <ComposerItem width="4.04635" x="252.928" y="167.712" rotation="0" height="3.9167" frame="true" outlineWidth="0.3" zValue="17" lastValidViewScaleFactor="11.1141" id="" positionLock="false">
+   <FrameColor alpha="255" red="0" blue="0" green="0"/>
+   <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerPicture>
+ <ComposerPicture pictureWidth="4" file="./SVG_DESENHOS/CONVENÇÕES LIMITE AQUICOLA.svg" pictureHeight="4" mapId="-1">
+  <ComposerItem width="4" x="220.319" y="190.713" rotation="0" height="4" frame="true" outlineWidth="0.3" zValue="35" lastValidViewScaleFactor="2.77852" id="" positionLock="false">
+   <FrameColor alpha="255" red="0" blue="0" green="0"/>
+   <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerPicture>
+ <ComposerPicture pictureWidth="4.04635" file="./SVG_DESENHOS/CONVENÇÕES POITAS.svg" pictureHeight="3.9167" mapId="-1">
+  <ComposerItem width="4.04635" x="220.177" y="178.926" rotation="0" height="3.9167" frame="true" outlineWidth="0.3" zValue="16" lastValidViewScaleFactor="11.1141" id="" positionLock="false">
+   <FrameColor alpha="255" red="0" blue="0" green="0"/>
+   <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerPicture>
+ <ComposerPicture pictureWidth="4.04635" file="./SVG_DESENHOS/CONVENÇÕES CABOS DE POITA.svg" pictureHeight="3.9167" mapId="-1">
+  <ComposerItem width="4.04635" x="252.928" y="173.262" rotation="0" height="3.9167" frame="true" outlineWidth="0.3" zValue="19" lastValidViewScaleFactor="11.1141" id="" positionLock="false">
+   <FrameColor alpha="255" red="0" blue="0" green="0"/>
+   <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerPicture>
+ <Composition printResolution="600" paperWidth="297" snapGridOffsetX="0" snapGridResolution="1" snapGridOffsetY="0" snapping="0" paperHeight="210" printAsRaster="1"/>
+</Composer>

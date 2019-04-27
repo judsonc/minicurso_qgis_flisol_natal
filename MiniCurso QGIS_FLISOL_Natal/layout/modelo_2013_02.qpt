@@ -1,0 +1,378 @@
+<Composer title="edicao" visible="1">
+ <Composition printResolution="600" paperWidth="297" snapGridOffsetX="0" snapGridResolution="1" snapGridOffsetY="0" alignmentSnap="1" snapping="0" numPages="1" paperHeight="210" alignmentSnapTolerance="2" printAsRaster="1">
+  <ComposerLegend symbolWidth="5" title="" boxSpace="1" splitLayer="0" equalColumnWidth="0" symbolHeight="5" wrapChar="" fontColor="#000000" columnSpace="2" columnCount="1">
+   <styles>
+    <style marginBottom="2" name="title" font="MS Shell Dlg 2,10,-1,5,50,0,0,0,0,0"/>
+    <style marginTop="1" name="group" font="MS Shell Dlg 2,10,-1,5,50,0,0,0,0,0"/>
+    <style marginTop="1" name="subgroup" font="MS Shell Dlg 2,10,-1,5,50,0,0,0,0,0"/>
+    <style marginTop="1" name="symbol" font="MS Shell Dlg 2,8.13913,-1,5,50,0,0,0,0,0"/>
+    <style marginTop="1" marginLeft="2" name="symbolLabel" font="MS Shell Dlg 2,9,-1,5,50,0,0,0,0,0"/>
+   </styles>
+   <Model autoUpdate="1">
+    <LayerItem layerId="curvas_50_wgs84_utm22s_Clip20131213143109555" userText="" style="hidden" text="Altimetria 1:50000" showFeatureCount="0">
+     <VectorClassificationItemNg userText="" text="Altimetria 1:50000">
+      <symbols>
+       <symbol alpha="1" type="line" name="classificationSymbol">
+        <layer pass="0" class="SimpleLine" locked="0">
+         <prop k="capstyle" v="square"/>
+         <prop k="color" v="170,255,127,255"/>
+         <prop k="customdash" v="5;2"/>
+         <prop k="customdash_unit" v="MM"/>
+         <prop k="joinstyle" v="bevel"/>
+         <prop k="offset" v="0"/>
+         <prop k="offset_unit" v="MM"/>
+         <prop k="penstyle" v="solid"/>
+         <prop k="use_custom_dash" v="0"/>
+         <prop k="width" v="0.26"/>
+         <prop k="width_unit" v="MM"/>
+        </layer>
+       </symbol>
+      </symbols>
+     </VectorClassificationItemNg>
+    </LayerItem>
+    <LayerItem layerId="DRENAGEM_GRAVATAI_TUANE_lin_utm_sirgas200020131213143037818" userText="" style="hidden" text="Hidrografia 1:50000" showFeatureCount="0">
+     <VectorClassificationItemNg userText="" text="Hidrografia 1:50000">
+      <symbols>
+       <symbol alpha="1" type="line" name="classificationSymbol">
+        <layer pass="0" class="SimpleLine" locked="0">
+         <prop k="capstyle" v="square"/>
+         <prop k="color" v="0,170,255,255"/>
+         <prop k="customdash" v="5;2"/>
+         <prop k="customdash_unit" v="MM"/>
+         <prop k="joinstyle" v="bevel"/>
+         <prop k="offset" v="0"/>
+         <prop k="offset_unit" v="MM"/>
+         <prop k="penstyle" v="solid"/>
+         <prop k="use_custom_dash" v="0"/>
+         <prop k="width" v="0.26"/>
+         <prop k="width_unit" v="MM"/>
+        </layer>
+       </symbol>
+      </symbols>
+     </VectorClassificationItemNg>
+    </LayerItem>
+    <LayerItem layerId="MNDWI_frequencia_utm_sirgas_2000_final_dissolve20131213142320105" userText="" style="subgroup" text="MNDWI 2012" showFeatureCount="0">
+     <VectorClassificationItemNg userText="" text="08 - 11 inundações">
+      <symbols>
+       <symbol alpha="1" type="fill" name="classificationSymbol">
+        <layer pass="0" class="SimpleFill" locked="0">
+         <prop k="border_width_unit" v="MM"/>
+         <prop k="color" v="252,141,89,255"/>
+         <prop k="color_border" v="0,0,0,255"/>
+         <prop k="offset" v="0,0"/>
+         <prop k="offset_unit" v="MM"/>
+         <prop k="style" v="solid"/>
+         <prop k="style_border" v="no"/>
+         <prop k="width_border" v="0.26"/>
+        </layer>
+       </symbol>
+      </symbols>
+     </VectorClassificationItemNg>
+     <VectorClassificationItemNg userText="" text="04 - 07 inundações">
+      <symbols>
+       <symbol alpha="1" type="fill" name="classificationSymbol">
+        <layer pass="0" class="SimpleFill" locked="0">
+         <prop k="border_width_unit" v="MM"/>
+         <prop k="color" v="255,255,191,255"/>
+         <prop k="color_border" v="0,0,0,255"/>
+         <prop k="offset" v="0,0"/>
+         <prop k="offset_unit" v="MM"/>
+         <prop k="style" v="solid"/>
+         <prop k="style_border" v="no"/>
+         <prop k="width_border" v="0.26"/>
+        </layer>
+       </symbol>
+      </symbols>
+     </VectorClassificationItemNg>
+     <VectorClassificationItemNg userText="" text="01 - 03 inundações">
+      <symbols>
+       <symbol alpha="1" type="fill" name="classificationSymbol">
+        <layer pass="0" class="SimpleFill" locked="0">
+         <prop k="border_width_unit" v="MM"/>
+         <prop k="color" v="153,213,148,255"/>
+         <prop k="color_border" v="0,0,0,255"/>
+         <prop k="offset" v="0,0"/>
+         <prop k="offset_unit" v="MM"/>
+         <prop k="style" v="solid"/>
+         <prop k="style_border" v="no"/>
+         <prop k="width_border" v="0.26"/>
+        </layer>
+       </symbol>
+      </symbols>
+     </VectorClassificationItemNg>
+    </LayerItem>
+    <LayerItem layerId="OpenLayers_plugin_layer20131213145031399" userText="" style="hidden" text="Google Hybrid" showFeatureCount="0"/>
+   </Model>
+   <ComposerItem width="36.9" x="237.083" transparency="0" y="134.925" rotation="0" height="41" positionMode="0" frame="false" outlineWidth="0.3" zValue="37" lastValidViewScaleFactor="3.06376" uuid="{1b0e791e-2c13-4a3d-82af-7c67023bafb7}" id="" background="false" blendMode="0" positionLock="false">
+    <FrameColor alpha="255" red="0" blue="0" green="0"/>
+    <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+   </ComposerItem>
+  </ComposerLegend>
+  <ComposerLabel valign="32" labelText="Modified Normalized Difference Water Index (MNDWI)" htmlState="0" halign="1" margin="1">
+   <LabelFont description="MS Shell Dlg 2,8,-1,5,50,0,0,0,0,0"/>
+   <FontColor red="0" blue="0" green="0"/>
+   <ComposerItem width="70" x="219.683" transparency="0" y="178.762" rotation="0" height="8" positionMode="0" frame="false" outlineWidth="0.3" zValue="29" lastValidViewScaleFactor="3.06376" uuid="{743b4c94-e4c3-4caf-a0a3-5f95d29b90c0}" id="" background="false" blendMode="0" positionLock="false">
+    <FrameColor alpha="255" red="0" blue="0" green="0"/>
+    <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+   </ComposerItem>
+  </ComposerLabel>
+  <ComposerLabel valign="32" labelText="N" htmlState="0" halign="1" margin="0">
+   <LabelFont description="Arial,10,-1,5,75,0,0,0,0,0"/>
+   <FontColor red="0" blue="0" green="0"/>
+   <ComposerItem width="2.78505" x="248.03" transparency="0" y="115.967" rotation="0" height="3.65888" positionMode="0" frame="false" outlineWidth="0" zValue="29" lastValidViewScaleFactor="3.06376" uuid="{f1613913-18b1-4800-a7de-0ea0c1b2fd6d}" id="" background="false" blendMode="0" positionLock="false">
+    <FrameColor alpha="255" red="0" blue="0" green="0"/>
+    <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+   </ComposerItem>
+  </ComposerLabel>
+  <ComposerPicture pictureWidth="24.2684" file="D:/USER/LTIG/LOGOS/LTIG2.bmp" pictureHeight="13.8421" mapId="-1">
+   <ComposerItem width="24.2684" x="227.034" transparency="0" y="188.128" rotation="0" height="13.8421" positionMode="0" frame="false" outlineWidth="0.3" zValue="28" lastValidViewScaleFactor="3.06376" uuid="{c495d6d2-b408-45eb-a4d2-fb40100d8199}" id="" background="false" blendMode="0" positionLock="false">
+    <FrameColor alpha="255" red="0" blue="0" green="0"/>
+    <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+   </ComposerItem>
+  </ComposerPicture>
+  <ComposerArrow startMarkerFile="" arrowHeadWidth="2" endMarkerFile="" outlineWidth="0.5" markerMode="0">
+   <ArrowColor alpha="255" red="0" blue="0" green="0"/>
+   <StartPoint x="249.219" y="125.52"/>
+   <StopPoint x="249.219" y="121.255"/>
+   <ComposerItem width="2.5" x="247.969" transparency="0" y="120.005" rotation="0" height="6.765" positionMode="0" frame="true" outlineWidth="0" zValue="28" lastValidViewScaleFactor="3.06376" uuid="{fbbb22e7-1732-4747-87a7-aef2546b81b1}" id="" background="false" blendMode="0" positionLock="false">
+    <FrameColor alpha="0" red="255" blue="255" green="255"/>
+    <BackgroundColor alpha="0" red="255" blue="255" green="255"/>
+   </ComposerItem>
+  </ComposerArrow>
+  <ComposerPicture pictureWidth="11.8852" file="D:/USER/LTIG/LOGOS/FIUC_2013/logotipo fiu_2.png" pictureHeight="16.4165" mapId="-1">
+   <ComposerItem width="11.8852" x="268.683" transparency="0" y="185.554" rotation="0" height="16.4165" positionMode="0" frame="false" outlineWidth="0.3" zValue="26" lastValidViewScaleFactor="3.06376" uuid="{829e39fb-290d-4348-8566-6e089e90e8ee}" id="" background="false" blendMode="0" positionLock="false">
+    <FrameColor alpha="255" red="0" blue="0" green="0"/>
+    <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+   </ComposerItem>
+  </ComposerPicture>
+  <ComposerPicture pictureWidth="16.5662" file="../LOGOS/PUCRS2.jpg" pictureHeight="16.4165" mapId="-1">
+   <ComposerItem width="16.5662" x="270.498" transparency="0" y="185.554" rotation="0" height="16.4165" positionMode="0" frame="false" outlineWidth="0.3" zValue="26" lastValidViewScaleFactor="5.74497" uuid="{14936d46-a053-40b4-8be1-a701079c4e36}" id="" background="false" blendMode="0" positionLock="false">
+    <FrameColor alpha="255" red="0" blue="0" green="0"/>
+    <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+   </ComposerItem>
+  </ComposerPicture>
+  <ComposerScaleBar penColor="#000000" style="Single Box" numMapUnitsPerScaleBarUnit="1000" alignment="0" brushColor="#000000" numSegments="2" segmentMillimeters="7.73318" fontColor="#000000" font="MS Shell Dlg 2,10,-1,5,50,0,0,0,0,0" numUnitsPerSegment="2000" units="0" labelBarSpace="1.5" outlineWidth="0.5" numSegmentsLeft="0" height="2" mapId="1" boxContentSpace="0.5" unitLabel="km">
+   <ComposerItem width="25.0664" x="221.083" transparency="0" y="116.796" rotation="0" height="8" positionMode="0" frame="false" outlineWidth="0.3" zValue="25" lastValidViewScaleFactor="3.06376" uuid="{63479df5-6302-4da3-adb8-842beb3ff35a}" id="" background="false" blendMode="0" positionLock="false">
+    <FrameColor alpha="255" red="0" blue="0" green="0"/>
+    <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+   </ComposerItem>
+  </ComposerScaleBar>
+  <ComposerPicture pictureWidth="29.219" file="../LOGOS/LTIG_0.jpg" pictureHeight="12.6445" mapId="-1">
+   <ComposerItem width="29.219" x="222.083" transparency="0" y="187.788" rotation="0" height="12.6445" positionMode="0" frame="false" outlineWidth="0.3" zValue="25" lastValidViewScaleFactor="5.74497" uuid="{b5dabcb3-880d-4ef6-b242-5796fcccad1e}" id="" background="false" blendMode="0" positionLock="false">
+    <FrameColor alpha="255" red="0" blue="0" green="0"/>
+    <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+   </ComposerItem>
+  </ComposerPicture>
+  <ComposerMap keepLayerSet="true" overviewFrameMap="-1" id="1" previewMode="Cache" drawCanvasItems="true">
+   <overviewFrame overviewBlendMode="0" overviewFrameMap="-1" overviewInverted="false">
+    <symbol alpha="0.3" type="fill" name="">
+     <layer pass="0" class="SimpleFill" locked="0">
+      <prop k="border_width_unit" v="MM"/>
+      <prop k="color" v="255,0,0,255"/>
+      <prop k="color_border" v="0,0,0,255"/>
+      <prop k="offset" v="0,0"/>
+      <prop k="offset_unit" v="MM"/>
+      <prop k="style" v="solid"/>
+      <prop k="style_border" v="no"/>
+      <prop k="width_border" v="0.26"/>
+     </layer>
+    </symbol>
+   </overviewFrame>
+   <Extent ymin="-3.50602e+06" xmin="-5.69789e+06" ymax="-3.4888e+06" xmax="-5.68089e+06"/>
+   <LayerSet>
+    <Layer>curvas_50_wgs84_utm22s_Clip20131213143109555</Layer>
+    <Layer>DRENAGEM_GRAVATAI_TUANE_lin_utm_sirgas200020131213143037818</Layer>
+    <Layer>OpenLayers_plugin_layer20131213145031399</Layer>
+   </LayerSet>
+   <Grid gridStyle="0" crossLength="3" intervalX="0" offsetX="0" intervalY="0" offsetY="0" gridFrameStyle="0" gridFrameWidth="2" gridBlendMode="0" show="0">
+    <symbol alpha="1" type="line" name="">
+     <layer pass="0" class="SimpleLine" locked="0">
+      <prop k="capstyle" v="flat"/>
+      <prop k="color" v="0,0,0,255"/>
+      <prop k="customdash" v="5;2"/>
+      <prop k="customdash_unit" v="MM"/>
+      <prop k="joinstyle" v="bevel"/>
+      <prop k="offset" v="0"/>
+      <prop k="offset_unit" v="MM"/>
+      <prop k="penstyle" v="solid"/>
+      <prop k="use_custom_dash" v="0"/>
+      <prop k="width" v="0.3"/>
+      <prop k="width_unit" v="MM"/>
+     </layer>
+    </symbol>
+    <Annotation rightDirection="0" bottomDirection="0" format="0" topPosition="1" precision="3" leftDirection="0" rightPosition="1" bottomPosition="1" frameDistance="1" show="0" font="MS Shell Dlg 2,8.13913,-1,5,50,0,0,0,0,0" leftPosition="1" topDirection="0">
+     <fontColor red="0" blue="0" green="0"/>
+    </Annotation>
+   </Grid>
+   <ComposerItem width="65.732" x="221.083" transparency="0" y="45.7104" rotation="0" height="66.5985" positionMode="0" frame="false" outlineWidth="0.3" zValue="24" lastValidViewScaleFactor="3.06376" uuid="{1fb4ebbd-6d0c-42e9-b940-081f83e98bd0}" id="" background="true" blendMode="0" positionLock="false">
+    <FrameColor alpha="255" red="0" blue="0" green="0"/>
+    <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+   </ComposerItem>
+  </ComposerMap>
+  <ComposerMap keepLayerSet="false" overviewFrameMap="-1" id="0" previewMode="Cache" drawCanvasItems="true">
+   <overviewFrame overviewBlendMode="0" overviewFrameMap="-1" overviewInverted="false">
+    <symbol alpha="0.3" type="fill" name="">
+     <layer pass="0" class="SimpleFill" locked="0">
+      <prop k="border_width_unit" v="MM"/>
+      <prop k="color" v="255,0,0,255"/>
+      <prop k="color_border" v="0,0,0,255"/>
+      <prop k="offset" v="0,0"/>
+      <prop k="offset_unit" v="MM"/>
+      <prop k="style" v="solid"/>
+      <prop k="style_border" v="no"/>
+      <prop k="width_border" v="0.26"/>
+     </layer>
+    </symbol>
+   </overviewFrame>
+   <Extent ymin="-3.5042e+06" xmin="-5.69082e+06" ymax="-3.49456e+06" xmax="-5.68052e+06"/>
+   <LayerSet/>
+   <Grid gridStyle="0" crossLength="3" intervalX="2000" offsetX="0" intervalY="2000" offsetY="0" gridFrameStyle="0" gridFrameWidth="2" gridBlendMode="0" show="1">
+    <symbol alpha="1" type="line" name="">
+     <layer pass="0" class="SimpleLine" locked="0">
+      <prop k="capstyle" v="flat"/>
+      <prop k="color" v="170,170,127,255"/>
+      <prop k="customdash" v="5;2"/>
+      <prop k="customdash_unit" v="MM"/>
+      <prop k="joinstyle" v="bevel"/>
+      <prop k="offset" v="0"/>
+      <prop k="offset_unit" v="MM"/>
+      <prop k="penstyle" v="solid"/>
+      <prop k="use_custom_dash" v="0"/>
+      <prop k="width" v="0.3"/>
+      <prop k="width_unit" v="MM"/>
+     </layer>
+    </symbol>
+    <Annotation rightDirection="0" bottomDirection="0" format="0" topPosition="0" precision="3" leftDirection="0" rightPosition="0" bottomPosition="0" frameDistance="1" show="1" font="MS Shell Dlg 2,8.13913,-1,5,50,0,0,0,0,0" leftPosition="0" topDirection="0">
+     <fontColor red="255" blue="255" green="255"/>
+    </Annotation>
+   </Grid>
+   <ComposerItem width="206.276" x="10" transparency="0" y="10" rotation="0" height="193.016" positionMode="0" frame="false" outlineWidth="0.3" zValue="24" lastValidViewScaleFactor="3.06376" uuid="{7b17338d-6fe6-4057-8b07-74683a3dea05}" id="" background="false" blendMode="0" positionLock="false">
+    <FrameColor alpha="255" red="0" blue="0" green="0"/>
+    <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+   </ComposerItem>
+  </ComposerMap>
+  <ComposerPicture pictureWidth="30" file="." pictureHeight="30" mapId="-1">
+   <ComposerItem width="30" x="41.0592" transparency="0" y="40.4177" rotation="0" height="30" positionMode="0" frame="false" outlineWidth="0.3" zValue="23" lastValidViewScaleFactor="3.11745" uuid="{cdc4e181-9b42-4c73-bd5b-f13cfa2efade}" id="" background="true" blendMode="0" positionLock="false">
+    <FrameColor alpha="255" red="0" blue="0" green="0"/>
+    <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+   </ComposerItem>
+  </ComposerPicture>
+  <ComposerAttributeTable contentFont="Arial,6,-1,5,50,0,0,0,0,0" gridStrokeWidth="0.5" gridColorGreen="0" maxFeatures="12" composerMap="8" showGrid="1" headerFont="Arial,6,-1,5,50,0,0,0,0,0" gridColorBlue="0" lineTextDist="0.5" gridColorRed="0" showOnlyVisibleFeatures="0">
+   <displayAttributes>
+    <attributeEntry index="0"/>
+    <attributeEntry index="2"/>
+    <attributeEntry index="3"/>
+    <attributeEntry index="4"/>
+    <attributeEntry index="5"/>
+   </displayAttributes>
+   <attributeAliasMap>
+    <aliasEntry key="0" value="Ponto"/>
+    <aliasEntry key="2" value="UTM X"/>
+    <aliasEntry key="3" value="UTM Y"/>
+    <aliasEntry key="4" value="Latitude"/>
+    <aliasEntry key="5" value="Longitude"/>
+   </attributeAliasMap>
+   <sortColumns/>
+   <ComposerItem width="55" x="16.968" transparency="0" y="138.925" rotation="0" height="46" positionMode="0" frame="false" outlineWidth="0.3" zValue="19" lastValidViewScaleFactor="2.82886" uuid="{5a347b42-3dc8-4e65-a649-069f46aa377a}" id="" background="false" blendMode="0" positionLock="false">
+    <FrameColor alpha="255" red="0" blue="0" green="0"/>
+    <BackgroundColor alpha="182" red="255" blue="255" green="255"/>
+   </ComposerItem>
+  </ComposerAttributeTable>
+  <ComposerLabel valign="128" labelText="" htmlState="0" halign="2" margin="1">
+   <LabelFont description="Ubuntu,6,-1,5,50,0,0,0,0,0"/>
+   <FontColor red="0" blue="0" green="0"/>
+   <ComposerItem width="69.7043" x="219.105" transparency="0" y="114.97" rotation="0" height="11.7334" positionMode="0" frame="true" outlineWidth="0.3" zValue="18" lastValidViewScaleFactor="3.06376" uuid="{e50875ec-22cb-4665-be44-10f3a5b145d7}" id="" background="false" blendMode="0" positionLock="false">
+    <FrameColor alpha="255" red="0" blue="0" green="0"/>
+    <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+   </ComposerItem>
+  </ComposerLabel>
+  <ComposerLabel valign="128" labelText="Convenções:" htmlState="0" halign="4" margin="1">
+   <LabelFont description="Ubuntu,7,-1,5,75,0,0,0,0,0"/>
+   <FontColor red="0" blue="0" green="0"/>
+   <ComposerItem width="69.7666" x="219.17" transparency="0" y="127.542" rotation="0" height="6" positionMode="0" frame="true" outlineWidth="0.3" zValue="17" lastValidViewScaleFactor="5.74497" uuid="{26fc05ff-8a90-4d91-8fec-5657b6cb27fc}" id="" background="false" blendMode="0" positionLock="false">
+    <FrameColor alpha="255" red="0" blue="0" green="0"/>
+    <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+   </ComposerItem>
+  </ComposerLabel>
+  <ComposerLabel valign="32" labelText="&#xa;" htmlState="0" halign="1" margin="1">
+   <LabelFont description="Ubuntu,7,-1,5,75,0,0,0,0,0"/>
+   <FontColor red="0" blue="0" green="0"/>
+   <ComposerItem width="69.9261" x="219.192" transparency="0" y="184.77" rotation="0" height="18.2464" positionMode="0" frame="true" outlineWidth="0.3" zValue="15" lastValidViewScaleFactor="3.06376" uuid="{ab507987-0f79-4d3b-99c6-822b775a534d}" id="" background="false" blendMode="0" positionLock="false">
+    <FrameColor alpha="255" red="0" blue="0" green="0"/>
+    <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+   </ComposerItem>
+  </ComposerLabel>
+  <ComposerLabel valign="32" labelText="&#xa;" htmlState="0" halign="1" margin="1">
+   <LabelFont description="Ubuntu,7,-1,5,75,0,0,0,0,0"/>
+   <FontColor red="0" blue="0" green="0"/>
+   <ComposerItem width="69.6695" x="219.105" transparency="0" y="43.1682" rotation="0" height="70.6706" positionMode="0" frame="true" outlineWidth="0.3" zValue="14" lastValidViewScaleFactor="2.28436" uuid="{fdd8d806-d441-4426-a8a5-46c2d0499295}" id="" background="false" blendMode="0" positionLock="false">
+    <FrameColor alpha="255" red="0" blue="0" green="0"/>
+    <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+   </ComposerItem>
+  </ComposerLabel>
+  <ComposerLabel valign="128" labelText="Prancha 01/03 A4" htmlState="0" halign="4" margin="1">
+   <LabelFont description="Ubuntu,8,-1,5,25,1,0,0,0,0"/>
+   <FontColor red="0" blue="0" green="0"/>
+   <ComposerItem width="17" x="272" transparency="0" y="10" rotation="0" height="8.9" positionMode="0" frame="true" outlineWidth="0.3" zValue="11" lastValidViewScaleFactor="3.06376" uuid="{f780e04f-9759-4e30-8914-ae14ae5c3e37}" id="" background="false" blendMode="0" positionLock="false">
+    <FrameColor alpha="255" red="0" blue="0" green="0"/>
+    <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+   </ComposerItem>
+  </ComposerLabel>
+  <ComposerLabel valign="128" labelText="Mapa de Localizaçao" htmlState="0" halign="4" margin="1">
+   <LabelFont description="MS Shell Dlg 2,8,-1,5,50,0,0,0,0,0"/>
+   <FontColor red="0" blue="0" green="0"/>
+   <ComposerItem width="51.9822" x="219.018" transparency="0" y="10" rotation="0" height="9" positionMode="0" frame="true" outlineWidth="0.3" zValue="10" lastValidViewScaleFactor="2.92617" uuid="{12436a48-64a2-4594-aaaa-1921c6b5bb52}" id="" background="false" blendMode="0" positionLock="false">
+    <FrameColor alpha="255" red="0" blue="0" green="0"/>
+    <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+   </ComposerItem>
+  </ComposerLabel>
+  <ComposerLabel valign="32" labelText="&#xa;MAPEAMENTO DE ÁREAS COM PERIGO DE INUNDAÇÕES DA BACIA HIDROGRÁFICA DO RIO GRAVATAÍ COM USO DE SISTEMAS DE INFORMAÇÕES GEOGRÁFICAS (SIG)&#xa;&#xa;Bacia hidrográfica do rio Gravataí - MNDWI (1984/2011)&#xa;&#xa;" htmlState="0" halign="4" margin="1">
+   <LabelFont description="Ubuntu,7,-1,5,50,0,0,0,0,0"/>
+   <FontColor red="0" blue="0" green="0"/>
+   <ComposerItem width="69.9387" x="219.061" transparency="0" y="20" rotation="0" height="22.4161" positionMode="0" frame="true" outlineWidth="0.3" zValue="9" lastValidViewScaleFactor="3.06376" uuid="{d38d0955-4a1f-4d95-bc89-5b16a357b656}" id="" background="false" blendMode="0" positionLock="false">
+    <FrameColor alpha="255" red="0" blue="0" green="0"/>
+    <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+   </ComposerItem>
+  </ComposerLabel>
+  <ComposerLabel valign="32" labelText="Desenvolvido pela equipe do LTIG.&#xa;Data: 13 de Dezembro de 2013" htmlState="0" halign="1" margin="0">
+   <LabelFont description="MS Shell Dlg 2,6,-1,5,50,1,0,0,0,0"/>
+   <FontColor red="0" blue="0" green="0"/>
+   <ComposerItem width="35" x="253.815" transparency="0" y="120.005" rotation="0" height="63.549" positionMode="0" frame="false" outlineWidth="0" zValue="6" lastValidViewScaleFactor="3.06376" uuid="{e20862a6-3ac1-406d-a7f4-0e05059ac929}" id="" background="false" blendMode="0" positionLock="false">
+    <FrameColor alpha="255" red="0" blue="0" green="0"/>
+    <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+   </ComposerItem>
+  </ComposerLabel>
+  <ComposerPicture pictureWidth="23.331" file="../PRODUCAO/2012/20121017_FABIO_THAIANE_ZOOLOGIA/Pacotes/esri_north_arrows/esri_north_001l.svg" pictureHeight="23.331" mapId="-1">
+   <ComposerItem width="23.331" x="187.708" transparency="0" y="14.4935" rotation="0" height="23.331" positionMode="0" frame="false" outlineWidth="0.3" zValue="5" lastValidViewScaleFactor="2.75839" uuid="{12d4ccf2-e68f-46bc-921f-a0ea3bffd473}" id="" background="false" blendMode="0" positionLock="false">
+    <FrameColor alpha="255" red="0" blue="0" green="0"/>
+    <BackgroundColor alpha="0" red="255" blue="255" green="255"/>
+   </ComposerItem>
+  </ComposerPicture>
+  <ComposerLabel valign="32" labelText="" htmlState="0" halign="1" margin="1">
+   <LabelFont description="Ubuntu,7,-1,5,75,1,0,0,0,0"/>
+   <FontColor red="0" blue="0" green="0"/>
+   <ComposerItem width="69.7863" x="219.169" transparency="0" y="134.379" rotation="0" height="49.787" positionMode="0" frame="true" outlineWidth="0.3" zValue="4" lastValidViewScaleFactor="3.06376" uuid="{3ad5dac9-acb2-4951-9972-18ea31ad47db}" id="" background="false" blendMode="0" positionLock="false">
+    <FrameColor alpha="255" red="0" blue="0" green="0"/>
+    <BackgroundColor alpha="0" red="255" blue="255" green="255"/>
+   </ComposerItem>
+  </ComposerLabel>
+  <ComposerShape shapeType="1">
+   <ComposerItem width="72" x="218" transparency="0" y="8.83749" rotation="0" height="195.163" positionMode="0" frame="true" outlineWidth="0" zValue="3" lastValidViewScaleFactor="5.74497" uuid="{c6407981-496c-42a9-a98d-2acdaeda4d24}" id="" background="false" blendMode="0" positionLock="false">
+    <FrameColor alpha="0" red="255" blue="255" green="255"/>
+    <BackgroundColor alpha="0" red="255" blue="255" green="255"/>
+   </ComposerItem>
+  </ComposerShape>
+  <ComposerShape shapeType="1">
+   <ComposerItem width="205.4" x="10.8759" transparency="0" y="9.0514" rotation="0" height="194.781" positionMode="0" frame="true" outlineWidth="0" zValue="2" lastValidViewScaleFactor="2.29858" uuid="{d18c9d60-d01a-448a-a48b-ef8ef2ffeb6b}" id="" background="false" blendMode="0" positionLock="false">
+    <FrameColor alpha="0" red="255" blue="255" green="255"/>
+    <BackgroundColor alpha="0" red="255" blue="255" green="255"/>
+   </ComposerItem>
+  </ComposerShape>
+  <ComposerShape shapeType="1">
+   <ComposerItem width="281.284" x="10" transparency="0" y="8" rotation="0" height="197.03" positionMode="0" frame="true" outlineWidth="0" zValue="1" lastValidViewScaleFactor="3.06376" uuid="{5d9e5e59-88c8-42ef-83ff-c2c3d2ddf017}" id="" background="false" blendMode="0" positionLock="false">
+    <FrameColor alpha="0" red="255" blue="255" green="255"/>
+    <BackgroundColor alpha="0" red="255" blue="255" green="255"/>
+   </ComposerItem>
+  </ComposerShape>
+ </Composition>
+</Composer>

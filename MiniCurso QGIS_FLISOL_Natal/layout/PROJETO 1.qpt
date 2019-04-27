@@ -1,0 +1,316 @@
+<Composer title="Compositor 2" visible="1">
+ <ComposerArrow startMarkerFile="" arrowHeadWidth="4" endMarkerFile="" outlineWidth="0" markerMode="1">
+  <ArrowColor alpha="255" red="0" blue="0" green="0"/>
+  <StartPoint x="284.093" y="165.796"/>
+  <StopPoint x="288.247" y="137.261"/>
+  <ComposerItem width="4.154" x="284.093" y="137.261" rotation="0" height="28.535" frame="true" outlineWidth="0" zValue="47" lastValidViewScaleFactor="5.53691" id="" positionLock="false">
+   <FrameColor alpha="0" red="255" blue="255" green="255"/>
+   <BackgroundColor alpha="0" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerArrow>
+ <ComposerArrow startMarkerFile="" arrowHeadWidth="1" endMarkerFile="" outlineWidth="0" markerMode="1">
+  <ArrowColor alpha="255" red="0" blue="0" green="0"/>
+  <StartPoint x="284.455" y="171.756"/>
+  <StopPoint x="288.608" y="137.08"/>
+  <ComposerItem width="4.153" x="284.455" y="137.08" rotation="0" height="34.676" frame="true" outlineWidth="0" zValue="45" lastValidViewScaleFactor="5.53691" id="" positionLock="false">
+   <FrameColor alpha="0" red="255" blue="255" green="255"/>
+   <BackgroundColor alpha="0" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerArrow>
+ <ComposerArrow startMarkerFile="" arrowHeadWidth="4" endMarkerFile="" outlineWidth="0" markerMode="1">
+  <ArrowColor alpha="255" red="0" blue="0" green="0"/>
+  <StartPoint x="276.869" y="165.977"/>
+  <StopPoint x="262.601" y="137.441"/>
+  <ComposerItem width="14.268" x="262.601" y="137.441" rotation="0" height="28.536" frame="true" outlineWidth="0" zValue="46" lastValidViewScaleFactor="5.53691" id="" positionLock="false">
+   <FrameColor alpha="0" red="255" blue="255" green="255"/>
+   <BackgroundColor alpha="0" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerArrow>
+ <ComposerArrow startMarkerFile="" arrowHeadWidth="2" endMarkerFile="" outlineWidth="0" markerMode="1">
+  <ArrowColor alpha="255" red="0" blue="0" green="0"/>
+  <StartPoint x="276.508" y="171.937"/>
+  <StopPoint x="252.487" y="137.261"/>
+  <ComposerItem width="24.021" x="252.487" y="137.261" rotation="0" height="34.676" frame="true" outlineWidth="0" zValue="43" lastValidViewScaleFactor="5.53691" id="" positionLock="false">
+   <FrameColor alpha="0" red="255" blue="255" green="255"/>
+   <BackgroundColor alpha="0" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerArrow>
+ <ComposerPicture pictureWidth="20" file="C:/PROGRA~1/QUANTU~2/apps/qgis/./svg/north_arrows/NorthArrow1.svg" pictureHeight="20" mapId="-1">
+  <ComposerItem width="20" x="11.6213" y="17.0688" rotation="0" height="20" frame="false" outlineWidth="0.3" zValue="14" lastValidViewScaleFactor="2.75355" id="" positionLock="false">
+   <FrameColor alpha="255" red="0" blue="0" green="0"/>
+   <BackgroundColor alpha="0" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerPicture>
+ <ComposerLegend symbolWidth="12" title="" boxSpace="2" titleFont="MS Shell Dlg 2,16,-1,5,50,0,0,0,0,0" map="6" groupFont="MS Shell Dlg 2,14,-1,5,50,0,0,0,0,0" layerFont="MS Shell Dlg 2,10,-1,5,50,0,0,0,0,0" groupSpace="1" symbolSpace="0" symbolHeight="3" layerSpace="1" iconLabelSpace="2" wrapChar="" itemFont="MS Shell Dlg 2,12,-1,5,50,0,0,0,0,0">
+  <Model autoUpdate="1">
+   <LayerItem layerId="HIntegrada120130410191254064" text="Rios">
+    <VectorClassificationItemNg text="">
+     <symbols>
+      <symbol outputUnit="MM" alpha="1" type="line" name="classificationSymbol">
+       <layer pass="0" class="SimpleLine" locked="0">
+        <prop k="capstyle" v="square"/>
+        <prop k="color" v="0,0,255,255"/>
+        <prop k="customdash" v="5;2"/>
+        <prop k="joinstyle" v="bevel"/>
+        <prop k="offset" v="0"/>
+        <prop k="penstyle" v="dash dot"/>
+        <prop k="use_custom_dash" v="0"/>
+        <prop k="width" v="1"/>
+       </layer>
+      </symbol>
+     </symbols>
+    </VectorClassificationItemNg>
+   </LayerItem>
+  </Model>
+  <ComposerItem width="18" x="227.575" y="49.4352" rotation="0" height="12.8" frame="false" outlineWidth="0.3" zValue="35" lastValidViewScaleFactor="1.89597" id="" positionLock="false">
+   <FrameColor alpha="255" red="0" blue="0" green="0"/>
+   <BackgroundColor alpha="0" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerLegend>
+ <ComposerMap keepLayerSet="true" id="6" previewMode="Cache" drawCanvasItems="true">
+  <Extent ymin="-676316" xmin="-3.95556e+06" ymax="-630564" xmax="-3.9117e+06"/>
+  <LayerSet>
+   <Layer>RMN_RN20130410225432911</Layer>
+  </LayerSet>
+  <Grid gridStyle="0" crossLength="3" penColorRed="0" penColorBlue="0" intervalX="0" offsetX="0" intervalY="0" offsetY="0" show="0" penWidth="0" penColorGreen="0">
+   <Annotation direction="0" precision="3" position="1" frameDistance="1" show="0" font="MS Shell Dlg 2,8.25,-1,5,50,0,0,0,0,0"/>
+  </Grid>
+  <ComposerItem width="63.0925" x="226.78" y="79.6303" rotation="0" height="65.8145" frame="true" outlineWidth="0" zValue="41" lastValidViewScaleFactor="2.82215" id="" positionLock="false">
+   <FrameColor alpha="255" red="0" blue="0" green="0"/>
+   <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerMap>
+ <ComposerMap keepLayerSet="true" id="5" previewMode="Cache" drawCanvasItems="true">
+  <Extent ymin="-799669" xmin="-4.29084e+06" ymax="-521721" xmax="-3.88134e+06"/>
+  <LayerSet>
+   <Layer>RN_WGS8420130411161105427</Layer>
+  </LayerSet>
+  <Grid gridStyle="0" crossLength="3" penColorRed="0" penColorBlue="0" intervalX="0" offsetX="0" intervalY="0" offsetY="0" show="0" penWidth="0" penColorGreen="0">
+   <Annotation direction="0" precision="3" position="1" frameDistance="1" show="0" font="MS Shell Dlg 2,8.25,-1,5,50,0,0,0,0,0"/>
+  </Grid>
+  <ComposerItem width="63.5598" x="226.423" y="145.446" rotation="0" height="43.1412" frame="true" outlineWidth="0" zValue="23" lastValidViewScaleFactor="2.82215" id="" positionLock="false">
+   <FrameColor alpha="255" red="0" blue="0" green="0"/>
+   <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerMap>
+ <ComposerMap keepLayerSet="true" id="4" previewMode="Cache" drawCanvasItems="true">
+  <Extent ymin="-684693" xmin="-3.94734e+06" ymax="-649605" xmax="-3.90828e+06"/>
+  <LayerSet>
+   <Layer>Bacia_do_Potengi20130410230636096</Layer>
+   <Layer>Drenagem_simplificada20130410193238942</Layer>
+   <Layer>RN_WGS8420130410191812870</Layer>
+   <Layer>Lagoas_simplificada20130410193238989</Layer>
+   <Layer>Açudes_simplificado20130410193238864</Layer>
+   <Layer>Teste_120130411154319460</Layer>
+  </LayerSet>
+  <Grid gridStyle="1" crossLength="1" penColorRed="0" penColorBlue="0" intervalX="6000" offsetX="0" intervalY="6000" offsetY="0" show="1" penWidth="0" penColorGreen="0">
+   <Annotation direction="3" precision="0" position="1" frameDistance="1" show="1" font="MS Shell Dlg 2,8.25,-1,5,50,0,0,0,0,0"/>
+  </Grid>
+  <ComposerItem width="217.219" x="5.66112" y="8.25922" rotation="0" height="195.132" frame="true" outlineWidth="0.3" zValue="22" lastValidViewScaleFactor="2.82215" id="" positionLock="false">
+   <FrameColor alpha="255" red="0" blue="0" green="0"/>
+   <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerMap>
+ <ComposerLabel valign="32" labelText="Mapa Geral da Bacia Hidrográfica do Pirangi&#xa;" halign="4" margin="1">
+  <LabelFont description="MS Shell Dlg 2,10,-1,5,75,0,0,0,0,0"/>
+  <FontColor red="0" blue="0" green="0"/>
+  <ComposerItem width="58.8776" x="228.647" y="9.06505" rotation="0" height="11.25" frame="true" outlineWidth="0" zValue="25" lastValidViewScaleFactor="5.6443" id="" positionLock="false">
+   <FrameColor alpha="255" red="0" blue="0" green="0"/>
+   <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerLabel>
+ <ComposerLabel valign="128" labelText="Datum&#xa;WGS84" halign="4" margin="0">
+  <LabelFont description="MS Shell Dlg 2,10,-1,5,50,0,0,0,0,0"/>
+  <FontColor red="0" blue="0" green="0"/>
+  <ComposerItem width="29.3246" x="226.415" y="188.508" rotation="0" height="8.95814" frame="true" outlineWidth="0" zValue="6" lastValidViewScaleFactor="2.76846" id="" positionLock="false">
+   <FrameColor alpha="255" red="0" blue="0" green="0"/>
+   <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerLabel>
+ <ComposerLabel valign="128" labelText="Projeção&#xa;UTM" halign="4" margin="0">
+  <LabelFont description="MS Shell Dlg 2,10,-1,5,50,0,0,0,0,0"/>
+  <FontColor red="0" blue="0" green="0"/>
+  <ComposerItem width="34.2171" x="255.766" y="188.535" rotation="0" height="9.06537" frame="true" outlineWidth="0" zValue="7" lastValidViewScaleFactor="5.53691" id="" positionLock="false">
+   <FrameColor alpha="255" red="0" blue="0" green="0"/>
+   <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerLabel>
+ <ComposerLabel valign="128" labelText="Fonte: IBGE, 2000, ANA (Otto Bacias), 2009 " halign="4" margin="1">
+  <LabelFont description="MS Shell Dlg 2,8,-1,5,50,0,0,0,0,0"/>
+  <FontColor red="0" blue="0" green="0"/>
+  <ComposerItem width="63.5392" x="226.444" y="197.041" rotation="0" height="7.16571" frame="true" outlineWidth="0" zValue="9" lastValidViewScaleFactor="5.53691" id="" positionLock="false">
+   <FrameColor alpha="255" red="0" blue="0" green="0"/>
+   <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerLabel>
+ <ComposerScaleBar segmentMillimeters="28.7699" numMapUnitsPerScaleBarUnit="4" numSegments="2" height="5" alignment="0" labelBarSpace="3" outlineWidth="1" numSegmentsLeft="0" style="Double Box" unitLabel="Metros" font="MS Shell Dlg 2,12,-1,5,50,0,0,0,0,0" mapId="6" boxContentSpace="1" numUnitsPerSegment="20000">
+  <BrushColor red="0" blue="0" green="0"/>
+  <ComposerItem width="82.0399" x="17.9134" y="189.045" rotation="0" height="14.2" frame="false" outlineWidth="0.3" zValue="22" lastValidViewScaleFactor="3.03318" id="" positionLock="false">
+   <FrameColor alpha="255" red="0" blue="0" green="0"/>
+   <BackgroundColor alpha="0" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerScaleBar>
+ <ComposerShape shapeType="1" shapeWidth="36.8436" outlineWidth="1" transparentFill="1" shapeHeight="32.5091">
+  <OutlineColor alpha="255" red="255" blue="0" green="0"/>
+  <FillColor alpha="255" red="0" blue="0" green="0"/>
+  <ComposerItem width="36.8436" x="252.126" y="105.835" rotation="0" height="32.5091" frame="true" outlineWidth="0" zValue="42" lastValidViewScaleFactor="2.76846" id="" positionLock="false">
+   <FrameColor alpha="0" red="255" blue="255" green="255"/>
+   <BackgroundColor alpha="0" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerShape>
+ <ComposerShape shapeType="1" shapeWidth="63.585" outlineWidth="0" transparentFill="1" shapeHeight="196.085">
+  <OutlineColor alpha="255" red="0" blue="0" green="0"/>
+  <FillColor alpha="255" red="0" blue="0" green="0"/>
+  <ComposerItem width="63.585" x="226.415" y="8.07763" rotation="0" height="196.085" frame="true" outlineWidth="0" zValue="1" lastValidViewScaleFactor="2.76846" id="" positionLock="false">
+   <FrameColor alpha="0" red="255" blue="255" green="255"/>
+   <BackgroundColor alpha="0" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerShape>
+ <ComposerShape shapeType="1" shapeWidth="8.30788" outlineWidth="0.5" transparentFill="1" shapeHeight="6.32121">
+  <OutlineColor alpha="255" red="255" blue="0" green="0"/>
+  <FillColor alpha="255" red="0" blue="0" green="0"/>
+  <ComposerItem width="8.30788" x="276.327" y="165.796" rotation="0" height="6.32121" frame="true" outlineWidth="0" zValue="38" lastValidViewScaleFactor="2.76846" id="" positionLock="false">
+   <FrameColor alpha="0" red="255" blue="255" green="255"/>
+   <BackgroundColor alpha="0" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerShape>
+ <ComposerLegend symbolWidth="5" title="Legenda" boxSpace="1" titleFont="MS Shell Dlg 2,12,-1,5,50,0,0,0,0,0" map="6" groupFont="MS Shell Dlg 2,14,-1,5,50,0,0,0,0,0" layerFont="MS Shell Dlg 2,10,-1,5,50,0,0,0,0,0" groupSpace="0" symbolSpace="0" symbolHeight="3" layerSpace="0" iconLabelSpace="1" wrapChar="" itemFont="MS Shell Dlg 2,12,-1,5,50,0,0,0,0,0">
+  <Model autoUpdate="1">
+   <LayerItem layerId="Bacia_do_Potengi20130410230636096" text="Bacia do Pirangi">
+    <VectorClassificationItemNg text="">
+     <symbols>
+      <symbol outputUnit="MM" alpha="1" type="fill" name="classificationSymbol">
+       <layer pass="0" class="SimpleFill" locked="0">
+        <prop k="color" v="39,113,166,255"/>
+        <prop k="color_border" v="255,0,0,255"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="style" v="no"/>
+        <prop k="style_border" v="solid"/>
+        <prop k="width_border" v="0.65"/>
+       </layer>
+      </symbol>
+     </symbols>
+    </VectorClassificationItemNg>
+   </LayerItem>
+  </Model>
+  <ComposerItem width="26" x="227" y="20" rotation="0" height="17.5" frame="false" outlineWidth="0.3" zValue="30" lastValidViewScaleFactor="2.76846" id="" positionLock="false">
+   <FrameColor alpha="255" red="0" blue="0" green="0"/>
+   <BackgroundColor alpha="0" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerLegend>
+ <ComposerLegend symbolWidth="4" title="" boxSpace="0" titleFont="MS Shell Dlg 2,16,-1,5,50,0,0,0,0,0" map="6" groupFont="MS Shell Dlg 2,14,-1,5,50,0,0,0,0,0" layerFont="MS Shell Dlg 2,10,-1,5,50,0,0,0,0,0" groupSpace="1" symbolSpace="0" symbolHeight="3" layerSpace="0" iconLabelSpace="0" wrapChar="" itemFont="MS Shell Dlg 2,12,-1,5,50,0,0,0,0,0">
+  <Model autoUpdate="1">
+   <LayerItem layerId="Lagoas_simplificada20130410193238989" text="Lagoas">
+    <VectorClassificationItemNg text="">
+     <symbols>
+      <symbol outputUnit="MM" alpha="1" type="fill" name="classificationSymbol">
+       <layer pass="0" class="SimpleFill" locked="0">
+        <prop k="color" v="77,158,104,255"/>
+        <prop k="color_border" v="0,0,0,255"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="style" v="solid"/>
+        <prop k="style_border" v="solid"/>
+        <prop k="width_border" v="0.26"/>
+       </layer>
+      </symbol>
+     </symbols>
+    </VectorClassificationItemNg>
+   </LayerItem>
+   <LayerItem layerId="Açudes_simplificado20130410193238864" text="Açudes">
+    <VectorClassificationItemNg text="">
+     <symbols>
+      <symbol outputUnit="MM" alpha="1" type="fill" name="classificationSymbol">
+       <layer pass="0" class="SimpleFill" locked="0">
+        <prop k="color" v="233,133,150,255"/>
+        <prop k="color_border" v="0,0,0,255"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="style" v="solid"/>
+        <prop k="style_border" v="solid"/>
+        <prop k="width_border" v="0.26"/>
+       </layer>
+      </symbol>
+     </symbols>
+    </VectorClassificationItemNg>
+   </LayerItem>
+  </Model>
+  <ComposerItem width="11" x="262.482" y="35.8291" rotation="0" height="19.6" frame="false" outlineWidth="0.3" zValue="36" lastValidViewScaleFactor="2.76846" id="" positionLock="false">
+   <FrameColor alpha="255" red="0" blue="0" green="0"/>
+   <BackgroundColor alpha="0" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerLegend>
+ <ComposerLegend symbolWidth="6" title="" boxSpace="0" titleFont="MS Shell Dlg 2,16,-1,5,50,0,0,0,0,0" map="6" groupFont="MS Shell Dlg 2,14,-1,5,50,0,0,0,0,0" layerFont="MS Shell Dlg 2,10,-1,5,50,0,0,0,0,0" groupSpace="0" symbolSpace="0" symbolHeight="3" layerSpace="0" iconLabelSpace="1" wrapChar="" itemFont="MS Shell Dlg 2,9,-1,5,50,0,0,0,0,0">
+  <Model autoUpdate="1">
+   <LayerItem layerId="Teste_120130411154319460" text="Tipo de Ocupação">
+    <VectorClassificationItemNg text="RURAL">
+     <symbols>
+      <symbol outputUnit="MM" alpha="0.447059" type="fill" name="classificationSymbol">
+       <layer pass="0" class="SimpleFill" locked="0">
+        <prop k="color" v="170,255,127,114"/>
+        <prop k="color_border" v="0,0,0,114"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="style" v="solid"/>
+        <prop k="style_border" v="solid"/>
+        <prop k="width_border" v="0.26"/>
+       </layer>
+      </symbol>
+     </symbols>
+    </VectorClassificationItemNg>
+    <VectorClassificationItemNg text="URBANO">
+     <symbols>
+      <symbol outputUnit="MM" alpha="0.603922" type="fill" name="classificationSymbol">
+       <layer pass="0" class="SimpleFill" locked="0">
+        <prop k="color" v="255,255,127,154"/>
+        <prop k="color_border" v="0,0,0,154"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="style" v="solid"/>
+        <prop k="style_border" v="solid"/>
+        <prop k="width_border" v="0.26"/>
+       </layer>
+      </symbol>
+     </symbols>
+    </VectorClassificationItemNg>
+   </LayerItem>
+  </Model>
+  <ComposerItem width="27" x="228" y="36" rotation="0" height="14" frame="false" outlineWidth="0.3" zValue="33" lastValidViewScaleFactor="2.76846" id="" positionLock="false">
+   <FrameColor alpha="255" red="0" blue="0" green="0"/>
+   <BackgroundColor alpha="0" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerLegend>
+ <ComposerLegend symbolWidth="5" title="" boxSpace="0" titleFont="MS Shell Dlg 2,10,-1,5,50,0,0,0,0,0" map="6" groupFont="MS Shell Dlg 2,14,-1,5,50,0,0,0,0,0" layerFont="MS Shell Dlg 2,10,-1,5,50,0,0,0,0,0" groupSpace="1" symbolSpace="0" symbolHeight="3" layerSpace="0" iconLabelSpace="1" wrapChar="" itemFont="MS Shell Dlg 2,10,-1,5,50,0,0,0,0,0">
+  <Model autoUpdate="1">
+   <LayerItem layerId="RN_WGS8420130410191812870" text="Limite dos Municípios">
+    <VectorClassificationItemNg text="">
+     <symbols>
+      <symbol outputUnit="MM" alpha="1" type="fill" name="classificationSymbol">
+       <layer pass="0" class="SimpleFill" locked="0">
+        <prop k="color" v="212,127,212,255"/>
+        <prop k="color_border" v="0,0,0,255"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="style" v="no"/>
+        <prop k="style_border" v="solid"/>
+        <prop k="width_border" v="0.75"/>
+       </layer>
+      </symbol>
+     </symbols>
+    </VectorClassificationItemNg>
+   </LayerItem>
+  </Model>
+  <ComposerItem width="32" x="256" y="27" rotation="0" height="9.5" frame="false" outlineWidth="0.3" zValue="32" lastValidViewScaleFactor="2.76846" id="" positionLock="false">
+   <FrameColor alpha="255" red="0" blue="0" green="0"/>
+   <BackgroundColor alpha="0" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerLegend>
+ <ComposerPicture pictureWidth="18" file="C:/PROGRA~1/QUANTU~1/apps/qgis/./svg/north_arrows/NorthArrow2.svg" pictureHeight="17.5" mapId="-1">
+  <ComposerItem width="18" x="198" y="12.5" rotation="0" height="17.5" frame="false" outlineWidth="0.3" zValue="10" lastValidViewScaleFactor="2.70142" id="" positionLock="false">
+   <FrameColor alpha="255" red="0" blue="0" green="0"/>
+   <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerPicture>
+ <ComposerPicture pictureWidth="15" file="C:/PROGRA~1/Quantum GIS Lisboa/apps/qgis/./svg/north_arrows/NorthArrow1.svg" pictureHeight="15" mapId="-1">
+  <ComposerItem width="15" x="201.974" y="11.6932" rotation="0" height="15" frame="false" outlineWidth="0.3" zValue="23" lastValidViewScaleFactor="2.82215" id="" positionLock="false">
+   <FrameColor alpha="255" red="0" blue="0" green="0"/>
+   <BackgroundColor alpha="0" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerPicture>
+ <Composition printResolution="300" paperWidth="297" snapGridOffsetX="0" snapGridResolution="1" snapGridOffsetY="0" snapping="0" paperHeight="210" printAsRaster="0"/>
+</Composer>

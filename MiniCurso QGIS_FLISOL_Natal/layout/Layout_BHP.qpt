@@ -1,0 +1,397 @@
+<Composer title="BHP" visible="1">
+ <Composition printResolution="300" paperWidth="297" snapGridOffsetX="0" snapGridResolution="1" snapGridOffsetY="0" alignmentSnap="1" snapping="0" numPages="1" paperHeight="210" alignmentSnapTolerance="2" printAsRaster="0">
+  <ComposerLegend symbolWidth="7" title="" boxSpace="2" splitLayer="0" equalColumnWidth="0" map="9" symbolHeight="4" wrapChar="" fontColor="#000000" columnSpace="2" columnCount="1">
+   <styles>
+    <style marginBottom="2" name="title" font="MS Shell Dlg 2,16,-1,5,50,0,0,0,0,0"/>
+    <style marginTop="2" name="group" font="MS Shell Dlg 2,14,-1,5,50,0,0,0,0,0"/>
+    <style marginTop="2" name="subgroup" font="MS Shell Dlg 2,12,-1,5,50,0,0,0,0,0"/>
+    <style marginTop="2" name="symbol" font="MS Shell Dlg 2,8.25,-1,5,50,0,0,0,0,0"/>
+    <style marginTop="2" marginLeft="2" name="symbolLabel" font="MS Shell Dlg 2,12,-1,5,50,0,0,0,0,0"/>
+   </styles>
+   <Model autoUpdate="1">
+    <LayerItem layerId="Rios_Bacia_Pirangi20130920214524773" userText="Rios da Bacia do Pirangi" style="hidden" text="Rios da Bacia do Pirangi" showFeatureCount="0">
+     <VectorClassificationItemNg userText="" text="Rios da Bacia do Pirangi">
+      <symbols>
+       <symbol alpha="1" type="line" name="classificationSymbol">
+        <layer pass="0" class="SimpleLine" locked="1">
+         <prop k="capstyle" v="round"/>
+         <prop k="color" v="0,0,0,255"/>
+         <prop k="customdash" v="5;2"/>
+         <prop k="customdash_unit" v="MM"/>
+         <prop k="joinstyle" v="round"/>
+         <prop k="offset" v="0"/>
+         <prop k="offset_unit" v="MM"/>
+         <prop k="penstyle" v="solid"/>
+         <prop k="use_custom_dash" v="0"/>
+         <prop k="width" v="0.9"/>
+         <prop k="width_unit" v="MM"/>
+        </layer>
+        <layer pass="5" class="SimpleLine" locked="0">
+         <prop k="capstyle" v="round"/>
+         <prop k="color" v="22,219,193,255"/>
+         <prop k="customdash" v="5;2"/>
+         <prop k="customdash_unit" v="MM"/>
+         <prop k="joinstyle" v="round"/>
+         <prop k="offset" v="0"/>
+         <prop k="offset_unit" v="MM"/>
+         <prop k="penstyle" v="solid"/>
+         <prop k="use_custom_dash" v="0"/>
+         <prop k="width" v="0.9"/>
+         <prop k="width_unit" v="MM"/>
+        </layer>
+       </symbol>
+      </symbols>
+     </VectorClassificationItemNg>
+    </LayerItem>
+   </Model>
+   <ComposerItem width="57.4" x="222.344" transparency="0" y="67.2219" rotation="0" height="12" positionMode="0" frame="false" outlineWidth="0.3" zValue="38" lastValidViewScaleFactor="2.88152" uuid="{da65d5d6-d553-4f05-a6b5-07815daa5496}" id="" background="false" blendMode="0" positionLock="false">
+    <FrameColor alpha="255" red="0" blue="0" green="0"/>
+    <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+   </ComposerItem>
+  </ComposerLegend>
+  <ComposerPicture pictureWidth="15" file="C:/OSGeo4W/apps/qgis/./svg/north_arrows/NorthArrow1.svg" pictureHeight="15" mapId="-1">
+   <ComposerItem width="15" x="16.6213" transparency="0" y="28.2409" rotation="0" height="15" positionMode="0" frame="false" outlineWidth="0.3" zValue="37" lastValidViewScaleFactor="2.88152" uuid="{cbd0f003-b147-4565-a859-98ebc3cdc01a}" id="" background="false" blendMode="0" positionLock="false">
+    <FrameColor alpha="255" red="0" blue="0" green="0"/>
+    <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+   </ComposerItem>
+  </ComposerPicture>
+  <ComposerShape shapeType="1">
+   <ComposerItem width="7.77724" x="283.089" transparency="0" y="165.386" rotation="0" height="4.95717" positionMode="0" frame="true" outlineWidth="0" zValue="36" lastValidViewScaleFactor="2.88152" uuid="{f34dc715-a5bb-4621-adb7-bd96ef536cb6}" id="" background="false" blendMode="0" positionLock="false">
+    <FrameColor alpha="255" red="255" blue="0" green="0"/>
+    <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+   </ComposerItem>
+  </ComposerShape>
+  <ComposerMap keepLayerSet="true" overviewFrameMap="-1" id="9" previewMode="Cache" drawCanvasItems="true">
+   <overviewFrame overviewBlendMode="0" overviewFrameMap="-1" overviewInverted="false">
+    <symbol alpha="0.3" type="fill" name="">
+     <layer pass="0" class="SimpleFill" locked="0">
+      <prop k="border_width_unit" v="MM"/>
+      <prop k="color" v="255,0,0,255"/>
+      <prop k="color_border" v="0,0,0,255"/>
+      <prop k="offset" v="0,0"/>
+      <prop k="offset_unit" v="MM"/>
+      <prop k="style" v="solid"/>
+      <prop k="style_border" v="no"/>
+      <prop k="width_border" v="0.26"/>
+     </layer>
+    </symbol>
+   </overviewFrame>
+   <Extent ymin="9.24273e+06" xmin="-123464" ymax="9.46546e+06" xmax="288603"/>
+   <LayerSet>
+    <Layer>Oceano20130920214524910</Layer>
+    <Layer>RN_SIRGAS2000_UTM20130921150007647</Layer>
+   </LayerSet>
+   <Grid gridStyle="0" crossLength="3" intervalX="0" offsetX="0" intervalY="0" offsetY="0" gridFrameStyle="0" gridFrameWidth="2" gridBlendMode="0" show="0">
+    <symbol alpha="1" type="line" name="">
+     <layer pass="0" class="SimpleLine" locked="0">
+      <prop k="capstyle" v="flat"/>
+      <prop k="color" v="0,0,0,255"/>
+      <prop k="customdash" v="5;2"/>
+      <prop k="customdash_unit" v="MM"/>
+      <prop k="joinstyle" v="bevel"/>
+      <prop k="offset" v="0"/>
+      <prop k="offset_unit" v="MM"/>
+      <prop k="penstyle" v="solid"/>
+      <prop k="use_custom_dash" v="0"/>
+      <prop k="width" v="0.3"/>
+      <prop k="width_unit" v="MM"/>
+     </layer>
+    </symbol>
+    <Annotation rightDirection="0" bottomDirection="0" format="0" topPosition="1" precision="3" leftDirection="0" rightPosition="1" bottomPosition="1" frameDistance="1" show="0" font="MS Shell Dlg 2,8.25,-1,5,50,0,0,0,0,0" leftPosition="1" topDirection="0">
+     <fontColor red="0" blue="0" green="0"/>
+    </Annotation>
+   </Grid>
+   <ComposerItem width="73.2219" x="220.881" transparency="0" y="145.806" rotation="0" height="39.5785" positionMode="0" frame="false" outlineWidth="0.3" zValue="35" lastValidViewScaleFactor="2.29858" uuid="{e7709418-f199-481e-a4ef-e1e3c331a60a}" id="" background="true" blendMode="0" positionLock="false">
+    <FrameColor alpha="255" red="0" blue="0" green="0"/>
+    <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+   </ComposerItem>
+  </ComposerMap>
+  <ComposerLegend symbolWidth="7" title="Legenda" boxSpace="2" splitLayer="0" equalColumnWidth="0" map="9" symbolHeight="4" wrapChar="" fontColor="#000000" columnSpace="2" columnCount="1">
+   <styles>
+    <style marginBottom="2" name="title" font="MS Shell Dlg 2,16,-1,5,50,0,0,0,0,0"/>
+    <style marginTop="2" name="group" font="MS Shell Dlg 2,14,-1,5,50,0,0,0,0,0"/>
+    <style marginTop="2" name="subgroup" font="MS Shell Dlg 2,12,-1,5,50,0,0,0,0,0"/>
+    <style marginTop="2" name="symbol" font="MS Shell Dlg 2,8.25,-1,5,50,0,0,0,0,0"/>
+    <style marginTop="2" marginLeft="2" name="symbolLabel" font="MS Shell Dlg 2,12,-1,5,50,0,0,0,0,0"/>
+   </styles>
+   <Model autoUpdate="1">
+    <LayerItem layerId="Bacia_do_Pirangi20130920214524798" userText="Bacia do Pirangi" style="hidden" text="Bacia do Pirangi" showFeatureCount="0">
+     <VectorClassificationItemNg userText="" text="Bacia do Pirangi">
+      <symbols>
+       <symbol alpha="1" type="fill" name="classificationSymbol">
+        <layer pass="0" class="SimpleFill" locked="0">
+         <prop k="border_width_unit" v="MM"/>
+         <prop k="color" v="108,173,132,255"/>
+         <prop k="color_border" v="0,0,0,255"/>
+         <prop k="offset" v="0,0"/>
+         <prop k="offset_unit" v="MM"/>
+         <prop k="style" v="no"/>
+         <prop k="style_border" v="solid"/>
+         <prop k="width_border" v="1.26"/>
+        </layer>
+       </symbol>
+      </symbols>
+     </VectorClassificationItemNg>
+    </LayerItem>
+    <LayerItem layerId="mosaico_recotesirgas2000utm220130920214430045" userText="Altitudes (m)" style="subgroup" text="Altitudes (m)" showFeatureCount="0">
+     <RasterClassificationItem layerId="mosaico_recotesirgas2000utm220130920214430045" userText="" color="#2c7bb6" text="0.033939"/>
+     <RasterClassificationItem layerId="mosaico_recotesirgas2000utm220130920214430045" userText="" color="#abd9e9" text="26.780704"/>
+     <RasterClassificationItem layerId="mosaico_recotesirgas2000utm220130920214430045" userText="" color="#ffffbf" text="53.527469"/>
+     <RasterClassificationItem layerId="mosaico_recotesirgas2000utm220130920214430045" userText="" color="#fdae61" text="80.274235"/>
+     <RasterClassificationItem layerId="mosaico_recotesirgas2000utm220130920214430045" userText="" color="#d7191c" text="107.021000"/>
+    </LayerItem>
+    <LayerItem layerId="RN_SIRGAS2000_UTM20130921150007647" userText="" style="hidden" text="RN_SIRGAS2000_UTM" showFeatureCount="0">
+     <VectorClassificationItemNg userText="" text="RN_SIRGAS2000_UTM">
+      <symbols>
+       <symbol alpha="1" type="fill" name="classificationSymbol">
+        <layer pass="0" class="SimpleFill" locked="0">
+         <prop k="border_width_unit" v="MM"/>
+         <prop k="color" v="176,108,114,255"/>
+         <prop k="color_border" v="0,0,0,255"/>
+         <prop k="offset" v="0,0"/>
+         <prop k="offset_unit" v="MM"/>
+         <prop k="style" v="solid"/>
+         <prop k="style_border" v="solid"/>
+         <prop k="width_border" v="0.26"/>
+        </layer>
+       </symbol>
+      </symbols>
+     </VectorClassificationItemNg>
+    </LayerItem>
+   </Model>
+   <ComposerItem width="54.8" x="223.344" transparency="0" y="7.29091" rotation="0" height="65.9" positionMode="0" frame="false" outlineWidth="0.3" zValue="34" lastValidViewScaleFactor="2.29858" uuid="{aa1649c1-24ca-401f-b92b-c5655496b9d4}" id="" background="true" blendMode="0" positionLock="false">
+    <FrameColor alpha="255" red="0" blue="0" green="0"/>
+    <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+   </ComposerItem>
+  </ComposerLegend>
+  <ComposerMap keepLayerSet="true" overviewFrameMap="-1" id="8" previewMode="Cache" drawCanvasItems="true">
+   <overviewFrame overviewBlendMode="0" overviewFrameMap="-1" overviewInverted="false">
+    <symbol alpha="0.3" type="fill" name="">
+     <layer pass="0" class="SimpleFill" locked="0">
+      <prop k="border_width_unit" v="MM"/>
+      <prop k="color" v="255,0,0,255"/>
+      <prop k="color_border" v="0,0,0,255"/>
+      <prop k="offset" v="0,0"/>
+      <prop k="offset_unit" v="MM"/>
+      <prop k="style" v="solid"/>
+      <prop k="style_border" v="no"/>
+      <prop k="width_border" v="0.26"/>
+     </layer>
+    </symbol>
+   </overviewFrame>
+   <Extent ymin="9.32094e+06" xmin="226011" ymax="9.3591e+06" xmax="267612"/>
+   <LayerSet>
+    <Layer>RN_SIRGAS2000_UTM20130920214524935</Layer>
+    <Layer>Oceano20130920214524910</Layer>
+    <Layer>Bacia_do_Pirangi20130920214524798</Layer>
+   </LayerSet>
+   <Grid gridStyle="0" crossLength="3" intervalX="0" offsetX="0" intervalY="0" offsetY="0" gridFrameStyle="0" gridFrameWidth="2" gridBlendMode="0" show="0">
+    <symbol alpha="1" type="line" name="">
+     <layer pass="0" class="SimpleLine" locked="0">
+      <prop k="capstyle" v="flat"/>
+      <prop k="color" v="0,0,0,255"/>
+      <prop k="customdash" v="5;2"/>
+      <prop k="customdash_unit" v="MM"/>
+      <prop k="joinstyle" v="bevel"/>
+      <prop k="offset" v="0"/>
+      <prop k="offset_unit" v="MM"/>
+      <prop k="penstyle" v="solid"/>
+      <prop k="use_custom_dash" v="0"/>
+      <prop k="width" v="0.3"/>
+      <prop k="width_unit" v="MM"/>
+     </layer>
+    </symbol>
+    <Annotation rightDirection="0" bottomDirection="0" format="0" topPosition="1" precision="3" leftDirection="0" rightPosition="1" bottomPosition="1" frameDistance="1" show="0" font="MS Shell Dlg 2,8.25,-1,5,50,0,0,0,0,0" leftPosition="1" topDirection="0">
+     <fontColor red="0" blue="0" green="0"/>
+    </Annotation>
+   </Grid>
+   <ComposerItem width="69.1029" x="224" transparency="0" y="80.4219" rotation="0" height="63.3841" positionMode="0" frame="false" outlineWidth="0.3" zValue="32" lastValidViewScaleFactor="2.29858" uuid="{29da374f-a767-472d-8d33-43663b93477d}" id="" background="true" blendMode="0" positionLock="false">
+    <FrameColor alpha="255" red="0" blue="0" green="0"/>
+    <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+   </ComposerItem>
+  </ComposerMap>
+  <ComposerPicture pictureWidth="30" file="C:/Users/Pedro/Pictures/Logo GPAS.jpg" pictureHeight="16.2141" mapId="-1">
+   <ComposerItem width="30" x="31.6213" transparency="0" y="183.206" rotation="0" height="16.2141" positionMode="0" frame="false" outlineWidth="0.3" zValue="31" lastValidViewScaleFactor="2.88152" uuid="{0e13f50e-279b-41ca-a8a7-c59e81be46bd}" id="" background="true" blendMode="0" positionLock="false">
+    <FrameColor alpha="255" red="0" blue="0" green="0"/>
+    <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+   </ComposerItem>
+  </ComposerPicture>
+  <ComposerMap keepLayerSet="true" overviewFrameMap="-1" id="0" previewMode="Cache" drawCanvasItems="true">
+   <overviewFrame overviewBlendMode="0" overviewFrameMap="-1" overviewInverted="false">
+    <symbol alpha="0.3" type="fill" name="">
+     <layer pass="0" class="SimpleFill" locked="0">
+      <prop k="border_width_unit" v="MM"/>
+      <prop k="color" v="255,0,0,255"/>
+      <prop k="color_border" v="0,0,0,255"/>
+      <prop k="offset" v="0,0"/>
+      <prop k="offset_unit" v="MM"/>
+      <prop k="style" v="solid"/>
+      <prop k="style_border" v="no"/>
+      <prop k="width_border" v="0.26"/>
+     </layer>
+    </symbol>
+   </overviewFrame>
+   <Extent ymin="9.32707e+06" xmin="226676" ymax="9.35871e+06" xmax="267667"/>
+   <LayerSet>
+    <Layer>Rios_Bacia_Pirangi20130920214524773</Layer>
+    <Layer>Bacia_do_Pirangi20130920214524798</Layer>
+    <Layer>mosaico_recotesirgas2000utm220130920214430045</Layer>
+   </LayerSet>
+   <Grid gridStyle="0" crossLength="3" intervalX="5000" offsetX="0" intervalY="5000" offsetY="0" gridFrameStyle="0" gridFrameWidth="2" gridBlendMode="0" show="1">
+    <symbol alpha="1" type="line" name="">
+     <layer pass="0" class="SimpleLine" locked="0">
+      <prop k="capstyle" v="flat"/>
+      <prop k="color" v="0,0,0,255"/>
+      <prop k="customdash" v="5;2"/>
+      <prop k="customdash_unit" v="MM"/>
+      <prop k="joinstyle" v="bevel"/>
+      <prop k="offset" v="0"/>
+      <prop k="offset_unit" v="MM"/>
+      <prop k="penstyle" v="solid"/>
+      <prop k="use_custom_dash" v="0"/>
+      <prop k="width" v="0.3"/>
+      <prop k="width_unit" v="MM"/>
+     </layer>
+    </symbol>
+    <Annotation rightDirection="1" bottomDirection="0" format="0" topPosition="1" precision="0" leftDirection="1" rightPosition="1" bottomPosition="1" frameDistance="1" show="1" font="MS Shell Dlg 2,8.25,-1,5,50,0,0,0,0,0" leftPosition="1" topDirection="0">
+     <fontColor red="0" blue="0" green="0"/>
+    </Annotation>
+   </Grid>
+   <ComposerItem width="203.634" x="9.6424" transparency="0" y="6.82051" rotation="0" height="157.188" positionMode="0" frame="true" outlineWidth="0.3" zValue="29" lastValidViewScaleFactor="2.29858" uuid="{78729067-0260-4aee-b89f-acb21ec6544a}" id="" background="true" blendMode="0" positionLock="false">
+    <FrameColor alpha="255" red="0" blue="0" green="0"/>
+    <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+   </ComposerItem>
+  </ComposerMap>
+  <ComposerPicture pictureWidth="26.8614" file="C:/Users/Pedro/Pictures/finep logo.jpg" pictureHeight="27.3607" mapId="-1">
+   <ComposerItem width="26.8614" x="66.6316" transparency="0" y="176.385" rotation="0" height="27.3607" positionMode="0" frame="false" outlineWidth="0.3" zValue="24" lastValidViewScaleFactor="2.88152" uuid="{bfc41c74-2405-4820-a9d1-1d6440452912}" id="" background="false" blendMode="0" positionLock="false">
+    <FrameColor alpha="255" red="0" blue="0" green="0"/>
+    <BackgroundColor alpha="0" red="255" blue="255" green="255"/>
+   </ComposerItem>
+  </ComposerPicture>
+  <ComposerPicture pictureWidth="14.0415" file="C:/Users/Pedro/Pictures/UFRN.jpg" pictureHeight="18.4645" mapId="-1">
+   <ComposerItem width="14.0415" x="10.5209" transparency="0" y="183.857" rotation="0" height="18.4645" positionMode="0" frame="false" outlineWidth="0.3" zValue="23" lastValidViewScaleFactor="2.76846" uuid="{8cbc8386-d170-4f6e-8bbe-c438a7b08a7d}" id="" background="false" blendMode="0" positionLock="false">
+    <FrameColor alpha="255" red="0" blue="0" green="0"/>
+    <BackgroundColor alpha="0" red="255" blue="255" green="255"/>
+   </ComposerItem>
+  </ComposerPicture>
+  <ComposerPicture pictureWidth="27.1226" file="C:/Users/Pedro/Pictures/logo_apoio_cthidro.jpg" pictureHeight="27.2753" mapId="-1">
+   <ComposerItem width="27.1226" x="100.087" transparency="0" y="177.081" rotation="0" height="27.2753" positionMode="0" frame="false" outlineWidth="0.3" zValue="22" lastValidViewScaleFactor="2.88152" uuid="{6f1a5b25-74af-49ec-a7ad-5e1ca3fb63e7}" id="" background="false" blendMode="0" positionLock="false">
+    <FrameColor alpha="255" red="0" blue="0" green="0"/>
+    <BackgroundColor alpha="0" red="255" blue="255" green="255"/>
+   </ComposerItem>
+  </ComposerPicture>
+  <ComposerPicture pictureWidth="20" file="C:/PROGRA~1/QUANTU~2/apps/qgis/./svg/north_arrows/NorthArrow1.svg" pictureHeight="20" mapId="-1">
+   <ComposerItem width="20" x="11.6213" transparency="0" y="17.0688" rotation="0" height="20" positionMode="0" frame="false" outlineWidth="0.3" zValue="21" lastValidViewScaleFactor="2.75355" uuid="{9ee23c6d-cc1f-4c56-bcdb-8456810e5cbd}" id="" background="false" blendMode="0" positionLock="false">
+    <FrameColor alpha="255" red="0" blue="0" green="0"/>
+    <BackgroundColor alpha="0" red="255" blue="255" green="255"/>
+   </ComposerItem>
+  </ComposerPicture>
+  <ComposerScaleBar penColor="#000000" style="Double Box" numMapUnitsPerScaleBarUnit="1000" alignment="0" brushColor="#000000" numSegments="2" segmentMillimeters="28.271" fontColor="#000000" font="MS Shell Dlg 2,12,-1,5,50,0,0,0,0,0" numUnitsPerSegment="20000" units="0" labelBarSpace="1" outlineWidth="0.9" numSegmentsLeft="0" height="5" mapId="6" boxContentSpace="0" unitLabel="Km">
+   <ComposerItem width="69.092" x="134.426" transparency="0" y="170.343" rotation="0" height="10.2" positionMode="0" frame="false" outlineWidth="0.3" zValue="17" lastValidViewScaleFactor="2.95735" uuid="{a73a42ab-c8b2-4aa9-93fb-6632656d4147}" id="" background="false" blendMode="0" positionLock="false">
+    <FrameColor alpha="255" red="0" blue="0" green="0"/>
+    <BackgroundColor alpha="0" red="255" blue="255" green="255"/>
+   </ComposerItem>
+  </ComposerScaleBar>
+  <ComposerArrow startMarkerFile="" arrowHeadWidth="4" endMarkerFile="" outlineWidth="0" markerMode="1">
+   <ArrowColor alpha="255" red="0" blue="0" green="0"/>
+   <StartPoint x="290.866" y="165.074"/>
+   <StopPoint x="290.956" y="138.705"/>
+   <ComposerItem width="0.09" x="290.866" transparency="0" y="138.705" rotation="0" height="26.369" positionMode="0" frame="true" outlineWidth="0" zValue="14" lastValidViewScaleFactor="11.0738" uuid="{930abf76-dd42-4163-85ee-48f6f944fc35}" id="" background="false" blendMode="0" positionLock="false">
+    <FrameColor alpha="0" red="255" blue="255" green="255"/>
+    <BackgroundColor alpha="0" red="255" blue="255" green="255"/>
+   </ComposerItem>
+  </ComposerArrow>
+  <ComposerMap keepLayerSet="true" overviewFrameMap="-1" id="6" previewMode="Cache" drawCanvasItems="true">
+   <overviewFrame overviewBlendMode="0" overviewFrameMap="-1" overviewInverted="false">
+    <symbol alpha="0.3" type="fill" name="">
+     <layer pass="0" class="SimpleFill" locked="0">
+      <prop k="border_width_unit" v="MM"/>
+      <prop k="color" v="255,0,0,255"/>
+      <prop k="color_border" v="0,0,0,255"/>
+      <prop k="offset" v="0,0"/>
+      <prop k="offset_unit" v="MM"/>
+      <prop k="style" v="solid"/>
+      <prop k="style_border" v="no"/>
+      <prop k="width_border" v="0.26"/>
+     </layer>
+    </symbol>
+   </overviewFrame>
+   <Extent ymin="9.32671e+06" xmin="218015" ymax="9.37327e+06" xmax="269815"/>
+   <LayerSet/>
+   <Grid gridStyle="0" crossLength="3" intervalX="0" offsetX="0" intervalY="0" offsetY="0" gridFrameStyle="0" gridFrameWidth="2" gridBlendMode="0" show="0">
+    <symbol alpha="1" type="line" name="">
+     <layer pass="0" class="SimpleLine" locked="0">
+      <prop k="capstyle" v="square"/>
+      <prop k="color" v="0,0,0,255"/>
+      <prop k="customdash" v="5;2"/>
+      <prop k="customdash_unit" v="MM"/>
+      <prop k="joinstyle" v="bevel"/>
+      <prop k="offset" v="0"/>
+      <prop k="offset_unit" v="MM"/>
+      <prop k="penstyle" v="solid"/>
+      <prop k="use_custom_dash" v="0"/>
+      <prop k="width" v="0"/>
+      <prop k="width_unit" v="MM"/>
+     </layer>
+    </symbol>
+    <Annotation rightDirection="0" bottomDirection="0" format="0" topPosition="0" precision="3" leftDirection="0" rightPosition="0" bottomPosition="0" frameDistance="1" show="0" font="MS Shell Dlg 2,8.25,-1,5,50,0,0,0,0,0" leftPosition="0" topDirection="0">
+     <fontColor red="0" blue="0" green="0"/>
+    </Annotation>
+   </Grid>
+   <ComposerItem width="73.2219" x="220.881" transparency="0" y="79.9915" rotation="0" height="65.8145" positionMode="0" frame="true" outlineWidth="0" zValue="12" lastValidViewScaleFactor="2.29858" uuid="{b1b4bc4a-3d3a-4673-af86-8f47fcf19460}" id="" background="false" blendMode="0" positionLock="false">
+    <FrameColor alpha="255" red="0" blue="0" green="0"/>
+    <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+   </ComposerItem>
+  </ComposerMap>
+  <ComposerLabel valign="32" labelText="Projeção Universal Transversa de Mercator&#xa;Datum Horizontal IBGE - SIRGAS 2000&#xa;Zona UTM - 25M - Sul&#xa;Meridiano Central - 33° WGr" htmlState="0" halign="1" margin="1">
+   <LabelFont description="MS Shell Dlg 2,6,-1,5,50,0,0,0,0,0"/>
+   <FontColor red="0" blue="0" green="0"/>
+   <ComposerItem width="54.3216" x="135.256" transparency="0" y="182.594" rotation="0" height="12.5129" positionMode="0" frame="false" outlineWidth="0.3" zValue="11" lastValidViewScaleFactor="2.88152" uuid="{2c33ba4d-de27-4a4b-9b77-27994483ad7d}" id="" background="false" blendMode="0" positionLock="false">
+    <FrameColor alpha="255" red="0" blue="0" green="0"/>
+    <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+   </ComposerItem>
+  </ComposerLabel>
+  <ComposerLabel valign="32" labelText="______________________________________&#xa;Pedro Celestino Dantas Junior&#xa;Geógrafo - CREA/RN: 2107854874" htmlState="0" halign="4" margin="1">
+   <LabelFont description="MS Shell Dlg 2,10,-1,5,50,0,0,0,0,0"/>
+   <FontColor red="0" blue="0" green="0"/>
+   <ComposerItem width="73.3769" x="220.726" transparency="0" y="186.092" rotation="0" height="17.6532" positionMode="0" frame="true" outlineWidth="0.3" zValue="10" lastValidViewScaleFactor="5.76303" uuid="{6e0a3411-021a-4752-8a49-ddbc5044a19b}" id="" background="false" blendMode="0" positionLock="false">
+    <FrameColor alpha="255" red="0" blue="0" green="0"/>
+    <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+   </ComposerItem>
+  </ComposerLabel>
+  <ComposerLabel valign="128" labelText="Fonte: IBGE, 2000, DNPM, ANA (Otto Bacias), 2009 " htmlState="0" halign="4" margin="1">
+   <LabelFont description="MS Shell Dlg 2,6,-1,5,50,0,0,0,0,0"/>
+   <FontColor red="0" blue="0" green="0"/>
+   <ComposerItem width="56.9568" x="132.72" transparency="0" y="192.828" rotation="0" height="6.59233" positionMode="0" frame="false" outlineWidth="0" zValue="8" lastValidViewScaleFactor="11.0738" uuid="{b5e6d7b8-2677-47fd-a80b-a878cc4da92e}" id="" background="false" blendMode="0" positionLock="false">
+    <FrameColor alpha="255" red="0" blue="0" green="0"/>
+    <BackgroundColor alpha="0" red="255" blue="255" green="255"/>
+   </ComposerItem>
+  </ComposerLabel>
+  <ComposerLabel valign="32" labelText="Delimitação da Bacia do Pirangi/RN" htmlState="0" halign="4" margin="1">
+   <LabelFont description="MS Shell Dlg 2,10,-1,5,75,0,0,0,0,0"/>
+   <FontColor red="0" blue="0" green="0"/>
+   <ComposerItem width="115.588" x="11.6213" transparency="0" y="172.318" rotation="0" height="6.82828" positionMode="0" frame="true" outlineWidth="0" zValue="7" lastValidViewScaleFactor="2.95735" uuid="{8d611b76-d3d5-4eaa-8cf1-0fd03666838f}" id="" background="false" blendMode="0" positionLock="false">
+    <FrameColor alpha="255" red="0" blue="0" green="0"/>
+    <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+   </ComposerItem>
+  </ComposerLabel>
+  <ComposerShape shapeType="1">
+   <ComposerItem width="81.8166" x="133.016" transparency="0" y="169.364" rotation="0" height="33.4561" positionMode="0" frame="true" outlineWidth="0" zValue="4" lastValidViewScaleFactor="2.88152" uuid="{30ef9493-a555-4da9-b1b1-1418917d0c39}" id="" background="false" blendMode="0" positionLock="false">
+    <FrameColor alpha="0" red="255" blue="255" green="255"/>
+    <BackgroundColor alpha="0" red="255" blue="255" green="255"/>
+   </ComposerItem>
+  </ComposerShape>
+  <ComposerShape shapeType="1">
+   <ComposerItem width="210.677" x="5.59879" transparency="0" y="167.281" rotation="0" height="37.0748" positionMode="0" frame="true" outlineWidth="0" zValue="3" lastValidViewScaleFactor="2.95735" uuid="{19210145-9bab-4798-8630-164e62eeff63}" id="" background="false" blendMode="0" positionLock="false">
+    <FrameColor alpha="0" red="255" blue="255" green="255"/>
+    <BackgroundColor alpha="0" red="255" blue="255" green="255"/>
+   </ComposerItem>
+  </ComposerShape>
+  <ComposerShape shapeType="1">
+   <ComposerItem width="73.3769" x="220.726" transparency="0" y="6.82051" rotation="0" height="179.272" positionMode="0" frame="true" outlineWidth="0.3" zValue="2" lastValidViewScaleFactor="5.76303" uuid="{6a79b1ec-db8f-4dc5-9b93-934713742c1f}" id="" background="true" blendMode="0" positionLock="false">
+    <FrameColor alpha="255" red="0" blue="0" green="0"/>
+    <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+   </ComposerItem>
+  </ComposerShape>
+ </Composition>
+</Composer>

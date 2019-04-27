@@ -1,0 +1,100 @@
+<Composer title="Compositor 4" visible="1">
+ <ComposerLabel valign="32" labelText="Título" id="" halign="4" margin="1">
+  <LabelFont description="MS Shell Dlg 2,10,-1,5,50,0,0,0,0,0"/>
+  <FontColor red="0" blue="0" green="0"/>
+  <ComposerItem width="70.31460674157304" x="222.6532997546171" y="6.335819449825649" rotation="0" height="7.1" frame="true" outlineWidth="0.3" zValue="3" lastValidViewScaleFactor="4.671140939597316" positionLock="false">
+   <FrameColor alpha="255" red="0" blue="0" green="0"/>
+   <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerLabel>
+ <ComposerLabel valign="32" labelText="Fonte: " id="" halign="1" margin="1">
+  <LabelFont description="MS Shell Dlg 2,8,-1,5,50,0,0,0,0,0"/>
+  <FontColor red="0" blue="0" green="0"/>
+  <ComposerItem width="70.00431034482753" x="222.4295977011494" y="192.8864942528735" rotation="0" height="7.1" frame="true" outlineWidth="0.3" zValue="11" lastValidViewScaleFactor="2.335570469798658" positionLock="false">
+   <FrameColor alpha="255" red="0" blue="0" green="0"/>
+   <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerLabel>
+ <ComposerLabel valign="32" labelText="Mapa        -  " id="" halign="1" margin="1">
+  <LabelFont description="MS Shell Dlg 2,10,-1,5,50,0,0,0,0,0"/>
+  <FontColor red="0" blue="0" green="0"/>
+  <ComposerItem width="70.21358000774893" x="222.6484889577682" y="13.91522988505747" rotation="0" height="22.47844827586206" frame="true" outlineWidth="0.3" zValue="4" lastValidViewScaleFactor="2.389261744966443" positionLock="false">
+   <FrameColor alpha="255" red="0" blue="0" green="0"/>
+   <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerLabel>
+ <ComposerLabel valign="32" labelText="PROJEÇÃO UNIVERSAL DE MERCATOR&#xa;DATUM HORIZONTAL - SAD69&#xa;ZONA UTM - 25M&#xa;MERIDIANO CENTRAL 33º WGr" id="" halign="4" margin="1">
+  <LabelFont description="Arial,8,-1,5,50,0,0,0,0,0"/>
+  <FontColor red="0" blue="0" green="0"/>
+  <ComposerItem width="70.00431034482759" x="222.6436781609195" y="159.4899425287357" rotation="0" height="16.05603448275858" frame="true" outlineWidth="0.3" zValue="10" lastValidViewScaleFactor="2.335570469798658" positionLock="false">
+   <FrameColor alpha="255" red="0" blue="0" green="0"/>
+   <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerLabel>
+ <ComposerScaleBar segmentMillimeters="24.51483741559359" numMapUnitsPerScaleBarUnit="1" numSegments="1" height="2" labelBarSpace="1" outlineWidth="1" numSegmentsLeft="0" style="Single Box" unitLabel="Km" font="MS Shell Dlg 2,12,-1,5,50,0,0,0,0,0" mapId="2" boxContentSpace="0" numUnitsPerSegment="0.5">
+  <BrushColor red="0" blue="0" green="0"/>
+  <ComposerItem width="38.01483741559359" x="222.6440609195402" y="177.900643678161" rotation="0" height="7.2" frame="true" outlineWidth="0.3" zValue="5" lastValidViewScaleFactor="2.335570469798658" positionLock="false">
+   <FrameColor alpha="255" red="0" blue="0" green="0"/>
+   <BackgroundColor alpha="0" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerScaleBar>
+ <ComposerMap keepLayerSet="true" id="0" previewMode="Cache" drawCanvasItems="true">
+  <Extent ymin="-7.042959234324809" xmin="-38.67151396427011" ymax="-4.614822862707673" xmax="-34.87789304713339"/>
+  <LayerSet>
+   <Layer>Limite_dos_município_Grade20111221120531720</Layer>
+  </LayerSet>
+  <Grid gridStyle="0" crossLength="3" penColorRed="0" penColorBlue="0" intervalX="0" offsetX="0" intervalY="0" offsetY="0" show="0" penWidth="0" penColorGreen="0">
+   <Annotation direction="0" precision="3" position="1" frameDistance="1" show="0" font="MS Shell Dlg 2,8.25,-1,5,50,0,0,0,0,0"/>
+  </Grid>
+  <ComposerItem width="36.9831460674157" x="221.6741573033708" y="131.4213483146067" rotation="0" height="23.67134831460677" frame="true" outlineWidth="0.3" zValue="12" lastValidViewScaleFactor="2.335570469798658" positionLock="false">
+   <FrameColor alpha="255" red="0" blue="0" green="0"/>
+   <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerMap>
+ <ComposerPicture pictureWidth="14.70647681777088" file="C:/PROGRA~1/QUANTU~1/apps/qgis/./svg/north_arrows/north-arrow_3_simple_symmetric_triangular.svg" pictureHeight="17.63625209866977" mapId="-1">
+  <ComposerItem width="14.70647681777088" x="9.626404494382019" y="8.370786516853933" rotation="0" height="17.63625209866977" frame="false" outlineWidth="0.3" zValue="22" lastValidViewScaleFactor="2.335570469798658" positionLock="false">
+   <FrameColor alpha="255" red="0" blue="0" green="0"/>
+   <BackgroundColor alpha="0" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerPicture>
+ <ComposerShape shapeType="1" shapeWidth="2.720505617977494" outlineWidth="0.5" transparentFill="1" shapeHeight="2.092696629213464">
+  <OutlineColor alpha="255" red="255" blue="0" green="0"/>
+  <FillColor alpha="255" red="0" blue="0" green="0"/>
+  <ComposerItem width="2.720505617977494" x="253.6348314606742" y="141.6755617977528" rotation="0" height="2.092696629213464" frame="true" outlineWidth="0" zValue="14" lastValidViewScaleFactor="4.671140939597316" positionLock="false">
+   <FrameColor alpha="0" red="255" blue="255" green="255"/>
+   <BackgroundColor alpha="0" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerShape>
+ <ComposerMap keepLayerSet="true" id="1" previewMode="Cache" drawCanvasItems="true">
+  <Extent ymin="9344239.486931564" xmin="236913.2956601335" ymax="9370576.214241441" xmax="273533.2966974859"/>
+  <LayerSet>
+   <Layer>Limite_dos_bairros_Grade20111221114643946</Layer>
+  </LayerSet>
+  <Grid gridStyle="0" crossLength="3" penColorRed="0" penColorBlue="0" intervalX="0" offsetX="0" intervalY="0" offsetY="0" show="0" penWidth="0" penColorGreen="0">
+   <Annotation direction="0" precision="3" position="1" frameDistance="1" show="0" font="MS Shell Dlg 2,8.25,-1,5,50,0,0,0,0,0"/>
+  </Grid>
+  <ComposerItem width="33.14044943820221" x="259.2092696629214" y="131.4213483146067" rotation="0" height="23.83426966292137" frame="true" outlineWidth="0.3" zValue="13" lastValidViewScaleFactor="2.335570469798658" positionLock="false">
+   <FrameColor alpha="255" red="0" blue="0" green="0"/>
+   <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerMap>
+ <ComposerArrow startMarkerFile="" arrowHeadWidth="4" endMarkerFile="" outlineWidth="0" markerMode="1">
+  <ArrowColor alpha="255" red="0" blue="0" green="0"/>
+  <StartPoint x="256.0402298850574" y="141.8283045977011"/>
+  <StopPoint x="270.7047413793103" y="132.7298850574713"/>
+  <ComposerItem width="18.66451149425285" x="254.0402298850574" y="130.7298850574713" rotation="0" height="13.09841954022988" frame="true" outlineWidth="0" zValue="16" lastValidViewScaleFactor="9.342281879194632" positionLock="false">
+   <FrameColor alpha="0" red="255" blue="255" green="255"/>
+   <BackgroundColor alpha="0" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerArrow>
+ <ComposerArrow startMarkerFile="" arrowHeadWidth="4" endMarkerFile="" outlineWidth="0" markerMode="1">
+  <ArrowColor alpha="255" red="0" blue="0" green="0"/>
+  <StartPoint x="255.8261494252873" y="143.326867816092"/>
+  <StopPoint x="268.6709770114942" y="147.6084770114942"/>
+  <ComposerItem width="12.84482758620692" x="255.8261494252873" y="143.326867816092" rotation="0" height="4.281609195402297" frame="true" outlineWidth="0" zValue="17" lastValidViewScaleFactor="2.335570469798658" positionLock="false">
+   <FrameColor alpha="0" red="255" blue="255" green="255"/>
+   <BackgroundColor alpha="0" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerArrow>
+ <Composition printResolution="300" paperWidth="297" snapGridOffsetX="0" snapGridResolution="0" snapGridOffsetY="0" snapping="0" paperHeight="210" printAsRaster="0"/>
+</Composer>

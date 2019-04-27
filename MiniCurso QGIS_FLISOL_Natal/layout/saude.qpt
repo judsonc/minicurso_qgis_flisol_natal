@@ -1,0 +1,379 @@
+<Composer title="Compositor 1" visible="1">
+ <Composition printResolution="303" paperWidth="297" snapGridOffsetX="0" snapGridResolution="0" snapGridOffsetY="1" alignmentSnap="1" snapping="1" numPages="1" paperHeight="210" alignmentSnapTolerance="2" printAsRaster="0">
+  <ComposerLabel valign="32" labelText="Elaborado por: Pedro Junior   Matrícula: 61.872-1" htmlState="0" halign="4" margin="1">
+   <LabelFont description="MS Shell Dlg 2,6,-1,5,50,0,0,0,0,0"/>
+   <FontColor red="0" blue="0" green="0"/>
+   <ComposerItem width="61.943" x="227.28" transparency="0" y="47.1121" rotation="0" height="4.89778" positionMode="0" frame="false" outlineWidth="0.3" zValue="24" lastValidViewScaleFactor="5.65772" uuid="{a435a5cc-a568-4f44-ba28-ffc44e62b723}" id="" background="false" blendMode="0" positionLock="false">
+    <FrameColor alpha="255" red="0" blue="0" green="0"/>
+    <BackgroundColor alpha="0" red="255" blue="255" green="255"/>
+   </ComposerItem>
+  </ComposerLabel>
+  <ComposerLegend symbolWidth="7" title="" boxSpace="2" splitLayer="0" equalColumnWidth="0" map="2" symbolHeight="4" wrapChar="" fontColor="#000000" columnSpace="2" columnCount="1">
+   <styles>
+    <style marginBottom="2" name="title" font="MS Shell Dlg 2,10,-1,5,50,0,0,0,0,0"/>
+    <style marginTop="2" name="group" font="MS Shell Dlg 2,14,-1,5,50,0,0,0,0,0"/>
+    <style marginTop="2" name="subgroup" font="MS Shell Dlg 2,12,-1,5,50,0,0,0,0,0"/>
+    <style marginTop="2" name="symbol" font="MS Shell Dlg 2,8.25,-1,5,50,0,0,0,0,0"/>
+    <style marginTop="2" marginLeft="2" name="symbolLabel" font="MS Shell Dlg 2,12,-1,5,50,0,0,0,0,0"/>
+   </styles>
+   <Model autoUpdate="1">
+    <LayerItem layerId="1QUAD_FISCOQUIMICO20130923213455441" userText="Média de casos de DDA por semana epidemiológica" style="subgroup" text="Média de casos de DDA por semana epidemiológica" showFeatureCount="0">
+     <VectorClassificationItemNg userText="Entre 0 e 2,5" text="Entre 0 e 2,5">
+      <symbols>
+       <symbol alpha="1" type="fill" name="classificationSymbol">
+        <layer pass="0" class="SimpleFill" locked="0">
+         <prop k="border_width_unit" v="MM"/>
+         <prop k="color" v="170,255,255,255"/>
+         <prop k="color_border" v="114,133,132,255"/>
+         <prop k="offset" v="0,0"/>
+         <prop k="offset_unit" v="MM"/>
+         <prop k="style" v="solid"/>
+         <prop k="style_border" v="solid"/>
+         <prop k="width_border" v="0.26"/>
+        </layer>
+       </symbol>
+      </symbols>
+     </VectorClassificationItemNg>
+     <VectorClassificationItemNg userText="Maior que 2,5 e menor que 5" text="Maior que 2,5 e menor que 5">
+      <symbols>
+       <symbol alpha="1" type="fill" name="classificationSymbol">
+        <layer pass="0" class="SimpleFill" locked="0">
+         <prop k="border_width_unit" v="MM"/>
+         <prop k="color" v="165,191,221,255"/>
+         <prop k="color_border" v="114,133,132,255"/>
+         <prop k="offset" v="0,0"/>
+         <prop k="offset_unit" v="MM"/>
+         <prop k="style" v="solid"/>
+         <prop k="style_border" v="solid"/>
+         <prop k="width_border" v="0.26"/>
+        </layer>
+       </symbol>
+      </symbols>
+     </VectorClassificationItemNg>
+     <VectorClassificationItemNg userText="Maior que 5 e menor = que 7,5" text="Maior que 5 e menor = que 7,5">
+      <symbols>
+       <symbol alpha="1" type="fill" name="classificationSymbol">
+        <layer pass="0" class="SimpleFill" locked="0">
+         <prop k="border_width_unit" v="MM"/>
+         <prop k="color" v="255,255,127,255"/>
+         <prop k="color_border" v="0,0,0,255"/>
+         <prop k="offset" v="0,0"/>
+         <prop k="offset_unit" v="MM"/>
+         <prop k="style" v="solid"/>
+         <prop k="style_border" v="solid"/>
+         <prop k="width_border" v="0.26"/>
+        </layer>
+       </symbol>
+      </symbols>
+     </VectorClassificationItemNg>
+     <VectorClassificationItemNg userText="Maior que 7,5 e menor = que 10" text="Maior que 7,5 e menor = que 10">
+      <symbols>
+       <symbol alpha="1" type="fill" name="classificationSymbol">
+        <layer pass="0" class="SimpleFill" locked="0">
+         <prop k="border_width_unit" v="MM"/>
+         <prop k="color" v="255,170,0,255"/>
+         <prop k="color_border" v="0,0,0,255"/>
+         <prop k="offset" v="0,0"/>
+         <prop k="offset_unit" v="MM"/>
+         <prop k="style" v="solid"/>
+         <prop k="style_border" v="solid"/>
+         <prop k="width_border" v="0.26"/>
+        </layer>
+       </symbol>
+      </symbols>
+     </VectorClassificationItemNg>
+     <VectorClassificationItemNg userText="  Maior que 10 e menor = que 12,5" text="  Maior que 10 e menor = que 12,5">
+      <symbols>
+       <symbol alpha="1" type="fill" name="classificationSymbol">
+        <layer pass="0" class="SimpleFill" locked="0">
+         <prop k="border_width_unit" v="MM"/>
+         <prop k="color" v="255,85,0,255"/>
+         <prop k="color_border" v="0,0,0,255"/>
+         <prop k="offset" v="0,0"/>
+         <prop k="offset_unit" v="MM"/>
+         <prop k="style" v="solid"/>
+         <prop k="style_border" v="solid"/>
+         <prop k="width_border" v="0.26"/>
+        </layer>
+       </symbol>
+      </symbols>
+     </VectorClassificationItemNg>
+     <VectorClassificationItemNg userText=" Maior que 12,5 e menor = que 15" text=" Maior que 12,5 e menor = que 15">
+      <symbols>
+       <symbol alpha="1" type="fill" name="classificationSymbol">
+        <layer pass="0" class="SimpleFill" locked="0">
+         <prop k="border_width_unit" v="MM"/>
+         <prop k="color" v="170,0,127,255"/>
+         <prop k="color_border" v="0,0,0,255"/>
+         <prop k="offset" v="0,0"/>
+         <prop k="offset_unit" v="MM"/>
+         <prop k="style" v="solid"/>
+         <prop k="style_border" v="solid"/>
+         <prop k="width_border" v="0.26"/>
+        </layer>
+       </symbol>
+      </symbols>
+     </VectorClassificationItemNg>
+     <VectorClassificationItemNg userText="Maior que 15" text="Maior que 15">
+      <symbols>
+       <symbol alpha="1" type="fill" name="classificationSymbol">
+        <layer pass="0" class="SimpleFill" locked="0">
+         <prop k="border_width_unit" v="MM"/>
+         <prop k="color" v="170,0,0,255"/>
+         <prop k="color_border" v="0,0,0,255"/>
+         <prop k="offset" v="0,0"/>
+         <prop k="offset_unit" v="MM"/>
+         <prop k="style" v="solid"/>
+         <prop k="style_border" v="solid"/>
+         <prop k="width_border" v="0.26"/>
+        </layer>
+       </symbol>
+      </symbols>
+     </VectorClassificationItemNg>
+    </LayerItem>
+    <LayerItem layerId="Limite_dos_bairros20130923222315594" userText="" style="hidden" text="Limite_dos_bairros" showFeatureCount="0">
+     <VectorClassificationItemNg userText="" text="Limite_dos_bairros">
+      <symbols>
+       <symbol alpha="1" type="fill" name="classificationSymbol">
+        <layer pass="0" class="SimpleFill" locked="0">
+         <prop k="border_width_unit" v="MM"/>
+         <prop k="color" v="55,161,119,255"/>
+         <prop k="color_border" v="0,0,0,255"/>
+         <prop k="offset" v="0,0"/>
+         <prop k="offset_unit" v="MM"/>
+         <prop k="style" v="solid"/>
+         <prop k="style_border" v="solid"/>
+         <prop k="width_border" v="0.26"/>
+        </layer>
+       </symbol>
+      </symbols>
+     </VectorClassificationItemNg>
+    </LayerItem>
+   </Model>
+   <ComposerItem width="99.2" x="116.933" transparency="0" y="16.3953" rotation="0" height="61.7" positionMode="0" frame="false" outlineWidth="0.3" zValue="23" lastValidViewScaleFactor="2.77517" uuid="{93b61e89-5655-47f7-873b-05288f63f31f}" id="" background="true" blendMode="0" positionLock="false">
+    <FrameColor alpha="255" red="0" blue="0" green="0"/>
+    <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+   </ComposerItem>
+  </ComposerLegend>
+  <ComposerPicture pictureWidth="12.86" file="../../../../../../PROGRA~1/QUANTU~1/apps/qgis/svg/north_arrows/NorthArrow1.svg" pictureHeight="15.0479" mapId="-1">
+   <ComposerItem width="12.86" x="15.6067" transparency="0" y="14.8602" rotation="0" height="15.0479" positionMode="0" frame="false" outlineWidth="0.3" zValue="20" lastValidViewScaleFactor="2.77517" uuid="{60853450-de65-4dda-bd4e-0ac19d308706}" id="" background="false" blendMode="0" positionLock="false">
+    <FrameColor alpha="255" red="0" blue="0" green="0"/>
+    <BackgroundColor alpha="0" red="255" blue="255" green="255"/>
+   </ComposerItem>
+  </ComposerPicture>
+  <ComposerShape shapeType="1">
+   <ComposerItem width="2.39677" x="232.77" transparency="0" y="152.144" rotation="0" height="3.68044" positionMode="0" frame="true" outlineWidth="0" zValue="17" lastValidViewScaleFactor="3.84834" uuid="{be936e95-ff05-45d0-b3d1-a25d20894994}" id="" background="false" blendMode="0" positionLock="false">
+    <FrameColor alpha="0" red="255" blue="255" green="255"/>
+    <BackgroundColor alpha="0" red="255" blue="255" green="255"/>
+   </ComposerItem>
+  </ComposerShape>
+  <ComposerShape shapeType="1">
+   <ComposerItem width="63.583" x="225.47" transparency="0" y="54.9709" rotation="0" height="3.61357" positionMode="0" frame="true" outlineWidth="0" zValue="15" lastValidViewScaleFactor="5.65772" uuid="{dd6e774a-1e1d-49fc-afe2-7c0aa790c4c5}" id="" background="false" blendMode="0" positionLock="false">
+    <FrameColor alpha="0" red="0" blue="0" green="0"/>
+    <BackgroundColor alpha="0" red="255" blue="255" green="255"/>
+   </ComposerItem>
+  </ComposerShape>
+  <ComposerScaleBar penColor="#000000" style="Double Box" numMapUnitsPerScaleBarUnit="1000" alignment="0" brushColor="#000000" numSegments="2" segmentMillimeters="16.467" fontColor="#000000" font="MS Shell Dlg 2,12,-1,5,50,0,0,0,0,0" numUnitsPerSegment="10000" units="0" labelBarSpace="3" outlineWidth="1" numSegmentsLeft="0" height="5" mapId="1" boxContentSpace="1" unitLabel="Km">
+   <ComposerItem width="47.6841" x="20.6067" transparency="0" y="178.153" rotation="0" height="14.2" positionMode="0" frame="false" outlineWidth="0.3" zValue="14" lastValidViewScaleFactor="2.82886" uuid="{13e7cab8-9089-477a-a703-64881ace9d5c}" id="" background="false" blendMode="0" positionLock="false">
+    <FrameColor alpha="255" red="0" blue="0" green="0"/>
+    <BackgroundColor alpha="0" red="255" blue="255" green="255"/>
+   </ComposerItem>
+  </ComposerScaleBar>
+  <ComposerMap keepLayerSet="true" overviewFrameMap="-1" id="2" previewMode="Cache" drawCanvasItems="true">
+   <overviewFrame overviewBlendMode="0" overviewFrameMap="-1" overviewInverted="false">
+    <symbol alpha="0.3" type="fill" name="">
+     <layer pass="0" class="SimpleFill" locked="0">
+      <prop k="border_width_unit" v="MM"/>
+      <prop k="color" v="255,0,0,255"/>
+      <prop k="color_border" v="0,0,0,255"/>
+      <prop k="offset" v="0,0"/>
+      <prop k="offset_unit" v="MM"/>
+      <prop k="style" v="solid"/>
+      <prop k="style_border" v="no"/>
+      <prop k="width_border" v="0.26"/>
+     </layer>
+    </symbol>
+   </overviewFrame>
+   <Extent ymin="9.36009e+06" xmin="248402" ymax="9.36654e+06" xmax="253533"/>
+   <LayerSet/>
+   <Grid gridStyle="0" crossLength="3" intervalX="0" offsetX="0" intervalY="0" offsetY="0" gridFrameStyle="0" gridFrameWidth="2" gridBlendMode="0" show="0">
+    <symbol alpha="1" type="line" name="">
+     <layer pass="0" class="SimpleLine" locked="0">
+      <prop k="capstyle" v="square"/>
+      <prop k="color" v="0,0,0,255"/>
+      <prop k="customdash" v="5;2"/>
+      <prop k="customdash_unit" v="MM"/>
+      <prop k="joinstyle" v="bevel"/>
+      <prop k="offset" v="0"/>
+      <prop k="offset_unit" v="MM"/>
+      <prop k="penstyle" v="solid"/>
+      <prop k="use_custom_dash" v="0"/>
+      <prop k="width" v="0"/>
+      <prop k="width_unit" v="MM"/>
+     </layer>
+    </symbol>
+    <Annotation rightDirection="0" bottomDirection="0" format="0" topPosition="0" precision="3" leftDirection="0" rightPosition="0" bottomPosition="0" frameDistance="1" show="0" font="MS Shell Dlg 2,8.25,-1,5,50,0,0,0,0,0" leftPosition="0" topDirection="0">
+     <fontColor red="0" blue="0" green="0"/>
+    </Annotation>
+   </Grid>
+   <ComposerItem width="33.2138" x="256.265" transparency="0" y="141.632" rotation="0" height="41.7456" positionMode="0" frame="true" outlineWidth="0" zValue="13" lastValidViewScaleFactor="2.77517" uuid="{c5f0c6a3-4ae6-48a1-bc62-88a14b85fcbe}" id="" background="false" blendMode="0" positionLock="false">
+    <FrameColor alpha="255" red="0" blue="0" green="0"/>
+    <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+   </ComposerItem>
+  </ComposerMap>
+  <ComposerMap keepLayerSet="false" overviewFrameMap="-1" id="1" previewMode="Render" drawCanvasItems="true">
+   <overviewFrame overviewBlendMode="0" overviewFrameMap="-1" overviewInverted="false">
+    <symbol alpha="0.3" type="fill" name="">
+     <layer pass="0" class="SimpleFill" locked="0">
+      <prop k="border_width_unit" v="MM"/>
+      <prop k="color" v="255,0,0,255"/>
+      <prop k="color_border" v="0,0,0,255"/>
+      <prop k="offset" v="0,0"/>
+      <prop k="offset_unit" v="MM"/>
+      <prop k="style" v="solid"/>
+      <prop k="style_border" v="no"/>
+      <prop k="width_border" v="0.26"/>
+     </layer>
+    </symbol>
+   </overviewFrame>
+   <Extent ymin="9.34398e+06" xmin="244924" ymax="9.37017e+06" xmax="262024"/>
+   <LayerSet/>
+   <Grid gridStyle="0" crossLength="3" intervalX="0" offsetX="0" intervalY="0" offsetY="0" gridFrameStyle="0" gridFrameWidth="2" gridBlendMode="0" show="0">
+    <symbol alpha="1" type="line" name="">
+     <layer pass="0" class="SimpleLine" locked="0">
+      <prop k="capstyle" v="square"/>
+      <prop k="color" v="0,0,0,255"/>
+      <prop k="customdash" v="5;2"/>
+      <prop k="customdash_unit" v="MM"/>
+      <prop k="joinstyle" v="bevel"/>
+      <prop k="offset" v="0"/>
+      <prop k="offset_unit" v="MM"/>
+      <prop k="penstyle" v="solid"/>
+      <prop k="use_custom_dash" v="0"/>
+      <prop k="width" v="0"/>
+      <prop k="width_unit" v="MM"/>
+     </layer>
+    </symbol>
+    <Annotation rightDirection="0" bottomDirection="0" format="0" topPosition="0" precision="3" leftDirection="0" rightPosition="0" bottomPosition="0" frameDistance="1" show="0" font="MS Shell Dlg 2,8.25,-1,5,50,0,0,0,0,0" leftPosition="0" topDirection="0">
+     <fontColor red="0" blue="0" green="0"/>
+    </Annotation>
+   </Grid>
+   <ComposerItem width="28.1586" x="226.497" transparency="0" y="141.36" rotation="0" height="43.1316" positionMode="0" frame="false" outlineWidth="0.3" zValue="12" lastValidViewScaleFactor="2.77517" uuid="{72e6379e-c86f-4238-adc6-4283f276aeb1}" id="" background="false" blendMode="0" positionLock="false">
+    <FrameColor alpha="255" red="0" blue="0" green="0"/>
+    <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+   </ComposerItem>
+  </ComposerMap>
+  <ComposerLabel valign="32" labelText="" htmlState="0" halign="1" margin="1">
+   <LabelFont description="MS Shell Dlg 2,10,-1,5,50,0,0,0,0,0"/>
+   <FontColor red="0" blue="0" green="0"/>
+   <ComposerItem width="63.5663" x="225.909" transparency="0" y="117.973" rotation="0" height="23.6466" positionMode="0" frame="true" outlineWidth="0" zValue="11" lastValidViewScaleFactor="2.77517" uuid="{e9a25eac-02b2-496a-81e8-cee016d28825}" id="" background="false" blendMode="0" positionLock="false">
+    <FrameColor alpha="255" red="0" blue="0" green="0"/>
+    <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+   </ComposerItem>
+  </ComposerLabel>
+  <ComposerLabel valign="32" labelText="Data: 23/09/2013                           Prancha: 1/1" htmlState="0" halign="1" margin="1">
+   <LabelFont description="MS Shell Dlg 2,6,-1,5,50,0,0,0,0,0"/>
+   <FontColor red="0" blue="0" green="0"/>
+   <ComposerItem width="63.5623" x="225.921" transparency="0" y="62.2671" rotation="0" height="4.28757" positionMode="0" frame="true" outlineWidth="0" zValue="10" lastValidViewScaleFactor="2.77517" uuid="{9e29e34e-69ee-4078-96bc-230467505df0}" id="" background="false" blendMode="0" positionLock="false">
+    <FrameColor alpha="255" red="0" blue="0" green="0"/>
+    <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+   </ComposerItem>
+  </ComposerLabel>
+  <ComposerLabel valign="32" labelText="Projeção Universal Transversa de Mercator&#xa;Datum Horizontal IBGE - SAD69&#xa;Datum Vertical IBGE - Marégrafo Imbituba&#xa;Zona UTM - 25M - Sul&#xa;Meridiano Central - 33° WGr" htmlState="0" halign="4" margin="1">
+   <LabelFont description="MS Shell Dlg 2,5,-1,5,50,0,0,0,0,0"/>
+   <FontColor red="0" blue="0" green="0"/>
+   <ComposerItem width="63.1441" x="225.909" transparency="0" y="191.335" rotation="0" height="13.2525" positionMode="0" frame="false" outlineWidth="0" zValue="9" lastValidViewScaleFactor="3.84834" uuid="{6434e4c2-5941-49d7-b8df-e9bc493a5069}" id="" background="false" blendMode="0" positionLock="false">
+    <FrameColor alpha="255" red="0" blue="0" green="0"/>
+    <BackgroundColor alpha="0" red="255" blue="255" green="255"/>
+   </ComposerItem>
+  </ComposerLabel>
+  <ComposerLabel valign="32" labelText="Fonte: Secretaria Municipal de Meio Ambiente e Urbanismo - SEMURB&#xa;Fotografia Aérea ano de 2006&#xa;Escala de Vôo: 1:8000 -  Escala de Restiuição - 1:2000 " htmlState="0" halign="4" margin="1">
+   <LabelFont description="MS Shell Dlg 2,5,-1,5,50,0,0,0,0,0"/>
+   <FontColor red="0" blue="0" green="0"/>
+   <ComposerItem width="63.5745" x="225.925" transparency="0" y="183.393" rotation="0" height="8.29903" positionMode="0" frame="true" outlineWidth="0" zValue="8" lastValidViewScaleFactor="3.84834" uuid="{aa89a7a1-b9c3-4c84-9dfd-e17dc25ba372}" id="" background="false" blendMode="0" positionLock="false">
+    <FrameColor alpha="255" red="0" blue="0" green="0"/>
+    <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+   </ComposerItem>
+  </ComposerLabel>
+  <ComposerLabel valign="64" labelText="______________________________________&#xa;Pedro Celestino Dantas Junior&#xa;Analista de Regulação em Saneamento" htmlState="0" halign="4" margin="0.5">
+   <LabelFont description="MS Shell Dlg 2,7,-1,5,50,0,0,0,0,0"/>
+   <FontColor red="0" blue="0" green="0"/>
+   <ComposerItem width="63.5575" x="225.917" transparency="0" y="47.1121" rotation="0" height="15.1874" positionMode="0" frame="true" outlineWidth="0" zValue="7" lastValidViewScaleFactor="5.65772" uuid="{66e776b6-43a7-42a0-b072-8a596b04edad}" id="" background="false" blendMode="0" positionLock="false">
+    <FrameColor alpha="255" red="0" blue="0" green="0"/>
+    <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+   </ComposerItem>
+  </ComposerLabel>
+  <ComposerLabel valign="32" labelText="Mapa de Média de casos de DDA por semana epidemiológica" htmlState="0" halign="1" margin="1">
+   <LabelFont description="MS Shell Dlg 2,12,-1,5,50,0,0,0,0,0"/>
+   <FontColor red="0" blue="0" green="0"/>
+   <ComposerItem width="59.1702" x="226.835" transparency="0" y="27.5922" rotation="0" height="19.5199" positionMode="0" frame="false" outlineWidth="0.3" zValue="5" lastValidViewScaleFactor="2.77517" uuid="{410cd8db-8804-4223-b65b-5fbbaebc47b7}" id="" background="false" blendMode="0" positionLock="false">
+    <FrameColor alpha="255" red="0" blue="0" green="0"/>
+    <BackgroundColor alpha="0" red="255" blue="255" green="255"/>
+   </ComposerItem>
+  </ComposerLabel>
+  <ComposerLabel valign="32" labelText="" htmlState="0" halign="1" margin="1">
+   <LabelFont description="MS Shell Dlg 2,10,-1,5,50,0,0,0,0,0"/>
+   <FontColor red="0" blue="0" green="0"/>
+   <ComposerItem width="63.5905" x="225.909" transparency="0" y="6.71649" rotation="0" height="18.1437" positionMode="0" frame="true" outlineWidth="0" zValue="4" lastValidViewScaleFactor="2.77517" uuid="{daa6e70e-4e41-4b6c-85ff-7e6aaed7e189}" id="" background="false" blendMode="0" positionLock="false">
+    <FrameColor alpha="255" red="0" blue="0" green="0"/>
+    <BackgroundColor alpha="0" red="255" blue="255" green="255"/>
+   </ComposerItem>
+  </ComposerLabel>
+  <ComposerMap keepLayerSet="true" overviewFrameMap="-1" id="0" previewMode="Cache" drawCanvasItems="true">
+   <overviewFrame overviewBlendMode="0" overviewFrameMap="-1" overviewInverted="false">
+    <symbol alpha="0.3" type="fill" name="">
+     <layer pass="0" class="SimpleFill" locked="0">
+      <prop k="border_width_unit" v="MM"/>
+      <prop k="color" v="255,0,0,255"/>
+      <prop k="color_border" v="0,0,0,255"/>
+      <prop k="offset" v="0,0"/>
+      <prop k="offset_unit" v="MM"/>
+      <prop k="style" v="solid"/>
+      <prop k="style_border" v="no"/>
+      <prop k="width_border" v="0.26"/>
+     </layer>
+    </symbol>
+   </overviewFrame>
+   <Extent ymin="9.34555e+06" xmin="245089" ymax="9.36962e+06" xmax="271739"/>
+   <LayerSet>
+    <Layer>1QUAD_FISCOQUIMICO20130923213455441</Layer>
+   </LayerSet>
+   <Grid gridStyle="1" crossLength="1" intervalX="5000" offsetX="0" intervalY="5000" offsetY="0" gridFrameStyle="0" gridFrameWidth="2" gridBlendMode="0" show="1">
+    <symbol alpha="1" type="line" name="">
+     <layer pass="0" class="SimpleLine" locked="0">
+      <prop k="capstyle" v="square"/>
+      <prop k="color" v="0,0,0,255"/>
+      <prop k="customdash" v="5;2"/>
+      <prop k="customdash_unit" v="MM"/>
+      <prop k="joinstyle" v="bevel"/>
+      <prop k="offset" v="0"/>
+      <prop k="offset_unit" v="MM"/>
+      <prop k="penstyle" v="solid"/>
+      <prop k="use_custom_dash" v="0"/>
+      <prop k="width" v="0"/>
+      <prop k="width_unit" v="MM"/>
+     </layer>
+    </symbol>
+    <Annotation rightDirection="1" bottomDirection="0" format="0" topPosition="1" precision="0" leftDirection="1" rightPosition="1" bottomPosition="1" frameDistance="1" show="1" font="MS Shell Dlg 2,8.25,-1,5,50,0,0,0,0,0" leftPosition="1" topDirection="0">
+     <fontColor red="0" blue="0" green="0"/>
+    </Annotation>
+   </Grid>
+   <ComposerItem width="205.681" x="11.3934" transparency="0" y="11.5353" rotation="0" height="185.795" positionMode="0" frame="true" outlineWidth="0.3" zValue="3" lastValidViewScaleFactor="2.77517" uuid="{aafe9164-6c11-400e-9aaa-dd0f5c46e3f2}" id="" background="false" blendMode="0" positionLock="false">
+    <FrameColor alpha="255" red="0" blue="0" green="0"/>
+    <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+   </ComposerItem>
+  </ComposerMap>
+  <ComposerShape shapeType="1">
+   <ComposerItem width="216.9" x="4.48337" transparency="0" y="7.31597" rotation="0" height="196.771" positionMode="0" frame="true" outlineWidth="0" zValue="2" lastValidViewScaleFactor="2.77517" uuid="{f5366b54-bac7-48de-af6c-0108bae5fdcb}" id="" background="false" blendMode="0" positionLock="false">
+    <FrameColor alpha="0" red="255" blue="255" green="255"/>
+    <BackgroundColor alpha="0" red="255" blue="255" green="255"/>
+   </ComposerItem>
+  </ComposerShape>
+  <ComposerShape shapeType="1">
+   <ComposerItem width="63.5905" x="225.909" transparency="0" y="6.71649" rotation="0" height="197.253" positionMode="0" frame="true" outlineWidth="0.3" zValue="1" lastValidViewScaleFactor="11.3154" uuid="{386fc420-f937-430e-8269-dfd20fec721e}" id="" background="true" blendMode="0" positionLock="false">
+    <FrameColor alpha="255" red="0" blue="0" green="0"/>
+    <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+   </ComposerItem>
+  </ComposerShape>
+ </Composition>
+</Composer>

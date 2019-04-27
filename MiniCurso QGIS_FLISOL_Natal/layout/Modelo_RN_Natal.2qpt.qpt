@@ -1,0 +1,68 @@
+<Composer title="Compositor 1" visible="1">
+ <ComposerMap keepLayerSet="true" id="1" previewMode="Cache" drawCanvasItems="true">
+  <Extent ymin="9182520.942272008" xmin="-133546.3671390836" ymax="9502703.526868256" xmax="299953.6333030864"/>
+  <LayerSet>
+   <Layer>IBGE_2007_SAD6920111228103814525</Layer>
+  </LayerSet>
+  <Grid gridStyle="0" crossLength="3" penColorRed="0" penColorBlue="0" intervalX="0" offsetX="0" intervalY="0" offsetY="0" show="0" penWidth="0" penColorGreen="0">
+   <Annotation direction="0" precision="3" position="1" frameDistance="1" show="0" font="MS Shell Dlg 2,8.25,-1,5,50,0,0,0,0,0"/>
+  </Grid>
+  <ComposerItem width="51" x="198.1629213483146" y="156.1151685393259" rotation="0" height="37.66853932584269" frame="true" outlineWidth="0.3" zValue="4" lastValidViewScaleFactor="2.335570469798658" positionLock="false">
+   <FrameColor alpha="255" red="0" blue="0" green="0"/>
+   <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerMap>
+ <ComposerArrow startMarkerFile="" arrowHeadWidth="4" endMarkerFile="" outlineWidth="0" markerMode="1">
+  <ArrowColor alpha="255" red="255" blue="0" green="0"/>
+  <StartPoint x="244.8010057471264" y="170.6221264367816"/>
+  <StopPoint x="253.364224137931" y="155.6364942528736"/>
+  <ComposerItem width="12.56321839080462" x="242.8010057471264" y="153.6364942528736" rotation="0" height="18.98563218390805" frame="true" outlineWidth="0" zValue="17" lastValidViewScaleFactor="2.335570469798658" positionLock="false">
+   <FrameColor alpha="0" red="255" blue="255" green="255"/>
+   <BackgroundColor alpha="0" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerArrow>
+ <ComposerArrow startMarkerFile="" arrowHeadWidth="4" endMarkerFile="" outlineWidth="0" markerMode="1">
+  <ArrowColor alpha="255" red="255" blue="0" green="0"/>
+  <StartPoint x="244.3728448275862" y="174.3685344827586"/>
+  <StopPoint x="253.5783045977011" y="193.742816091954"/>
+  <ComposerItem width="13.20545977011494" x="242.3728448275862" y="172.3685344827586" rotation="0" height="23.37428160919541" frame="true" outlineWidth="0" zValue="19" lastValidViewScaleFactor="2.335570469798658" positionLock="false">
+   <FrameColor alpha="0" red="255" blue="255" green="255"/>
+   <BackgroundColor alpha="0" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerArrow>
+ <ComposerShape shapeType="1" shapeWidth="2.890086206896569" outlineWidth="0" transparentFill="1" shapeHeight="3.960488505747151">
+  <OutlineColor alpha="255" red="255" blue="0" green="0"/>
+  <FillColor alpha="255" red="0" blue="0" green="0"/>
+  <ComposerItem width="2.890086206896569" x="241.9109195402299" y="170.7291666666666" rotation="0" height="3.960488505747151" frame="true" outlineWidth="0" zValue="11" lastValidViewScaleFactor="9.342281879194632" positionLock="false">
+   <FrameColor alpha="0" red="255" blue="255" green="255"/>
+   <BackgroundColor alpha="0" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerShape>
+ <ComposerMap keepLayerSet="true" id="2" previewMode="Cache" drawCanvasItems="true">
+  <Extent ymin="9343569.197310451" xmin="239307.0040277437" ymax="9373711.726076828" xmax="271307.0040603837"/>
+  <LayerSet>
+   <Layer>Limite_dos_bairros_Grade20111228104450765</Layer>
+  </LayerSet>
+  <Grid gridStyle="0" crossLength="3" penColorRed="0" penColorBlue="0" intervalX="0" offsetX="0" intervalY="0" offsetY="0" show="0" penWidth="0" penColorGreen="0">
+   <Annotation direction="0" precision="3" position="1" frameDistance="1" show="0" font="MS Shell Dlg 2,8.25,-1,5,50,0,0,0,0,0"/>
+  </Grid>
+  <ComposerItem width="40" x="253.4252873563218" y="155.8505747126437" rotation="0" height="37.67816091954023" frame="true" outlineWidth="0.3" zValue="5" lastValidViewScaleFactor="2.335570469798658" positionLock="false">
+   <FrameColor alpha="255" red="255" blue="0" green="0"/>
+   <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerMap>
+ <ComposerMap keepLayerSet="true" id="0" previewMode="Cache" drawCanvasItems="true">
+  <Extent ymin="9345473.673214734" xmin="241788.5965605614" ymax="9369523.673239287" xmax="266358.5965856228"/>
+  <LayerSet>
+   <Layer>Limite_dos_bairros20111228103157233</Layer>
+  </LayerSet>
+  <Grid gridStyle="0" crossLength="3" penColorRed="0" penColorBlue="0" intervalX="0" offsetX="0" intervalY="0" offsetY="0" show="0" penWidth="0" penColorGreen="0">
+   <Annotation direction="0" precision="3" position="1" frameDistance="1" show="0" font="MS Shell Dlg 2,8.25,-1,5,50,0,0,0,0,0"/>
+  </Grid>
+  <ComposerItem width="189" x="8" y="9" rotation="0" height="185" frame="true" outlineWidth="0.3" zValue="1" lastValidViewScaleFactor="2.335570469798658" positionLock="false">
+   <FrameColor alpha="255" red="0" blue="0" green="0"/>
+   <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerMap>
+ <Composition printResolution="300" paperWidth="297" snapGridOffsetX="0" snapGridResolution="0" snapGridOffsetY="0" snapping="0" paperHeight="210" printAsRaster="0"/>
+</Composer>

@@ -1,0 +1,129 @@
+<Composer title="Compositor 3" visible="1">
+ <ComposerLegend symbolWidth="7" title="Legenda" boxSpace="2" titleFont="MS Shell Dlg 2,16,-1,5,50,0,0,0,0,0" groupFont="MS Shell Dlg 2,14,-1,5,50,0,0,0,0,0" layerFont="MS Shell Dlg 2,12,-1,5,50,0,0,0,0,0" symbolSpace="2" symbolHeight="4" layerSpace="3" iconLabelSpace="2" itemFont="MS Shell Dlg 2,12,-1,5,50,0,0,0,0,0">
+  <Model>
+   <LayerItem layerId="Pontos_de_Monitoramento_de_Pressão20110720090848705" text="Pontos de Monitoramento de Pressão">
+    <VectorClassificationItem layerId="Pontos_de_Monitoramento_de_Pressão20110720090848705" text="">
+     <symbol>
+      <lowervalue></lowervalue>
+      <uppervalue></uppervalue>
+      <label></label>
+      <pointsymbol>hard:circle</pointsymbol>
+      <pointsize>5</pointsize>
+      <pointsizeunits>pixels</pointsizeunits>
+      <outlinecolor red="0" blue="0" green="0"/>
+      <outlinestyle>SolidLine</outlinestyle>
+      <outlinewidth>0.26</outlinewidth>
+      <fillcolor red="191" blue="220" green="45"/>
+      <fillpattern>SolidPattern</fillpattern>
+      <texturepath></texturepath>
+     </symbol>
+    </VectorClassificationItem>
+   </LayerItem>
+   <LayerItem layerId="Limite_dos_bairros20110718091637589" text="Limite_dos_bairros">
+    <VectorClassificationItem layerId="Limite_dos_bairros20110718091637589" text="">
+     <symbol>
+      <lowervalue></lowervalue>
+      <uppervalue></uppervalue>
+      <label></label>
+      <pointsymbol>hard:circle</pointsymbol>
+      <pointsize>2</pointsize>
+      <pointsizeunits>pixels</pointsizeunits>
+      <outlinecolor red="0" blue="0" green="0"/>
+      <outlinestyle>SolidLine</outlinestyle>
+      <outlinewidth>0.46</outlinewidth>
+      <fillcolor red="90" blue="210" green="229"/>
+      <fillpattern>NoBrush</fillpattern>
+      <texturepath></texturepath>
+     </symbol>
+    </VectorClassificationItem>
+   </LayerItem>
+   <LayerItem layerId="REDE_DE_ÁGUA20110728083034214" text="REDE_DE_ÁGUA">
+    <VectorClassificationItem layerId="REDE_DE_ÁGUA20110728083034214" text="">
+     <symbol>
+      <lowervalue></lowervalue>
+      <uppervalue></uppervalue>
+      <label></label>
+      <pointsymbol>hard:circle</pointsymbol>
+      <pointsize>2</pointsize>
+      <pointsizeunits>pixels</pointsizeunits>
+      <outlinecolor red="146" blue="155" green="154"/>
+      <outlinestyle>SolidLine</outlinestyle>
+      <outlinewidth>0.26</outlinewidth>
+      <fillcolor red="0" blue="0" green="0"/>
+      <fillpattern>NoBrush</fillpattern>
+      <texturepath null="1"></texturepath>
+     </symbol>
+    </VectorClassificationItem>
+   </LayerItem>
+   <LayerItem layerId="Área_Influe_Reservat20110728083452880" text="Área_Influe_Reservat">
+    <VectorClassificationItem layerId="Área_Influe_Reservat20110728083452880" text="">
+     <symbol>
+      <lowervalue></lowervalue>
+      <uppervalue></uppervalue>
+      <label></label>
+      <pointsymbol>hard:circle</pointsymbol>
+      <pointsize>2</pointsize>
+      <pointsizeunits>pixels</pointsizeunits>
+      <outlinecolor red="0" blue="0" green="0"/>
+      <outlinestyle>SolidLine</outlinestyle>
+      <outlinewidth>0.26</outlinewidth>
+      <fillcolor red="43" blue="115" green="170"/>
+      <fillpattern>SolidPattern</fillpattern>
+      <texturepath null="1"></texturepath>
+     </symbol>
+    </VectorClassificationItem>
+   </LayerItem>
+   <LayerItem layerId="RESERVATÓRIOS20110718092357674" text="RESERVATÓRIOS">
+    <VectorClassificationItem layerId="RESERVATÓRIOS20110718092357674" text="">
+     <symbol>
+      <lowervalue></lowervalue>
+      <uppervalue></uppervalue>
+      <label></label>
+      <pointsymbol>svg:/transport/amenity=parking.svg</pointsymbol>
+      <pointsize>5</pointsize>
+      <pointsizeunits>pixels</pointsizeunits>
+      <outlinecolor red="0" blue="0" green="0"/>
+      <outlinestyle>SolidLine</outlinestyle>
+      <outlinewidth>0.26</outlinewidth>
+      <fillcolor red="182" blue="78" green="131"/>
+      <fillpattern>SolidPattern</fillpattern>
+      <texturepath null="1"></texturepath>
+     </symbol>
+    </VectorClassificationItem>
+   </LayerItem>
+  </Model>
+  <ComposerItem width="72" x="209.6387096774193" y="9.529032258064516" rotation="0" height="78.2" frame="true" outlineWidth="0.3" zValue="2" lastValidViewScaleFactor="2.203791469194313" positionLock="false">
+   <FrameColor alpha="255" red="0" blue="0" green="0"/>
+   <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerLegend>
+ <ComposerMap keepLayerSet="false" id="0" previewMode="Cache">
+  <Extent ymin="9352909.748805562" xmin="248899.5493418287" ymax="9357045.60880978" xmax="252815.6293458231"/>
+  <LayerSet/>
+  <Grid gridStyle="0" crossLength="3" penColorRed="0" penColorBlue="0" intervalX="1000" offsetX="0" intervalY="1000" offsetY="0" show="1" penWidth="0" penColorGreen="0">
+   <Annotation direction="2" precision="3" position="0" frameDistance="1" show="1" font="MS Shell Dlg 2,8.25,-1,5,50,0,0,0,0,0"/>
+  </Grid>
+  <ComposerItem width="196" x="2.999999999999986" y="0.9999999999999787" rotation="0" height="207" frame="true" outlineWidth="0.3" zValue="1" lastValidViewScaleFactor="2.203791469194313" positionLock="false">
+   <FrameColor alpha="255" red="0" blue="0" green="0"/>
+   <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerMap>
+ <ComposerAttributeTable contentFont="MS Shell Dlg 2,8.25,-1,5,50,0,0,0,0,0" gridStrokeWidth="0.5" gridColorGreen="0" composerMap="-1" showGrid="1" headerFont="MS Shell Dlg 2,8.25,-1,5,50,0,0,0,0,0" gridColorBlue="0" lineTextDist="1" gridColorRed="0" showOnlyVisibleFeatures="1" vectorLayer="Pontos_de_Monitoramento_de_Pressão20110720090848705">
+  <displayAttributes>
+   <attributeEntry index="0"/>
+   <attributeEntry index="2"/>
+   <attributeEntry index="5"/>
+   <attributeEntry index="6"/>
+   <attributeEntry index="8"/>
+   <attributeEntry index="11"/>
+   <attributeEntry index="12"/>
+  </displayAttributes>
+  <attributeAliasMap/>
+  <sortColumns/>
+  <ComposerItem width="110" x="185.5892473118279" y="182.8666666666667" rotation="0" height="11.3" frame="true" outlineWidth="0.3" zValue="3" lastValidViewScaleFactor="2.203791469194313" positionLock="false">
+   <FrameColor alpha="255" red="0" blue="0" green="0"/>
+   <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerAttributeTable>
+ <Composition printResolution="300" paperWidth="297" snapGridOffsetX="0" snapGridResolution="0" snapGridOffsetY="0" snapping="0" paperHeight="210"/>
+</Composer>

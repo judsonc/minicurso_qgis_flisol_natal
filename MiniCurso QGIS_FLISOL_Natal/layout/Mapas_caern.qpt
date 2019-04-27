@@ -1,0 +1,204 @@
+<Composer title="Compositor 1" visible="1" >
+ <ComposerLabel valign="32" labelText="Mapa de localização dos mananciais de captação da CAERN em Natal&#xa;" halign="4" margin="1" >
+  <LabelFont description="MS Shell Dlg 2,10,-1,5,50,0,0,0,0,0" />
+  <FontColor red="0" blue="0" green="0" />
+  <ComposerItem width="60.49999999999998" x="226.5" y="14.5" rotation="0" height="11.25" frame="false" outlineWidth="0.3" zValue="16" lastValidViewScaleFactor="2.777251184834123" positionLock="false" >
+   <FrameColor alpha="255" red="0" blue="0" green="0" />
+   <BackgroundColor alpha="255" red="255" blue="255" green="255" />
+  </ComposerItem>
+ </ComposerLabel>
+ <ComposerShape shapeType="1" shapeWidth="63.58496745324905" outlineWidth="0" transparentFill="1" shapeHeight="46.19519120288152" >
+  <OutlineColor alpha="255" red="0" blue="0" green="0" />
+  <FillColor alpha="255" red="0" blue="0" green="0" />
+  <ComposerItem width="63.58496745324905" x="225.9114549677859" y="140.9789046892556" rotation="0" height="46.19519120288152" frame="true" outlineWidth="0" zValue="12" lastValidViewScaleFactor="8" positionLock="false" >
+   <FrameColor alpha="0" red="255" blue="255" green="255" />
+   <BackgroundColor alpha="0" red="255" blue="255" green="255" />
+  </ComposerItem>
+ </ComposerShape>
+ <ComposerShape shapeType="1" shapeWidth="19.60318503118502" outlineWidth="0" transparentFill="1" shapeHeight="7.99201" >
+  <OutlineColor alpha="255" red="0" blue="0" green="0" />
+  <FillColor alpha="255" red="0" blue="0" green="0" />
+  <ComposerItem width="19.60318503118502" x="246.6384647869022" y="187.1749158004158" rotation="0" height="7.99201" frame="true" outlineWidth="0" zValue="6" lastValidViewScaleFactor="8" positionLock="false" >
+   <FrameColor alpha="0" red="255" blue="255" green="255" />
+   <BackgroundColor alpha="0" red="255" blue="255" green="255" />
+  </ComposerItem>
+ </ComposerShape>
+ <ComposerShape shapeType="1" shapeWidth="63.58496744791665" outlineWidth="0" transparentFill="1" shapeHeight="196.085" >
+  <OutlineColor alpha="255" red="0" blue="0" green="0" />
+  <FillColor alpha="255" red="0" blue="0" green="0" />
+  <ComposerItem width="63.58496744791665" x="226.415" y="7.896051122661127" rotation="0" height="196.085" frame="true" outlineWidth="0" zValue="2" lastValidViewScaleFactor="2" positionLock="false" >
+   <FrameColor alpha="0" red="255" blue="255" green="255" />
+   <BackgroundColor alpha="0" red="255" blue="255" green="255" />
+  </ComposerItem>
+ </ComposerShape>
+ <ComposerShape shapeType="1" shapeWidth="63.4991455078125" outlineWidth="0" transparentFill="1" shapeHeight="48.25244140625" >
+  <OutlineColor alpha="255" red="0" blue="0" green="0" />
+  <FillColor alpha="255" red="0" blue="0" green="0" />
+  <ComposerItem width="63.4991455078125" x="226.2749852515732" y="29.76444345936434" rotation="0" height="48.25244140625" frame="true" outlineWidth="0" zValue="11" lastValidViewScaleFactor="2.777251184834123" positionLock="false" >
+   <FrameColor alpha="0" red="255" blue="255" green="255" />
+   <BackgroundColor alpha="0" red="255" blue="255" green="255" />
+  </ComposerItem>
+ </ComposerShape>
+ <ComposerShape shapeType="1" shapeWidth="28.46575961538463" outlineWidth="0" transparentFill="1" shapeHeight="8.800805613305606" >
+  <OutlineColor alpha="255" red="0" blue="0" green="0" />
+  <FillColor alpha="255" red="0" blue="0" green="0" />
+  <ComposerItem width="28.46575961538463" x="225.9079067047817" y="195.1667749480249" rotation="0" height="8.800805613305606" frame="true" outlineWidth="0" zValue="3" lastValidViewScaleFactor="4" positionLock="false" >
+   <FrameColor alpha="0" red="255" blue="255" green="255" />
+   <BackgroundColor alpha="0" red="255" blue="255" green="255" />
+  </ComposerItem>
+ </ComposerShape>
+ <ComposerShape shapeType="1" shapeWidth="63.58515309979842" outlineWidth="0" transparentFill="1" shapeHeight="12.70537634408603" >
+  <OutlineColor alpha="255" red="0" blue="0" green="0" />
+  <FillColor alpha="255" red="0" blue="0" green="0" />
+  <ComposerItem width="63.58515309979842" x="225.9148143481183" y="164.2623655913978" rotation="0" height="12.70537634408603" frame="true" outlineWidth="0" zValue="13" lastValidViewScaleFactor="36106.91943127962" positionLock="false" >
+   <FrameColor alpha="0" red="255" blue="255" green="255" />
+   <BackgroundColor alpha="0" red="255" blue="255" green="255" />
+  </ComposerItem>
+ </ComposerShape>
+ <ComposerShape shapeType="1" shapeWidth="20.727130977131" outlineWidth="0" transparentFill="1" shapeHeight="7.992789837977909" >
+  <OutlineColor alpha="255" red="0" blue="0" green="0" />
+  <FillColor alpha="255" red="0" blue="0" green="0" />
+  <ComposerItem width="20.727130977131" x="225.9147609147609" y="187.173985110047" rotation="0" height="7.992789837977909" frame="true" outlineWidth="0" zValue="5" lastValidViewScaleFactor="8" positionLock="false" >
+   <FrameColor alpha="0" red="255" blue="255" green="255" />
+   <BackgroundColor alpha="0" red="255" blue="255" green="255" />
+  </ComposerItem>
+ </ComposerShape>
+ <ComposerShape shapeType="1" shapeWidth="63.5849609375" outlineWidth="0" transparentFill="1" shapeHeight="6.5" >
+  <OutlineColor alpha="255" red="0" blue="0" green="0" />
+  <FillColor alpha="255" red="0" blue="0" green="0" />
+  <ComposerItem width="63.5849609375" x="225.9150390625" y="7.875" rotation="0" height="6.5" frame="true" outlineWidth="0" zValue="10" lastValidViewScaleFactor="8" positionLock="false" >
+   <FrameColor alpha="0" red="255" blue="255" green="255" />
+   <BackgroundColor alpha="0" red="255" blue="255" green="255" />
+  </ComposerItem>
+ </ComposerShape>
+ <ComposerShape shapeType="1" shapeWidth="63.6533203125" outlineWidth="0" transparentFill="1" shapeHeight="15.7490234375" >
+  <OutlineColor alpha="255" red="0" blue="0" green="0" />
+  <FillColor alpha="255" red="0" blue="0" green="0" />
+  <ComposerItem width="63.6533203125" x="225.9150390625" y="14.375" rotation="0" height="15.7490234375" frame="true" outlineWidth="0" zValue="9" lastValidViewScaleFactor="8" positionLock="false" >
+   <FrameColor alpha="0" red="255" blue="255" green="255" />
+   <BackgroundColor alpha="0" red="255" blue="255" green="255" />
+  </ComposerItem>
+ </ComposerShape>
+ <ComposerShape shapeType="1" shapeWidth="35.12097193347189" outlineWidth="0" transparentFill="1" shapeHeight="8.773389999999999" >
+  <OutlineColor alpha="255" red="0" blue="0" green="0" />
+  <FillColor alpha="255" red="0" blue="0" green="0" />
+  <ComposerItem width="35.12097193347189" x="254.38029495842" y="195.1737289501039" rotation="0" height="8.773389999999999" frame="true" outlineWidth="0" zValue="4" lastValidViewScaleFactor="8" positionLock="false" >
+   <FrameColor alpha="0" red="255" blue="255" green="255" />
+   <BackgroundColor alpha="0" red="255" blue="255" green="255" />
+  </ComposerItem>
+ </ComposerShape>
+ <ComposerShape shapeType="1" shapeWidth="213.6320166320166" outlineWidth="1" transparentFill="1" shapeHeight="196.0852390852391" >
+  <OutlineColor alpha="255" red="0" blue="0" green="0" />
+  <FillColor alpha="255" red="0" blue="0" green="0" />
+  <ComposerItem width="213.6320166320166" x="7.457380457380457" y="7.896049896049895" rotation="0" height="196.0852390852391" frame="true" outlineWidth="0" zValue="1" lastValidViewScaleFactor="2.279620853080569" positionLock="false" >
+   <FrameColor alpha="0" red="255" blue="255" green="255" />
+   <BackgroundColor alpha="0" red="255" blue="255" green="255" />
+  </ComposerItem>
+ </ComposerShape>
+ <ComposerLabel valign="32" labelText="TÍTULO" halign="4" margin="0" >
+  <LabelFont description="MS Shell Dlg 2,10,-1,5,50,0,0,0,0,0" />
+  <FontColor red="0" blue="0" green="0" />
+  <ComposerItem width="32.99999999999998" x="239.75" y="8.25" rotation="0" height="5.25" frame="false" outlineWidth="0.3" zValue="8" lastValidViewScaleFactor="4" positionLock="false" >
+   <FrameColor alpha="255" red="0" blue="0" green="0" />
+   <BackgroundColor alpha="255" red="255" blue="255" green="255" />
+  </ComposerItem>
+ </ComposerLabel>
+ <ComposerMap keepLayerSet="false" id="0" previewMode="Cache" >
+  <Extent ymin="9344596.941523641" xmin="240338.168347409" ymax="9370122.41952049" xmax="268279.1007838534" />
+  <LayerSet/>
+  <Grid gridStyle="1" crossLength="3" penColorRed="0" penColorBlue="0" intervalX="5000" offsetX="0" intervalY="5000" offsetY="0" show="1" penWidth="0" penColorGreen="0" >
+   <Annotation direction="3" precision="3" position="1" frameDistance="1" show="1" font="MS Shell Dlg 2,8.25,-1,5,50,0,0,0,0,0" />
+  </Grid>
+  <ComposerItem width="214" x="7" y="8.5" rotation="0" height="195.5" frame="true" outlineWidth="0.3" zValue="14" lastValidViewScaleFactor="2.777251184834123" positionLock="false" >
+   <FrameColor alpha="255" red="0" blue="0" green="0" />
+   <BackgroundColor alpha="255" red="255" blue="255" green="255" />
+  </ComposerItem>
+ </ComposerMap>
+ <ComposerLabel valign="32" labelText="Datum&#xa;SAD 69" halign="4" margin="0" >
+  <LabelFont description="MS Shell Dlg 2,10,-1,5,50,0,0,0,0,0" />
+  <FontColor red="0" blue="0" green="0" />
+  <ComposerItem width="28.74999999999998" x="225.875" y="164.375" rotation="0" height="12.50000000000001" frame="true" outlineWidth="0.3" zValue="17" lastValidViewScaleFactor="8" positionLock="false" >
+   <FrameColor alpha="255" red="0" blue="0" green="0" />
+   <BackgroundColor alpha="255" red="255" blue="255" green="255" />
+  </ComposerItem>
+ </ComposerLabel>
+ <ComposerLabel valign="128" labelText="SIG&#xa;Quantum GIS" halign="4" margin="1" >
+  <LabelFont description="MS Shell Dlg 2,10,-1,5,50,0,0,0,0,0" />
+  <FontColor red="0" blue="0" green="0" />
+  <ComposerItem width="28.78125000000001" x="225.84375" y="176.75" rotation="0" height="10.25000000000001" frame="true" outlineWidth="0.3" zValue="19" lastValidViewScaleFactor="32" positionLock="false" >
+   <FrameColor alpha="255" red="0" blue="0" green="0" />
+   <BackgroundColor alpha="255" red="255" blue="255" green="255" />
+  </ComposerItem>
+ </ComposerLabel>
+ <ComposerLabel valign="128" labelText="Projeção&#xa;UTM" halign="4" margin="0" >
+  <LabelFont description="MS Shell Dlg 2,10,-1,5,50,0,0,0,0,0" />
+  <FontColor red="0" blue="0" green="0" />
+  <ComposerItem width="34.62499999999998" x="254.875" y="164.25" rotation="0" height="12.50000000000001" frame="true" outlineWidth="0.3" zValue="18" lastValidViewScaleFactor="2" positionLock="false" >
+   <FrameColor alpha="255" red="0" blue="0" green="0" />
+   <BackgroundColor alpha="255" red="255" blue="255" green="255" />
+  </ComposerItem>
+ </ComposerLabel>
+ <ComposerLegend symbolWidth="7" title="Legenda" boxSpace="2" titleFont="MS Shell Dlg 2,16,-1,5,50,0,0,0,0,0" groupFont="MS Shell Dlg 2,14,-1,5,50,0,0,0,0,0" layerFont="MS Shell Dlg 2,12,-1,5,50,0,0,0,0,0" symbolSpace="2" symbolHeight="4" layerSpace="3" iconLabelSpace="2" itemFont="MS Shell Dlg 2,12,-1,5,50,0,0,0,0,0" >
+  <Model>
+   <LayerItem layerId="ESTAÇÕES_DE_TRATAMENTO_DE_ÁGUA20111010164612425" text="ETA" >
+    <VectorClassificationItem layerId="ESTAÇÕES_DE_TRATAMENTO_DE_ÁGUA20111010164612425" text="" >
+     <symbol>
+      <lowervalue></lowervalue>
+      <uppervalue></uppervalue>
+      <label></label>
+      <pointsymbol>hard:circle</pointsymbol>
+      <pointsize>2</pointsize>
+      <pointsizeunits>pixels</pointsizeunits>
+      <outlinecolor red="0" blue="0" green="0" />
+      <outlinestyle>SolidLine</outlinestyle>
+      <outlinewidth>0.26</outlinewidth>
+      <fillcolor red="255" blue="0" green="0" />
+      <fillpattern>SolidPattern</fillpattern>
+      <texturepath null="1" ></texturepath>
+     </symbol>
+    </VectorClassificationItem>
+   </LayerItem>
+   <LayerItem layerId="CAPTAÇÕES_SUBTERRÂNEAS20111010164335645" text="POÇOS" >
+    <VectorClassificationItem layerId="CAPTAÇÕES_SUBTERRÂNEAS20111010164335645" text="" >
+     <symbol>
+      <lowervalue></lowervalue>
+      <uppervalue></uppervalue>
+      <label></label>
+      <pointsymbol>hard:circle</pointsymbol>
+      <pointsize>4</pointsize>
+      <pointsizeunits>pixels</pointsizeunits>
+      <outlinecolor red="0" blue="0" green="0" />
+      <outlinestyle>SolidLine</outlinestyle>
+      <outlinewidth>0.26</outlinewidth>
+      <fillcolor red="0" blue="255" green="0" />
+      <fillpattern>SolidPattern</fillpattern>
+      <texturepath null="1" ></texturepath>
+     </symbol>
+    </VectorClassificationItem>
+   </LayerItem>
+   <LayerItem layerId="Limite_dos_bairros20111010160105903" text="Limite_dos_bairros" >
+    <VectorClassificationItem layerId="Limite_dos_bairros20111010160105903" text="" >
+     <symbol>
+      <lowervalue></lowervalue>
+      <uppervalue></uppervalue>
+      <label></label>
+      <pointsymbol>hard:circle</pointsymbol>
+      <pointsize>2</pointsize>
+      <pointsizeunits>pixels</pointsizeunits>
+      <outlinecolor red="0" blue="0" green="0" />
+      <outlinestyle>SolidLine</outlinestyle>
+      <outlinewidth>0.26</outlinewidth>
+      <fillcolor red="0" blue="0" green="0" />
+      <fillpattern>Dense7Pattern</fillpattern>
+      <texturepath null="1" ></texturepath>
+     </symbol>
+    </VectorClassificationItem>
+   </LayerItem>
+  </Model>
+  <ComposerItem width="39" x="237.6450511945392" y="82.09556313993174" rotation="0" height="49.8" frame="false" outlineWidth="0.3" zValue="18" lastValidViewScaleFactor="2.777251184834123" positionLock="false" >
+   <FrameColor alpha="255" red="0" blue="0" green="0" />
+   <BackgroundColor alpha="255" red="255" blue="255" green="255" />
+  </ComposerItem>
+ </ComposerLegend>
+ <Composition printResolution="300" paperWidth="297" snapGridOffsetX="0" snapGridResolution="0" snapGridOffsetY="0" snapping="1" paperHeight="210" />
+</Composer>

@@ -1,0 +1,166 @@
+<Composer title="Mapa" visible="1">
+ <Composition gridVisible="0" printResolution="300" paperWidth="297" snapGridOffsetX="0" guidesVisible="1" snapGridResolution="10" snapGridOffsetY="0" alignmentSnap="1" snapping="0" snapTolerancePixels="5" numPages="1" paperHeight="210" smartGuides="1" printAsRaster="0" generateWorldFile="0">
+  <symbol alpha="1" type="fill" name="">
+   <layer pass="0" class="SimpleFill" locked="0">
+    <prop k="border_width_map_unit_scale" v="0,0"/>
+    <prop k="color" v="255,255,255,255"/>
+    <prop k="joinstyle" v="miter"/>
+    <prop k="offset" v="0,0"/>
+    <prop k="offset_map_unit_scale" v="0,0"/>
+    <prop k="offset_unit" v="MM"/>
+    <prop k="outline_color" v="0,0,0,255"/>
+    <prop k="outline_style" v="no"/>
+    <prop k="outline_width" v="0.26"/>
+    <prop k="outline_width_unit" v="MM"/>
+    <prop k="style" v="solid"/>
+   </layer>
+  </symbol>
+  <ComposerMap mapRotation="0" keepLayerSet="false" id="1" previewMode="Cache" drawCanvasItems="true">
+   <Extent ymin="9200029.43900766223669052" xmin="284589.68799113354180008" ymax="9220054.4698307067155838" xmax="306039.68801301252096891"/>
+   <LayerSet/>
+   <Grid/>
+   <AtlasMap scalingMode="2" atlasDriven="0" margin="0.10000000000000001"/>
+   <ComposerItem pagey="146.763" page="1" id="" lastValidViewScaleFactor="2.42511" positionMode="0" positionLock="false" x="171.588" y="146.763" visibility="1" zValue="8" background="true" transparency="0" frameJoinStyle="miter" blendMode="0" width="39" outlineWidth="0.3" excludeFromExports="0" uuid="{d21d6f88-bcd5-4054-bfc3-14fd26e3e214}" height="36.4091" itemRotation="0" frame="true" pagex="171.588">
+    <FrameColor alpha="255" red="0" blue="0" green="0"/>
+    <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+   </ComposerItem>
+  </ComposerMap>
+  <ComposerScaleBar segmentMillimeters="16.7044" numMapUnitsPerScaleBarUnit="1" numSegments="4" height="3" alignment="0" labelBarSpace="3" outlineWidth="1" units="1" numSegmentsLeft="2" lineJoinStyle="miter" style="Single Box" unitLabel="m" lineCapStyle="square" font="MS Shell Dlg 2,12,-1,5,50,0,0,0,0,0" mapId="0" boxContentSpace="1" numUnitsPerSegment="250">
+   <fillColor alpha="255" red="0" blue="0" green="0"/>
+   <fillColor2 alpha="255" red="255" blue="255" green="255"/>
+   <strokeColor alpha="255" red="0" blue="0" green="0"/>
+   <textColor alpha="255" red="0" blue="0" green="0"/>
+   <ComposerItem pagey="183.172" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="99.2807" y="183.172" visibility="1" zValue="6" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="100.372" outlineWidth="0.3" excludeFromExports="0" uuid="{fcc5ea17-15e0-4a94-ad31-cedf8698750f}" height="19.5762" itemRotation="0" frame="false" pagex="99.2807">
+    <FrameColor alpha="255" red="0" blue="0" green="0"/>
+    <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+   </ComposerItem>
+  </ComposerScaleBar>
+  <ComposerLegend symbolWidth="7" title="Legenda" boxSpace="2" splitLayer="0" equalColumnWidth="0" map="0" titleAlignment="1" symbolHeight="4" wmsLegendHeight="25" wrapChar="" fontColor="#000000" columnSpace="2" wmsLegendWidth="50" columnCount="1">
+   <styles>
+    <style marginBottom="2" name="title" font="MS Shell Dlg 2,16,-1,5,50,0,0,0,0,0"/>
+    <style marginTop="2" name="group" font="MS Shell Dlg 2,14,-1,5,50,0,0,0,0,0"/>
+    <style marginTop="2" name="subgroup" font="MS Shell Dlg 2,12,-1,5,75,0,0,0,0,0"/>
+    <style marginTop="2" name="symbol" font="MS Shell Dlg 2,8.25,-1,5,50,0,0,0,0,0"/>
+    <style marginTop="2" marginLeft="2" name="symbolLabel" font="MS Shell Dlg 2,12,-1,5,50,0,0,0,0,0"/>
+   </styles>
+   <layer-tree-group expanded="1" checked="Qt::Checked" name="">
+    <customproperties/>
+    <layer-tree-layer expanded="1" checked="Qt::Checked" id="paradas_onibus20160126163402585" name="paradas_onibus">
+     <customproperties>
+      <property key="legend/title-label" value="Paradas de Ônibus"/>
+     </customproperties>
+    </layer-tree-layer>
+    <layer-tree-layer expanded="1" checked="Qt::Checked" id="Bairros_JoaoPessoa20160126163349486" name="Bairros_JoaoPessoa">
+     <customproperties>
+      <property key="legend/title-label" value="Bairros"/>
+     </customproperties>
+    </layer-tree-layer>
+   </layer-tree-group>
+   <ComposerItem pagey="68.0381" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="226.502" y="68.0381" visibility="1" zValue="5" background="true" transparency="0" frameJoinStyle="miter" blendMode="0" width="47.3" outlineWidth="0.3" excludeFromExports="0" uuid="{23251b93-db8c-4ae8-9bd5-8e79908edf61}" height="56.9" itemRotation="0" frame="true" pagex="226.502">
+    <FrameColor alpha="255" red="0" blue="0" green="0"/>
+    <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+   </ComposerItem>
+  </ComposerLegend>
+  <ComposerPicture resizeMode="0" pictureRotation="0" pictureWidth="16.9064" file="../../PROGRA~1/QGISWI~1/apps/qgis-ltr/svg/arrows/NorthArrow_05.svg" pictureHeight="16.9064" mapId="-1" anchorPoint="0">
+   <ComposerItem pagey="32.9882" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="256.895" y="32.9882" visibility="1" zValue="4" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="16.9064" outlineWidth="0.3" excludeFromExports="0" uuid="{b3ece0c6-dfb0-4ec9-ba6d-49727f950510}" height="18.5558" itemRotation="0" frame="false" pagex="256.895">
+    <FrameColor alpha="255" red="0" blue="0" green="0"/>
+    <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+    <dataDefinedSource expr="" field="" active="false" useExpr="true"/>
+   </ComposerItem>
+  </ComposerPicture>
+  <ComposerPicture resizeMode="0" pictureRotation="0" pictureWidth="16.1942" file="../imagens/ClickGeo_logo.png" pictureHeight="22.267" mapId="-1" anchorPoint="0">
+   <ComposerItem pagey="3.47411" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="12.9612" y="3.47411" visibility="1" zValue="3" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="20.6176" outlineWidth="0.3" excludeFromExports="0" uuid="{49654725-c82c-4491-999e-492a2b52bfa4}" height="22.267" itemRotation="0" frame="false" pagex="12.9612">
+    <FrameColor alpha="255" red="0" blue="0" green="0"/>
+    <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+    <dataDefinedSource expr="" field="" active="false" useExpr="true"/>
+   </ComposerItem>
+  </ComposerPicture>
+  <ComposerLabel valign="128" marginX="1" marginY="1" labelText="Projeto de Implantação de Paradas de Ônibus" htmlState="0" halign="4">
+   <LabelFont description="MS Shell Dlg 2,16,-1,5,75,0,0,0,0,0"/>
+   <FontColor red="0" blue="0" green="0"/>
+   <ComposerItem pagey="7.53587" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="0" y="7.53587" visibility="1" zValue="2" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="297" outlineWidth="0.3" excludeFromExports="0" uuid="{920fff20-cf0f-4090-b756-3217568cd430}" height="15.6694" itemRotation="0" frame="false" pagex="0">
+    <FrameColor alpha="255" red="0" blue="0" green="0"/>
+    <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+   </ComposerItem>
+  </ComposerLabel>
+  <ComposerMap mapRotation="0" keepLayerSet="true" id="0" previewMode="Cache" drawCanvasItems="true">
+   <Extent ymin="9204687.58483940549194813" xmin="291859.85031903092749417" ymax="9207187.53568973764777184" xmax="295909.8503231619251892"/>
+   <LayerSet>
+    <Layer>paradas_onibus20160126163402585</Layer>
+    <Layer>Bairros_JoaoPessoa20160126163349486</Layer>
+    <Layer>quadras_jpa20160126163434681</Layer>
+   </LayerSet>
+   <Grid/>
+   <ComposerMapGrid rightAnnotationDirection="1" gridFramePenColor="0,0,0,255" show="1" bottomAnnotationPosition="1" annotationFont="MS Shell Dlg 2,8.25,-1,5,50,0,0,0,0,0" annotationPrecision="0" showAnnotation="1" topFrameDivisions="0" uuid="{ea9a2d67-32ff-48d0-8c21-2c217fb7b5d7}" leftAnnotationDirection="1" topAnnotationPosition="1" rightAnnotationDisplay="0" offsetX="0" offsetY="0" rightFrameDivisions="0" gridStyle="1" annotationFontColor="0,0,0,255" intervalX="500" gridFrameSideFlags="15" intervalY="500" bottomAnnotationDirection="0" leftAnnotationDisplay="0" leftFrameDivisions="0" frameFillColor1="255,255,255,255" frameFillColor2="0,0,0,255" crossLength="1" gridFramePenThickness="0.29999999999999999" bottomAnnotationDisplay="0" unit="0" topAnnotationDisplay="0" leftAnnotationPosition="1" blendMode="0" gridFrameStyle="0" rightAnnotationPosition="1" gridFrameWidth="2" name="Grade 1" annotationFormat="0" bottomFrameDivisions="0" topAnnotationDirection="0" frameAnnotationDistance="1">
+    <lineStyle>
+     <symbol alpha="1" type="line" name="">
+      <layer pass="0" class="SimpleLine" locked="0">
+       <prop k="capstyle" v="flat"/>
+       <prop k="customdash" v="5;2"/>
+       <prop k="customdash_map_unit_scale" v="0,0"/>
+       <prop k="customdash_unit" v="MM"/>
+       <prop k="draw_inside_polygon" v="0"/>
+       <prop k="joinstyle" v="bevel"/>
+       <prop k="line_color" v="0,0,0,255"/>
+       <prop k="line_style" v="solid"/>
+       <prop k="line_width" v="0.3"/>
+       <prop k="line_width_unit" v="MM"/>
+       <prop k="offset" v="0"/>
+       <prop k="offset_map_unit_scale" v="0,0"/>
+       <prop k="offset_unit" v="MM"/>
+       <prop k="use_custom_dash" v="0"/>
+       <prop k="width_map_unit_scale" v="0,0"/>
+      </layer>
+     </symbol>
+    </lineStyle>
+    <markerStyle>
+     <symbol alpha="1" type="marker" name="">
+      <layer pass="0" class="SimpleMarker" locked="0">
+       <prop k="angle" v="0"/>
+       <prop k="color" v="0,0,0,255"/>
+       <prop k="horizontal_anchor_point" v="1"/>
+       <prop k="name" v="circle"/>
+       <prop k="offset" v="0,0"/>
+       <prop k="offset_map_unit_scale" v="0,0"/>
+       <prop k="offset_unit" v="MM"/>
+       <prop k="outline_color" v="0,0,0,255"/>
+       <prop k="outline_style" v="solid"/>
+       <prop k="outline_width" v="0"/>
+       <prop k="outline_width_map_unit_scale" v="0,0"/>
+       <prop k="outline_width_unit" v="MM"/>
+       <prop k="scale_method" v="area"/>
+       <prop k="size" v="2"/>
+       <prop k="size_map_unit_scale" v="0,0"/>
+       <prop k="size_unit" v="MM"/>
+       <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+     </symbol>
+    </markerStyle>
+   </ComposerMapGrid>
+   <AtlasMap scalingMode="2" atlasDriven="0" margin="0.10000000000000001"/>
+   <ComposerItem pagey="30.3924" page="1" id="" lastValidViewScaleFactor="2.42511" positionMode="0" positionLock="false" x="13.2112" y="30.3924" visibility="1" zValue="1" background="true" transparency="0" frameJoinStyle="miter" blendMode="0" width="270.578" outlineWidth="0.5" excludeFromExports="0" uuid="{66cbd2c8-3fa8-48fe-821b-659940e07614}" height="167.02" itemRotation="0" frame="true" pagex="13.2112">
+    <FrameColor alpha="255" red="0" blue="0" green="0"/>
+    <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+   </ComposerItem>
+  </ComposerMap>
+  <ComposerAttributeTableV2 source="0" showGrid="1" maxFeatures="30" contentFont="MS Shell Dlg 2,10,-1,5,50,0,0,0,0,0" resizeMode="0" filterFeatures="false" featureFilter="" emptyTableMode="0" headerMode="0" backgroundColor="255,255,255,255" showEmptyRows="0" emptyTableMessage="" showOnlyVisibleFeatures="0" vectorLayer="paradas_onibus20160126163402585" composerMap="0" headerHAlignment="2" headerFont="MS Shell Dlg 2,10,-1,5,75,0,0,0,0,0" contentFontColor="0,0,0,255" headerFontColor="0,0,0,255" cellMargin="1" filterToAtlasIntersection="0" relationId="" gridStrokeWidth="0.5" gridColor="0,0,0,255" showUniqueRowsOnly="0">
+   <displayColumns>
+    <column width="0" attribute="id" sortByRank="0" hAlignment="1" heading="id" sortOrder="0">
+     <backgroundColor alpha="0" red="0" blue="0" green="0"/>
+    </column>
+    <column width="0" attribute="X" sortByRank="0" hAlignment="1" heading="X" sortOrder="0">
+     <backgroundColor alpha="0" red="0" blue="0" green="0"/>
+    </column>
+    <column width="0" attribute="Y" sortByRank="0" hAlignment="1" heading="Y" sortOrder="0">
+     <backgroundColor alpha="0" red="0" blue="0" green="0"/>
+    </column>
+   </displayColumns>
+   <ComposerFrame sectionWidth="36.5" sectionHeight="111.462" hideBackgroundIfEmpty="0" hidePageIfEmpty="0" sectionX="0" sectionY="0">
+    <ComposerItem pagey="32.9882" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="19.7929" y="32.9882" visibility="1" zValue="7" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="36.5" outlineWidth="0.3" excludeFromExports="0" uuid="{7408da6e-1341-48f7-a3cd-e86da6ee5e33}" height="111.462" itemRotation="0" frame="false" pagex="19.7929">
+     <FrameColor alpha="255" red="0" blue="0" green="0"/>
+     <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+    </ComposerItem>
+   </ComposerFrame>
+  </ComposerAttributeTableV2>
+ </Composition>
+</Composer>

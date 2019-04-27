@@ -1,0 +1,89 @@
+<Composer title="Compositor 1" visible="1">
+ <ComposerPicture pictureWidth="9" file="../ARQUIV~1/Quantum GIS Lisboa/apps/qgis/svg/north_arrows/NorthArrow2.svg" pictureHeight="8" mapId="-1">
+  <ComposerItem width="9" x="124.742" y="12.9387" rotation="0" height="8" frame="false" outlineWidth="0.3" zValue="2" lastValidViewScaleFactor="2.93624" id="" positionLock="false">
+   <FrameColor alpha="255" red="0" blue="0" green="0"/>
+   <BackgroundColor alpha="0" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerPicture>
+ <ComposerPicture pictureWidth="9" file="../ARQUIV~1/Quantum GIS Lisboa/apps/qgis/svg/north_arrows/NorthArrow2.svg" pictureHeight="8" mapId="-1">
+  <ComposerItem width="9" x="124.309" y="114.773" rotation="0" height="8" frame="false" outlineWidth="0.3" zValue="5" lastValidViewScaleFactor="2.93624" id="" positionLock="false">
+   <FrameColor alpha="255" red="0" blue="0" green="0"/>
+   <BackgroundColor alpha="0" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerPicture>
+ <ComposerMap keepLayerSet="true" id="2" previewMode="Cache" drawCanvasItems="false">
+  <Extent ymin="-30.0681" xmin="-51.2669" ymax="-29.428" xmax="-50.829"/>
+  <LayerSet>
+   <Layer>Municipios_GEOWGS8420120807224650767</Layer>
+  </LayerSet>
+  <Grid gridStyle="1" crossLength="0" penColorRed="0" penColorBlue="0" intervalX="0.25" offsetX="0" intervalY="0.25" offsetY="0" show="1" penWidth="0" penColorGreen="0">
+   <Annotation direction="3" precision="2" position="1" frameDistance="1" show="1" font="MS Shell Dlg 2,8.25,-1,5,50,0,0,0,0,0"/>
+  </Grid>
+  <ComposerItem width="130" x="153.257" y="9.87657" rotation="0" height="190" frame="true" outlineWidth="0.1" zValue="8" lastValidViewScaleFactor="2.93624" id="" positionLock="false">
+   <FrameColor alpha="255" red="0" blue="0" green="0"/>
+   <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerMap>
+ <ComposerMap keepLayerSet="true" id="0" previewMode="Render" drawCanvasItems="false">
+  <Extent ymin="-36.5809" xmin="-87.5478" ymax="7.16794" xmax="-26.7855"/>
+  <LayerSet>
+   <Layer>mundo20120807224807955</Layer>
+   <Layer>UF_GEOWGS8420120807224648986</Layer>
+   <Layer>Brasil_GEOWGS8420120807224650752</Layer>
+  </LayerSet>
+  <Grid gridStyle="1" crossLength="0" penColorRed="0" penColorBlue="0" intervalX="10" offsetX="0" intervalY="10" offsetY="0" show="1" penWidth="0" penColorGreen="0">
+   <Annotation direction="3" precision="2" position="1" frameDistance="1" show="1" font="MS Shell Dlg 2,8.25,-1,5,50,0,0,0,0,0"/>
+  </Grid>
+  <ComposerItem width="125" x="11.6541" y="9.97704" rotation="0" height="90" frame="true" outlineWidth="0.1" zValue="1" lastValidViewScaleFactor="2.93624" id="" positionLock="true">
+   <FrameColor alpha="255" red="0" blue="0" green="0"/>
+   <BackgroundColor alpha="255" red="200" blue="255" green="215"/>
+  </ComposerItem>
+ </ComposerMap>
+ <ComposerMap keepLayerSet="true" id="1" previewMode="Cache" drawCanvasItems="false">
+  <Extent ymin="-34.5043" xmin="-59.5281" ymax="-25.5656" xmax="-47.1133"/>
+  <LayerSet>
+   <Layer>Municipios_GEOWGS8420120807233048392</Layer>
+   <Layer>UF_GEOWGS8420120807230421533</Layer>
+   <Layer>Brasil_GEOWGS8420120807230421564</Layer>
+   <Layer>mundo20120807230421580</Layer>
+  </LayerSet>
+  <Grid gridStyle="1" crossLength="0" penColorRed="0" penColorBlue="0" intervalX="4" offsetX="0" intervalY="4" offsetY="0" show="1" penWidth="0" penColorGreen="0">
+   <Annotation direction="3" precision="2" position="1" frameDistance="1" show="1" font="MS Shell Dlg 2,8.25,-1,5,50,0,0,0,0,0"/>
+  </Grid>
+  <ComposerItem width="125" x="12" y="111" rotation="0" height="90" frame="true" outlineWidth="0.1" zValue="4" lastValidViewScaleFactor="2.93624" id="" positionLock="true">
+   <FrameColor alpha="255" red="0" blue="0" green="0"/>
+   <BackgroundColor alpha="255" red="200" blue="255" green="215"/>
+  </ComposerItem>
+ </ComposerMap>
+ <ComposerPicture pictureWidth="9" file="../ARQUIV~1/Quantum GIS Lisboa/apps/qgis/svg/north_arrows/NorthArrow2.svg" pictureHeight="8" mapId="-1">
+  <ComposerItem width="9" x="158.026" y="13.2823" rotation="0" height="8" frame="false" outlineWidth="0.3" zValue="9" lastValidViewScaleFactor="2.93624" id="" positionLock="false">
+   <FrameColor alpha="255" red="0" blue="0" green="0"/>
+   <BackgroundColor alpha="0" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerPicture>
+ <ComposerLabel valign="128" labelText="OCEANO ATLÂNTICO" halign="4" margin="1">
+  <LabelFont description="MS Shell Dlg 2,7,-1,5,50,1,0,0,0,0"/>
+  <FontColor red="70" blue="145" green="90"/>
+  <ComposerItem width="26.9051" x="105.237" y="74.9257" rotation="0" height="8.51429" frame="false" outlineWidth="0.3" zValue="6" lastValidViewScaleFactor="2.93624" id="" positionLock="false">
+   <FrameColor alpha="255" red="0" blue="0" green="0"/>
+   <BackgroundColor alpha="0" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerLabel>
+ <ComposerLabel valign="128" labelText="OCEANO ATLÂNTICO" halign="4" margin="1">
+  <LabelFont description="MS Shell Dlg 2,7,-1,5,50,1,0,0,0,0"/>
+  <FontColor red="70" blue="145" green="90"/>
+  <ComposerItem width="30.992" x="102.512" y="172.67" rotation="0" height="7.49257" frame="false" outlineWidth="0.3" zValue="7" lastValidViewScaleFactor="2.93624" id="" positionLock="false">
+   <FrameColor alpha="255" red="0" blue="0" green="0"/>
+   <BackgroundColor alpha="0" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerLabel>
+ <ComposerLabel valign="128" labelText="OCEANO PACÍFICO" halign="4" margin="1">
+  <LabelFont description="MS Shell Dlg 2,7,-1,5,50,1,0,0,0,0"/>
+  <FontColor red="0" blue="0" green="0"/>
+  <ComposerItem width="24.6" x="15.3257" y="68.1143" rotation="0" height="7.1" frame="true" outlineWidth="0.3" zValue="10" lastValidViewScaleFactor="2.93624" id="" positionLock="false">
+   <FrameColor alpha="255" red="0" blue="0" green="0"/>
+   <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerLabel>
+ <Composition printResolution="300" paperWidth="297" snapGridOffsetX="0" snapGridResolution="0" snapGridOffsetY="0" snapping="0" paperHeight="210" printAsRaster="0"/>
+</Composer>

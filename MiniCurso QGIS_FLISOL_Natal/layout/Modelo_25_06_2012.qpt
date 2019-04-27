@@ -1,0 +1,51 @@
+<Composer title="Compositor 1" visible="1">
+ <ComposerMap keepLayerSet="false" id="0" previewMode="Cache" drawCanvasItems="true">
+  <Extent ymin="9.34509e+06" xmin="230871" ymax="9.3644e+06" xmax="277064"/>
+  <LayerSet/>
+  <Grid gridStyle="0" crossLength="3" penColorRed="0" penColorBlue="0" intervalX="0" offsetX="0" intervalY="0" offsetY="0" show="0" penWidth="0" penColorGreen="0">
+   <Annotation direction="0" precision="3" position="1" frameDistance="1" show="0" font="MS Shell Dlg 2,8.25,-1,5,50,0,0,0,0,0"/>
+  </Grid>
+  <ComposerItem width="189" x="38" y="16" rotation="0" height="79" frame="true" outlineWidth="0.3" zValue="7" lastValidViewScaleFactor="2.80569" id="" positionLock="false">
+   <FrameColor alpha="255" red="0" blue="0" green="0"/>
+   <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerMap>
+ <ComposerShape shapeType="1" shapeWidth="293.12" outlineWidth="1" transparentFill="1" shapeHeight="43.7523">
+  <OutlineColor alpha="255" red="0" blue="0" green="0"/>
+  <FillColor alpha="255" red="0" blue="0" green="0"/>
+  <ComposerItem width="293.12" x="2.18033" y="165.022" rotation="0" height="43.7523" frame="true" outlineWidth="0" zValue="1" lastValidViewScaleFactor="2.80569" id="" positionLock="false">
+   <FrameColor alpha="0" red="255" blue="255" green="255"/>
+   <BackgroundColor alpha="0" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerShape>
+ <ComposerScaleBar segmentMillimeters="4.09153" numMapUnitsPerScaleBarUnit="1" numSegments="2" height="2" alignment="0" labelBarSpace="2" outlineWidth="1" numSegmentsLeft="0" style="Single Box" unitLabel="Metros" font="MS Shell Dlg 2,12,-1,5,50,0,0,0,0,0" mapId="0" boxContentSpace="1" numUnitsPerSegment="1000">
+  <BrushColor red="0" blue="0" green="0"/>
+  <ComposerItem width="31.6831" x="111.114" y="194.694" rotation="0" height="10.2" frame="true" outlineWidth="0" zValue="6" lastValidViewScaleFactor="11.2227" id="" positionLock="false">
+   <FrameColor alpha="255" red="0" blue="0" green="0"/>
+   <BackgroundColor alpha="0" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerScaleBar>
+ <ComposerShape shapeType="1" shapeWidth="180.543" outlineWidth="0" transparentFill="1" shapeHeight="30.6277">
+  <OutlineColor alpha="255" red="0" blue="0" green="0"/>
+  <FillColor alpha="255" red="0" blue="0" green="0"/>
+  <ComposerItem width="180.543" x="111.094" y="174.289" rotation="0" height="30.6277" frame="true" outlineWidth="0" zValue="5" lastValidViewScaleFactor="11.2227" id="" positionLock="false">
+   <FrameColor alpha="0" red="255" blue="255" green="255"/>
+   <BackgroundColor alpha="0" red="0" blue="0" green="0"/>
+  </ComposerItem>
+ </ComposerShape>
+ <ComposerShape shapeType="1" shapeWidth="179.992" outlineWidth="0" transparentFill="1" shapeHeight="6.62569">
+  <OutlineColor alpha="255" red="0" blue="0" green="0"/>
+  <FillColor alpha="255" red="0" blue="0" green="0"/>
+  <ComposerItem width="179.992" x="111.024" y="167.663" rotation="0" height="6.62569" frame="true" outlineWidth="0" zValue="4" lastValidViewScaleFactor="11.2227" id="" positionLock="false">
+   <FrameColor alpha="0" red="255" blue="255" green="255"/>
+   <BackgroundColor alpha="255" red="0" blue="0" green="0"/>
+  </ComposerItem>
+ </ComposerShape>
+ <ComposerPicture pictureWidth="23" file="C:/PROGRA~1/Quantum GIS Lisboa/apps/qgis/./svg/north_arrows/north-arrow_3_simple_symmetric_triangular.svg" pictureHeight="18.8902" mapId="-1">
+  <ComposerItem width="23" x="111.292" y="174.823" rotation="0" height="18.8902" frame="true" outlineWidth="0" zValue="9" lastValidViewScaleFactor="11.2227" id="" positionLock="false">
+   <FrameColor alpha="255" red="0" blue="0" green="0"/>
+   <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerPicture>
+ <Composition printResolution="300" paperWidth="297" snapGridOffsetX="0" snapGridResolution="0" snapGridOffsetY="0" snapping="0" paperHeight="210" printAsRaster="0"/>
+</Composer>

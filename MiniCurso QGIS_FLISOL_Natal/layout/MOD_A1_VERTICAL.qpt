@@ -1,0 +1,219 @@
+<Composer title="Compositor 5" visible="1">
+ <ComposerMap keepLayerSet="false" id="0" previewMode="Cache" drawCanvasItems="false">
+  <Extent ymin="-86.58050369520137" xmin="-86.81305799181547" ymax="6.247831000000005" xmax="-19.55722100818452"/>
+  <LayerSet/>
+  <Grid gridStyle="1" crossLength="5" penColorRed="0" penColorBlue="0" intervalX="5000" offsetX="0" intervalY="5000" offsetY="0" show="1" penWidth="0" penColorGreen="0">
+   <Annotation direction="3" precision="0" position="1" frameDistance="0.5" show="1" font="MS Shell Dlg 2,12,-1,5,50,0,0,0,0,0"/>
+  </Grid>
+  <ComposerItem width="786" x="35" y="20" rotation="0" height="1084.858569051581" frame="true" outlineWidth="0.3" zValue="19" lastValidViewScaleFactor="0.5899159663865546" positionLock="true">
+   <FrameColor alpha="255" red="0" blue="0" green="0"/>
+   <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerMap>
+ <ComposerLabel valign="128" labelText="Ministério do Desenvolvimento Agrário - MDA&#xa;Instituto Nacional de Colonização e Reforma Agrária&#xa;Superintendência do Estado dx XXXXXX - SR xx&#xa;Divisão de Obtenção de Terras e Implantaçao de Assentamentos" id="" halign="4" margin="1">
+  <LabelFont description="MS Shell Dlg 2,10,-1,5,50,0,0,0,0,0"/>
+  <FontColor red="0" blue="0" green="0"/>
+  <ComposerItem width="131" x="698" y="1115" rotation="0" height="19.00000000000001" frame="true" outlineWidth="0.3" zValue="21" lastValidViewScaleFactor="4.719327731092437" positionLock="false">
+   <FrameColor alpha="255" red="0" blue="0" green="0"/>
+   <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerLabel>
+ <ComposerLabel valign="0" labelText="Conferente:" id="" halign="0" margin="1">
+  <LabelFont description="MS Shell Dlg 2,6,-1,5,50,0,0,0,0,0"/>
+  <FontColor red="0" blue="0" green="0"/>
+  <ComposerItem width="43.00000000000001" x="742" y="1162" rotation="0" height="14.99999999999998" frame="true" outlineWidth="0.3" zValue="8" lastValidViewScaleFactor="8.080672268907563" positionLock="true">
+   <FrameColor alpha="255" red="0" blue="0" green="0"/>
+   <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerLabel>
+ <ComposerLabel valign="0" labelText="Resp. Técnico" id="" halign="0" margin="1">
+  <LabelFont description="MS Shell Dlg 2,6,-1,5,50,0,0,0,0,0"/>
+  <FontColor red="0" blue="0" green="0"/>
+  <ComposerItem width="43.00000000000001" x="698" y="1162" rotation="0" height="14.99999999999998" frame="true" outlineWidth="0.3" zValue="11" lastValidViewScaleFactor="8.080672268907563" positionLock="true">
+   <FrameColor alpha="255" red="0" blue="0" green="0"/>
+   <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerLabel>
+ <ComposerLabel valign="0" labelText="Área" id="" halign="0" margin="1">
+  <LabelFont description="MS Shell Dlg 2,6,-1,5,50,0,0,0,0,0"/>
+  <FontColor red="0" blue="0" green="0"/>
+  <ComposerItem width="40.00000000000001" x="789" y="1135" rotation="0" height="8.000000000000005" frame="true" outlineWidth="0.3" zValue="5" lastValidViewScaleFactor="8.080672268907563" positionLock="true">
+   <FrameColor alpha="255" red="0" blue="0" green="0"/>
+   <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerLabel>
+ <ComposerLabel valign="128" labelText="Digite aqui a fonte das informaçoes contidas no mapa." id="" halign="4" margin="1">
+  <LabelFont description="MS Shell Dlg 2,6,-1,5,50,0,0,0,0,0"/>
+  <FontColor red="0" blue="0" green="0"/>
+  <ComposerItem width="42" x="654" y="1165" rotation="0" height="11.99999999999998" frame="false" outlineWidth="0.3" zValue="18" lastValidViewScaleFactor="4.094117647058823" positionLock="true">
+   <FrameColor alpha="255" red="0" blue="0" green="0"/>
+   <BackgroundColor alpha="0" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerLabel>
+ <ComposerLabel valign="0" labelText="Desenhista:" id="" halign="0" margin="1">
+  <LabelFont description="MS Shell Dlg 2,6,-1,5,50,0,0,0,0,0"/>
+  <FontColor red="0" blue="0" green="0"/>
+  <ComposerItem width="43.00000000000001" x="786" y="1162" rotation="0" height="14.99999999999998" frame="true" outlineWidth="0.3" zValue="15" lastValidViewScaleFactor="8.080672268907563" positionLock="true">
+   <FrameColor alpha="255" red="0" blue="0" green="0"/>
+   <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerLabel>
+ <ComposerLabel valign="0" labelText="Datum: SIRGAS 2000&#xa;Projeção Cartográfica: &#xa;    Universal Transvérsa de Mercator&#xa;Elipsóide: GRS80&#xa;Meridiano Central: 45º WGr" id="" halign="0" margin="1">
+  <LabelFont description="MS Shell Dlg 2,7,-1,5,50,0,0,0,0,0"/>
+  <FontColor red="0" blue="0" green="0"/>
+  <ComposerItem width="44.69114729715963" x="27" y="1156.768718801997" rotation="0" height="17.46591043641369" frame="false" outlineWidth="0.3" zValue="26" lastValidViewScaleFactor="2.047058823529412" positionLock="true">
+   <FrameColor alpha="255" red="0" blue="0" green="0"/>
+   <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerLabel>
+ <ComposerLabel valign="0" labelText="000.000.000.000-00" id="" halign="4" margin="1">
+  <LabelFont description="MS Shell Dlg 2,8,-1,5,50,0,0,0,0,0"/>
+  <FontColor red="0" blue="0" green="0"/>
+  <ComposerItem width="44" x="653" y="1147" rotation="0" height="7.999999999999977" frame="false" outlineWidth="0.3" zValue="16" lastValidViewScaleFactor="4.094117647058823" positionLock="true">
+   <FrameColor alpha="255" red="0" blue="0" green="0"/>
+   <BackgroundColor alpha="0" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerLabel>
+ <ComposerLabel valign="0" labelText="DIGITE O NOME DO MUNICÍPIO / ESTADO" id="" halign="4" margin="1">
+  <LabelFont description="MS Shell Dlg 2,8,-1,5,50,0,0,0,0,0"/>
+  <FontColor red="0" blue="0" green="0"/>
+  <ComposerItem width="90" x="698" y="1155" rotation="0" height="6.999999999999977" frame="false" outlineWidth="0.3" zValue="6" lastValidViewScaleFactor="4.094117647058823" positionLock="true">
+   <FrameColor alpha="255" red="0" blue="0" green="0"/>
+   <BackgroundColor alpha="0" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerLabel>
+ <ComposerLabel valign="0" labelText="CONVENÇÕES" id="" halign="0" margin="1">
+  <LabelFont description="MS Shell Dlg 2,8,-1,5,50,0,0,0,0,0"/>
+  <FontColor red="0" blue="0" green="0"/>
+  <ComposerItem width="28.99999999999998" x="28" y="1147.748752079867" rotation="0" height="7.1" frame="false" outlineWidth="0.3" zValue="25" lastValidViewScaleFactor="0.5050420168067227" positionLock="true">
+   <FrameColor alpha="255" red="0" blue="0" green="0"/>
+   <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerLabel>
+ <ComposerLabel valign="0" labelText="Fonte" id="" halign="0" margin="1">
+  <LabelFont description="MS Shell Dlg 2,6,-1,5,50,0,0,0,0,0"/>
+  <FontColor red="0" blue="0" green="0"/>
+  <ComposerItem width="44" x="653" y="1162" rotation="0" height="14.99999999999998" frame="true" outlineWidth="0.3" zValue="10" lastValidViewScaleFactor="8.080672268907563" positionLock="true">
+   <FrameColor alpha="255" red="0" blue="0" green="0"/>
+   <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerLabel>
+ <ComposerLabel valign="0" labelText="Data" id="" halign="0" margin="1">
+  <LabelFont description="MS Shell Dlg 2,6,-1,5,50,0,0,0,0,0"/>
+  <FontColor red="0" blue="0" green="0"/>
+  <ComposerItem width="44" x="653" y="1153" rotation="0" height="8.1" frame="true" outlineWidth="0.3" zValue="4" lastValidViewScaleFactor="8.080672268907563" positionLock="true">
+   <FrameColor alpha="255" red="0" blue="0" green="0"/>
+   <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerLabel>
+ <ComposerLabel valign="0" labelText="500.000,0000 ha" id="" halign="4" margin="1">
+  <LabelFont description="MS Shell Dlg 2,8,-1,5,50,0,0,0,0,0"/>
+  <FontColor red="0" blue="0" green="0"/>
+  <ComposerItem width="40.00000000000001" x="789" y="1138" rotation="0" height="7.1" frame="false" outlineWidth="0.3" zValue="12" lastValidViewScaleFactor="4.719327731092437" positionLock="true">
+   <FrameColor alpha="255" red="0" blue="0" green="0"/>
+   <BackgroundColor alpha="0" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerLabel>
+ <ComposerLabel valign="0" labelText="1:100.000.000" id="" halign="4" margin="1">
+  <LabelFont description="MS Shell Dlg 2,8,-1,5,50,0,0,0,0,0"/>
+  <FontColor red="0" blue="0" green="0"/>
+  <ComposerItem width="37.00000000000001" x="792" y="1155" rotation="0" height="7.1" frame="false" outlineWidth="0.3" zValue="17" lastValidViewScaleFactor="0.5117647058823529" positionLock="true">
+   <FrameColor alpha="255" red="0" blue="0" green="0"/>
+   <BackgroundColor alpha="0" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerLabel>
+ <ComposerLabel valign="0" labelText="Município / UF" id="" halign="0" margin="1">
+  <LabelFont description="MS Shell Dlg 2,6,-1,5,50,0,0,0,0,0"/>
+  <FontColor red="0" blue="0" green="0"/>
+  <ComposerItem width="90" x="698" y="1153" rotation="0" height="7.999999999999977" frame="true" outlineWidth="0.3" zValue="3" lastValidViewScaleFactor="8.080672268907563" positionLock="true">
+   <FrameColor alpha="255" red="0" blue="0" green="0"/>
+   <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerLabel>
+ <ComposerLabel valign="0" labelText="Escala" id="" halign="0" margin="1">
+  <LabelFont description="MS Shell Dlg 2,6,-1,5,50,0,0,0,0,0"/>
+  <FontColor red="0" blue="0" green="0"/>
+  <ComposerItem width="40.00000000000001" x="789" y="1153" rotation="0" height="7.999999999999977" frame="true" outlineWidth="0.3" zValue="9" lastValidViewScaleFactor="8.080672268907563" positionLock="true">
+   <FrameColor alpha="255" red="0" blue="0" green="0"/>
+   <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerLabel>
+ <ComposerLabel valign="128" labelText="NOME DO MAPA&#xa;NOME DA PROPRIEDADE" id="" halign="4" margin="1">
+  <LabelFont description="MS Shell Dlg 2,12,-1,5,50,0,0,0,0,0"/>
+  <FontColor red="0" blue="0" green="0"/>
+  <ComposerItem width="90" x="698" y="1135" rotation="0" height="17.00000000000001" frame="true" outlineWidth="0.3" zValue="7" lastValidViewScaleFactor="4.094117647058823" positionLock="true">
+   <FrameColor alpha="255" red="0" blue="0" green="0"/>
+   <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerLabel>
+ <ComposerLabel valign="0" labelText="Perímetro" id="" halign="0" margin="1">
+  <LabelFont description="MS Shell Dlg 2,6,-1,5,50,0,0,0,0,0"/>
+  <FontColor red="0" blue="0" green="0"/>
+  <ComposerItem width="40.00000000000001" x="789" y="1144" rotation="0" height="7.999999999999977" frame="true" outlineWidth="0.3" zValue="14" lastValidViewScaleFactor="8.080672268907563" positionLock="true">
+   <FrameColor alpha="255" red="0" blue="0" green="0"/>
+   <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerLabel>
+ <ComposerLabel valign="0" labelText="mês / ano" id="" halign="4" margin="1">
+  <LabelFont description="MS Shell Dlg 2,8,-1,5,50,0,0,0,0,0"/>
+  <FontColor red="0" blue="0" green="0"/>
+  <ComposerItem width="24.6" x="664" y="1155" rotation="0" height="7.1" frame="false" outlineWidth="0.3" zValue="34" lastValidViewScaleFactor="4.094117647058823" positionLock="true">
+   <FrameColor alpha="255" red="0" blue="0" green="0"/>
+   <BackgroundColor alpha="0" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerLabel>
+ <ComposerLabel valign="0" labelText="Cód. do Imóvel" id="" halign="0" margin="1">
+  <LabelFont description="MS Shell Dlg 2,6,-1,5,50,0,0,0,0,0"/>
+  <FontColor red="0" blue="0" green="0"/>
+  <ComposerItem width="44" x="653" y="1144" rotation="0" height="8.1" frame="true" outlineWidth="0.3" zValue="13" lastValidViewScaleFactor="8.080672268907563" positionLock="true">
+   <FrameColor alpha="255" red="0" blue="0" green="0"/>
+   <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerLabel>
+ <ComposerLabel valign="0" labelText="00.000,00 m" id="" halign="4" margin="1">
+  <LabelFont description="MS Shell Dlg 2,8,-1,5,50,0,0,0,0,0"/>
+  <FontColor red="0" blue="0" green="0"/>
+  <ComposerItem width="40.00000000000001" x="789" y="1146" rotation="0" height="5.999999999999977" frame="false" outlineWidth="0.3" zValue="20" lastValidViewScaleFactor="4.094117647058823" positionLock="true">
+   <FrameColor alpha="255" red="0" blue="0" green="0"/>
+   <BackgroundColor alpha="0" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerLabel>
+ <ComposerShape shapeType="1" shapeWidth="806" outlineWidth="0.5" transparentFill="1" shapeHeight="1169">
+  <OutlineColor alpha="255" red="0" blue="0" green="0"/>
+  <FillColor alpha="255" red="0" blue="0" green="0"/>
+  <ComposerItem width="806" x="25" y="10" rotation="0" height="1169" frame="true" outlineWidth="0" zValue="2" lastValidViewScaleFactor="4.040336134453781" positionLock="true">
+   <FrameColor alpha="0" red="255" blue="255" green="255"/>
+   <BackgroundColor alpha="0" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerShape>
+ <ComposerShape shapeType="1" shapeWidth="841.0875623960067" outlineWidth="0.5" transparentFill="1" shapeHeight="1189.175124792013">
+  <OutlineColor alpha="255" red="0" blue="0" green="0"/>
+  <FillColor alpha="255" red="0" blue="0" green="0"/>
+  <ComposerItem width="841.0875623960067" x="-0.08756239600665561" y="-0.1751247920133112" rotation="0" height="1189.175124792013" frame="true" outlineWidth="0" zValue="1" lastValidViewScaleFactor="0.5899159663865546" positionLock="false">
+   <FrameColor alpha="0" red="255" blue="255" green="255"/>
+   <BackgroundColor alpha="0" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerShape>
+ <ComposerArrow startMarkerFile="" arrowHeadWidth="4" endMarkerFile="" outlineWidth="0.35" markerMode="1">
+  <ArrowColor alpha="255" red="0" blue="0" green="0"/>
+  <StartPoint x="25.09723516124171" y="151"/>
+  <StopPoint x="0.4239424226261326" y="151"/>
+  <ComposerItem width="25.02329273861558" x="0.2489424226261326" y="150.825" rotation="0" height="0.35" frame="true" outlineWidth="0" zValue="23" lastValidViewScaleFactor="0.5899159663865546" positionLock="false">
+   <FrameColor alpha="0" red="255" blue="255" green="255"/>
+   <BackgroundColor alpha="0" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerArrow>
+ <ComposerPicture pictureWidth="44" file="E:/MODELOS_IMPRESSÃO_QGIS/logotipo/incra1.jpg" pictureHeight="28" mapId="-1">
+  <ComposerItem width="44" x="653" y="1115" rotation="0" height="28" frame="true" outlineWidth="0.3" zValue="22" lastValidViewScaleFactor="0.5050420168067227" positionLock="true">
+   <FrameColor alpha="255" red="0" blue="0" green="0"/>
+   <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerPicture>
+ <ComposerPicture pictureWidth="40" file="C:/ARQUIV~1/QUANTU~2/apps/qgis/./svg/north_arrows/north-arrow_3_simple_symmetric_triangular.svg" pictureHeight="40" mapId="-1">
+  <ComposerItem width="40" x="39.12542314533248" y="23.32346472354516" rotation="0" height="40" frame="false" outlineWidth="0.3" zValue="27" lastValidViewScaleFactor="2.047058823529412" positionLock="true">
+   <FrameColor alpha="255" red="0" blue="0" green="0"/>
+   <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerPicture>
+ <Composition printResolution="300" paperWidth="841" snapGridOffsetX="0" snapGridResolution="1" snapGridOffsetY="0" snapping="0" paperHeight="1189" printAsRaster="0"/>
+</Composer>

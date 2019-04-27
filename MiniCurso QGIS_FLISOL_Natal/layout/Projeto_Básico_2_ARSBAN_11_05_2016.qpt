@@ -1,0 +1,260 @@
+<Composer title="Compositor 1" visible="1">
+ <Composition resizeToContentsMarginLeft="0" snapping="0" showPages="1" guidesVisible="1" resizeToContentsMarginTop="0" alignmentSnap="1" printResolution="300" paperWidth="297" gridVisible="0" snapGridOffsetX="0" smartGuides="1" snapGridOffsetY="0" resizeToContentsMarginRight="0" snapTolerancePixels="5" printAsRaster="1" generateWorldFile="0" paperHeight="210" numPages="1" snapGridResolution="10" resizeToContentsMarginBottom="0">
+  <symbol alpha="1" clip_to_extent="1" type="fill" name="">
+   <layer pass="0" class="SimpleFill" locked="0">
+    <prop k="border_width_map_unit_scale" v="0,0,0,0,0,0"/>
+    <prop k="color" v="255,255,255,255"/>
+    <prop k="joinstyle" v="miter"/>
+    <prop k="offset" v="0,0"/>
+    <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+    <prop k="offset_unit" v="MM"/>
+    <prop k="outline_color" v="0,0,0,255"/>
+    <prop k="outline_style" v="no"/>
+    <prop k="outline_width" v="0.26"/>
+    <prop k="outline_width_unit" v="MM"/>
+    <prop k="style" v="solid"/>
+   </layer>
+  </symbol>
+  <ComposerLabel valign="32" marginX="1" marginY="1" labelText="Agência Reguladora de Serviços de Saneamento Básico do Município do Natal - ARSBAN 11/05/2016&#xa;Dados Cartográficos:SEMURB, ARSBAN e CAERN&#xa;Prejeção: Universal Transversa de Mercator&#xa;Datum Horizontal IBGE: SAD 69&#xa;Datum Vertical IBGE: Marégrafo Imbituba&#xa;Zona UTM: 25M - Sul&#xa;Meridiano Central: 33° WGr" htmlState="0" halign="1">
+   <LabelFont description="MS Shell Dlg 2,6,-1,5,50,0,0,0,0,0" style=""/>
+   <FontColor red="0" blue="0" green="0"/>
+   <ComposerItem pagey="177.755" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="225.548" y="177.755" visibility="1" zValue="14" background="true" transparency="0" frameJoinStyle="miter" blendMode="0" width="64.9995" outlineWidth="0.5" excludeFromExports="0" uuid="{2766a4b0-0502-42b6-b3bd-0af6241b89de}" height="22.173" itemRotation="0" frame="true" pagex="225.548">
+    <FrameColor alpha="255" red="0" blue="0" green="0"/>
+    <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+    <customproperties/>
+   </ComposerItem>
+  </ComposerLabel>
+  <ComposerShape shapeType="1" cornerRadius="0">
+   <symbol alpha="1" clip_to_extent="1" type="fill" name="">
+    <layer pass="0" class="SimpleFill" locked="0">
+     <prop k="border_width_map_unit_scale" v="0,0,0,0,0,0"/>
+     <prop k="color" v="255,255,255,255"/>
+     <prop k="joinstyle" v="miter"/>
+     <prop k="offset" v="0,0"/>
+     <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+     <prop k="offset_unit" v="MM"/>
+     <prop k="outline_color" v="227,26,28,255"/>
+     <prop k="outline_style" v="solid"/>
+     <prop k="outline_width" v="0.5"/>
+     <prop k="outline_width_unit" v="MM"/>
+     <prop k="style" v="no"/>
+    </layer>
+   </symbol>
+   <ComposerItem pagey="134.867" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="262.53" y="134.867" visibility="1" zValue="13" background="true" transparency="0" frameJoinStyle="miter" blendMode="0" width="14.9375" outlineWidth="0.3" excludeFromExports="0" uuid="{93c0d1e6-98d1-4438-a7aa-90316b84e4be}" height="12.033" itemRotation="0" frame="false" pagex="262.53">
+    <FrameColor alpha="255" red="0" blue="0" green="0"/>
+    <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+    <customproperties/>
+   </ComposerItem>
+  </ComposerShape>
+  <ComposerMap mapRotation="0" keepLayerSet="false" id="1" previewMode="Cache" drawCanvasItems="true">
+   <Extent ymin="9342505.70775966346263885" xmin="255009.3586923660186585" ymax="9353510.00426863133907318" xmax="262234.40185481915250421"/>
+   <LayerSet/>
+   <Grid/>
+   <AtlasMap scalingMode="2" atlasDriven="0" margin="0.10000000000000001"/>
+   <ComposerItem pagey="100.928" page="1" id="" lastValidViewScaleFactor="2.35863" positionMode="0" positionLock="false" x="225.548" y="100.928" visibility="1" zValue="12" background="true" transparency="0" frameJoinStyle="miter" blendMode="0" width="65" outlineWidth="0.5" excludeFromExports="0" uuid="{8d1f06f1-f5b8-4898-b301-2a97cd1d3a6d}" height="99" itemRotation="0" frame="true" pagex="225.548">
+    <FrameColor alpha="255" red="0" blue="0" green="0"/>
+    <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+    <customproperties/>
+   </ComposerItem>
+  </ComposerMap>
+  <ComposerPicture resizeMode="0" svgBorderWidth="0.2" pictureRotation="0" pictureWidth="15.7674" svgFillColor="255,255,255,255" svgBorderColor="0,0,0,255" file="../../../../PROGRA~3/QGISES~1/apps/qgis/svg/arrows/NorthArrow_07.svg" pictureHeight="15.7674" mapId="-1" anchorPoint="0">
+   <ComposerItem pagey="24" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="9.9958" y="24" visibility="1" zValue="11" background="true" transparency="0" frameJoinStyle="miter" blendMode="0" width="15.7674" outlineWidth="0.3" excludeFromExports="0" uuid="{8bc97d6a-c252-4d48-bbf0-4efa2a185a7d}" height="19.0868" itemRotation="0" frame="false" pagex="9.9958">
+    <FrameColor alpha="255" red="0" blue="0" green="0"/>
+    <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+    <dataDefinedSource expr="" field="" active="false" useExpr="true"/>
+    <customproperties/>
+   </ComposerItem>
+  </ComposerPicture>
+  <ComposerScaleBar lineCapStyle="square" style="Single Box" numMapUnitsPerScaleBarUnit="1" segmentSizeMode="0" alignment="0" numSegments="1" segmentMillimeters="25.0216" lineJoinStyle="miter" minBarWidth="50" numUnitsPerSegment="50" units="1" labelBarSpace="3" outlineWidth="0.3" numSegmentsLeft="2" maxBarWidth="150" height="3" boxContentSpace="1" mapId="0" unitLabel="m">
+   <scaleBarFont description="MS Shell Dlg 2,12,-1,5,50,0,0,0,0,0" style=""/>
+   <fillColor alpha="255" red="0" blue="0" green="0"/>
+   <fillColor2 alpha="255" red="255" blue="255" green="255"/>
+   <strokeColor alpha="255" red="0" blue="0" green="0"/>
+   <textColor alpha="255" red="0" blue="0" green="0"/>
+   <ComposerItem pagey="184.778" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="10.1932" y="184.778" visibility="1" zValue="10" background="true" transparency="0" frameJoinStyle="miter" blendMode="0" width="62.0432" outlineWidth="0.3" excludeFromExports="0" uuid="{c006529f-34a6-490e-8a27-d38eda309567}" height="15" itemRotation="0" frame="true" pagex="10.1932">
+    <FrameColor alpha="255" red="0" blue="0" green="0"/>
+    <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+    <customproperties/>
+   </ComposerItem>
+  </ComposerScaleBar>
+  <ComposerLabel valign="32" marginX="1" marginY="1" labelText="Mapa de Refêrencia" htmlState="0" halign="4">
+   <LabelFont description="MS Shell Dlg 2,14,-1,5,75,1,0,0,0,0" style=""/>
+   <FontColor red="0" blue="0" green="0"/>
+   <ComposerItem pagey="5.19495" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="80.9115" y="5.19495" visibility="1" zValue="9" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="143.981" outlineWidth="0.3" excludeFromExports="0" uuid="{672674a9-07ec-473d-a484-1c7f62602195}" height="8.71355" itemRotation="0" frame="false" pagex="80.9115">
+    <FrameColor alpha="255" red="0" blue="0" green="0"/>
+    <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+    <customproperties/>
+   </ComposerItem>
+  </ComposerLabel>
+  <ComposerPicture resizeMode="0" svgBorderWidth="0.2" pictureRotation="0" pictureWidth="17.7721" svgFillColor="255,255,255,255" svgBorderColor="0,0,0,255" file="./logo_prefeitura.png" pictureHeight="18.5965" mapId="-1" anchorPoint="0">
+   <ComposerItem pagey="2.25345" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="86.0913" y="2.25345" visibility="1" zValue="8" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="18.6719" outlineWidth="0.3" excludeFromExports="0" uuid="{b27e72de-4717-4faf-b8cf-776fdf6f4807}" height="18.5965" itemRotation="0" frame="false" pagex="86.0913">
+    <FrameColor alpha="255" red="0" blue="0" green="0"/>
+    <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+    <dataDefinedSource expr="" field="" active="false" useExpr="true"/>
+    <customproperties/>
+   </ComposerItem>
+  </ComposerPicture>
+  <ComposerLabel valign="32" marginX="1" marginY="1" labelText="Campo do Botafogo" htmlState="0" halign="4">
+   <LabelFont description="MS Shell Dlg 2,10,-1,5,75,0,0,0,0,0" style=""/>
+   <FontColor red="0" blue="0" green="0"/>
+   <ComposerItem pagey="178.269" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="148.5" y="178.269" visibility="1" zValue="7" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="28.1122" outlineWidth="0.3" excludeFromExports="0" uuid="{04b021aa-1bd4-4ac8-811d-9fd998012bb7}" height="12.009" itemRotation="0" frame="false" pagex="148.5">
+    <FrameColor alpha="255" red="0" blue="0" green="0"/>
+    <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+    <customproperties/>
+   </ComposerItem>
+  </ComposerLabel>
+  <ComposerPicture resizeMode="0" svgBorderWidth="0.2" pictureRotation="0" pictureWidth="39.6695" svgFillColor="255,255,255,255" svgBorderColor="0,0,0,255" file="./logo_arsban.png" pictureHeight="18.257" mapId="-1" anchorPoint="0">
+   <ComposerItem pagey="1.59304" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="199.755" y="1.59304" visibility="1" zValue="6" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="43.1528" outlineWidth="0.3" excludeFromExports="0" uuid="{f98acec4-9d8c-485d-bd04-a6adcbd70392}" height="18.257" itemRotation="0" frame="false" pagex="199.755">
+    <FrameColor alpha="255" red="0" blue="0" green="0"/>
+    <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+    <dataDefinedSource expr="" field="" active="false" useExpr="true"/>
+    <customproperties/>
+   </ComposerItem>
+  </ComposerPicture>
+  <ComposerLabel valign="32" marginX="1" marginY="1" labelText="Morro do Careca" htmlState="0" halign="4">
+   <LabelFont description="MS Shell Dlg 2,14,-1,5,75,0,0,0,0,0" style=""/>
+   <FontColor red="0" blue="0" green="0"/>
+   <ComposerItem pagey="76.7622" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="228.444" y="76.7622" visibility="1" zValue="6" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="49.2737" outlineWidth="0.3" excludeFromExports="0" uuid="{173b3e0c-3786-4466-9839-cde63529b1e7}" height="9.10448" itemRotation="0" frame="false" pagex="228.444">
+    <FrameColor alpha="255" red="0" blue="0" green="0"/>
+    <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+    <customproperties/>
+   </ComposerItem>
+  </ComposerLabel>
+  <ComposerLabel valign="32" marginX="1" marginY="1" labelText="Orla" htmlState="0" halign="4">
+   <LabelFont description="MS Shell Dlg 2,14,-1,5,75,0,0,0,0,0" style=""/>
+   <FontColor red="0" blue="0" green="0"/>
+   <ComposerItem pagey="22" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="130.288" y="22" visibility="1" zValue="3" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="28.1122" outlineWidth="0.3" excludeFromExports="0" uuid="{65329eea-dc79-4af4-84eb-6735395066c3}" height="12.009" itemRotation="0" frame="false" pagex="130.288">
+    <FrameColor alpha="255" red="0" blue="0" green="0"/>
+    <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+    <customproperties/>
+   </ComposerItem>
+  </ComposerLabel>
+  <ComposerLegend symbolWidth="7" title="Legenda" boxSpace="2" rasterBorderWidth="0" splitLayer="0" equalColumnWidth="0" map="0" titleAlignment="1" rasterBorder="1" symbolHeight="4" wmsLegendHeight="25" wrapChar="" fontColor="#000000" columnSpace="2" wmsLegendWidth="50" columnCount="1" rasterBorderColor="0,0,0,255">
+   <styles>
+    <style marginBottom="2" name="title">
+     <styleFont description="MS Shell Dlg 2,16,-1,5,50,0,0,0,0,0" style=""/>
+    </style>
+    <style marginTop="2" name="group">
+     <styleFont description="MS Shell Dlg 2,14,-1,5,50,0,0,0,0,0" style=""/>
+    </style>
+    <style marginTop="2" name="subgroup">
+     <styleFont description="MS Shell Dlg 2,12,-1,5,50,0,0,0,0,0" style=""/>
+    </style>
+    <style marginTop="2" name="symbol">
+     <styleFont description="MS Shell Dlg 2,8.25,-1,5,50,0,0,0,0,0" style=""/>
+    </style>
+    <style marginTop="2" marginLeft="2" name="symbolLabel">
+     <styleFont description="MS Shell Dlg 2,12,-1,5,50,0,0,0,0,0" style=""/>
+    </style>
+   </styles>
+   <layer-tree-group expanded="1" checked="Qt::Checked" name="">
+    <customproperties/>
+    <layer-tree-layer expanded="1" checked="Qt::Checked" id="pvs_trav_morro_do_careca20160511155334888" name="pvs_trav_morro_do_careca">
+     <customproperties>
+      <property key="legend/title-label" value="PVs não idetificados"/>
+     </customproperties>
+    </layer-tree-layer>
+    <layer-tree-layer expanded="1" checked="Qt::Checked" id="POÇOS_DE_VISITA20160511155553060" name="POÇOS_DE_VISITA">
+     <customproperties>
+      <property key="legend/title-label" value="PVs Identificados"/>
+     </customproperties>
+    </layer-tree-layer>
+    <layer-tree-layer expanded="1" checked="Qt::Checked" id="REDE_DE_ESGOTOS20160511155553107" name="REDE_DE_ESGOTOS">
+     <customproperties>
+      <property key="legend/title-label" value="Rede de Esgotos Ativa"/>
+     </customproperties>
+    </layer-tree-layer>
+    <layer-tree-layer expanded="1" checked="Qt::Checked" id="Referencias_TRV_M_Careca20160511155334919" name="Referencias_TRV_M_Careca">
+     <customproperties>
+      <property key="legend/title-label" value="Referencias"/>
+     </customproperties>
+    </layer-tree-layer>
+    <layer-tree-layer expanded="1" checked="Qt::Checked" id="curvas_nivel20160511160140053" name="curvas_nivel">
+     <customproperties/>
+    </layer-tree-layer>
+    <layer-tree-layer expanded="1" checked="Qt::Checked" id="Logradouros20160511170201933" name="Logradouros">
+     <customproperties/>
+    </layer-tree-layer>
+   </layer-tree-group>
+   <ComposerItem pagey="118.919" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="10.1932" y="118.919" visibility="1" zValue="2" background="true" transparency="0" frameJoinStyle="miter" blendMode="0" width="62.0432" outlineWidth="0.3" excludeFromExports="0" uuid="{789f4226-2df9-49cd-8411-50c0afadc0b1}" height="65.2" itemRotation="0" frame="true" pagex="10.1932">
+    <FrameColor alpha="255" red="0" blue="0" green="0"/>
+    <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+    <customproperties/>
+   </ComposerItem>
+  </ComposerLegend>
+  <ComposerMap mapRotation="0" keepLayerSet="true" id="0" previewMode="Cache" drawCanvasItems="true">
+   <Extent ymin="9348856.14125784114003181" xmin="259962.39905509882373735" ymax="9349213.7770664170384407" xmax="260528.39905567612731829"/>
+   <LayerSet>
+    <Layer>pvs_trav_morro_do_careca20160511155334888</Layer>
+    <Layer>POÇOS_DE_VISITA20160511155553060</Layer>
+    <Layer>Logradouros20160511170201933</Layer>
+    <Layer>Limite_dos_bairros_area20160511162203091</Layer>
+    <Layer>curvas_nivel20160511160140053</Layer>
+    <Layer>reg_sul_lotes20160511155836459</Layer>
+    <Layer>Referencias_TRV_M_Careca20160511155334919</Layer>
+    <Layer>REDE_DE_ESGOTOS20160511155553107</Layer>
+   </LayerSet>
+   <Grid/>
+   <ComposerMapGrid rightAnnotationDirection="1" gridFramePenColor="0,0,0,255" show="1" bottomAnnotationPosition="1" annotationPrecision="0" showAnnotation="1" topFrameDivisions="0" uuid="{40c0ee51-6638-49ca-ad5c-5c5f97a37ed3}" leftAnnotationDirection="1" topAnnotationPosition="1" rightAnnotationDisplay="0" offsetX="0" offsetY="0" rightFrameDivisions="0" gridStyle="1" annotationFontColor="0,0,0,255" intervalX="100" gridFrameSideFlags="15" intervalY="100" bottomAnnotationDirection="0" leftAnnotationDisplay="0" leftFrameDivisions="0" frameFillColor1="255,255,255,255" annotationExpression="" frameFillColor2="0,0,0,255" crossLength="1" gridFramePenThickness="0.29999999999999999" bottomAnnotationDisplay="0" unit="0" topAnnotationDisplay="0" leftAnnotationPosition="1" blendMode="0" gridFrameStyle="0" rightAnnotationPosition="1" gridFrameWidth="2" name="Grade 1" annotationFormat="0" bottomFrameDivisions="0" topAnnotationDirection="0" frameAnnotationDistance="1">
+    <lineStyle>
+     <symbol alpha="1" clip_to_extent="1" type="line" name="">
+      <layer pass="0" class="SimpleLine" locked="0">
+       <prop k="capstyle" v="flat"/>
+       <prop k="customdash" v="5;2"/>
+       <prop k="customdash_map_unit_scale" v="0,0,0,0,0,0"/>
+       <prop k="customdash_unit" v="MM"/>
+       <prop k="draw_inside_polygon" v="0"/>
+       <prop k="joinstyle" v="bevel"/>
+       <prop k="line_color" v="0,0,0,255"/>
+       <prop k="line_style" v="solid"/>
+       <prop k="line_width" v="0.3"/>
+       <prop k="line_width_unit" v="MM"/>
+       <prop k="offset" v="0"/>
+       <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+       <prop k="offset_unit" v="MM"/>
+       <prop k="use_custom_dash" v="0"/>
+       <prop k="width_map_unit_scale" v="0,0,0,0,0,0"/>
+      </layer>
+     </symbol>
+    </lineStyle>
+    <markerStyle>
+     <symbol alpha="1" clip_to_extent="1" type="marker" name="">
+      <layer pass="0" class="SimpleMarker" locked="0">
+       <prop k="angle" v="0"/>
+       <prop k="color" v="0,0,0,255"/>
+       <prop k="horizontal_anchor_point" v="1"/>
+       <prop k="name" v="circle"/>
+       <prop k="offset" v="0,0"/>
+       <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+       <prop k="offset_unit" v="MM"/>
+       <prop k="outline_color" v="0,0,0,255"/>
+       <prop k="outline_style" v="solid"/>
+       <prop k="outline_width" v="0"/>
+       <prop k="outline_width_map_unit_scale" v="0,0,0,0,0,0"/>
+       <prop k="outline_width_unit" v="MM"/>
+       <prop k="scale_method" v="diameter"/>
+       <prop k="size" v="2"/>
+       <prop k="size_map_unit_scale" v="0,0,0,0,0,0"/>
+       <prop k="size_unit" v="MM"/>
+       <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+     </symbol>
+    </markerStyle>
+    <annotationFontProperties description="MS Shell Dlg 2,8.25,-1,5,50,0,0,0,0,0" style=""/>
+   </ComposerMapGrid>
+   <AtlasMap scalingMode="2" atlasDriven="0" margin="0.10000000000000001"/>
+   <ComposerItem pagey="22" page="1" id="" lastValidViewScaleFactor="2.35863" positionMode="0" positionLock="false" x="8.24128" y="22" visibility="1" zValue="1" background="true" transparency="0" frameJoinStyle="miter" blendMode="0" width="283.156" outlineWidth="0.3" excludeFromExports="0" uuid="{e1484ae2-ebb6-4b96-9e6d-5f268d012213}" height="178.917" itemRotation="0" frame="true" pagex="8.24128">
+    <FrameColor alpha="255" red="0" blue="0" green="0"/>
+    <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+    <customproperties/>
+   </ComposerItem>
+  </ComposerMap>
+  <customproperties>
+   <property key="imageCropMarginBottom" value="0"/>
+   <property key="imageCropMarginLeft" value="0"/>
+   <property key="imageCropMarginRight" value="0"/>
+   <property key="imageCropMarginTop" value="0"/>
+   <property key="imageCropToContents" value="false"/>
+  </customproperties>
+ </Composition>
+</Composer>

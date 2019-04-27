@@ -1,0 +1,102 @@
+<Composer title="Compositor 1" visible="1">
+ <ComposerMap keepLayerSet="true" id="0" previewMode="Cache" drawCanvasItems="true">
+  <Extent ymin="9.3454e+06" xmin="245544" ymax="9.36953e+06" xmax="262544"/>
+  <LayerSet>
+   <Layer>Limite_dos_bairros20121116181455170</Layer>
+  </LayerSet>
+  <Grid gridStyle="1" crossLength="1" penColorRed="0" penColorBlue="0" intervalX="5000" offsetX="0" intervalY="5000" offsetY="0" show="1" penWidth="0" penColorGreen="0">
+   <Annotation direction="3" precision="0" position="1" frameDistance="0.5" show="1" font="MS Shell Dlg 2,8.25,-1,5,50,0,0,0,0,0"/>
+  </Grid>
+  <ComposerItem width="136.766" x="67.5138" y="7.4391" rotation="0" height="194.092" frame="true" outlineWidth="0.3" zValue="2" lastValidViewScaleFactor="2.95735" id="" positionLock="false">
+   <FrameColor alpha="255" red="0" blue="0" green="0"/>
+   <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerMap>
+ <ComposerShape shapeType="1" shapeWidth="291.576" outlineWidth="1" transparentFill="1" shapeHeight="204.237">
+  <OutlineColor alpha="255" red="0" blue="0" green="0"/>
+  <FillColor alpha="255" red="0" blue="0" green="0"/>
+  <ComposerItem width="291.576" x="1.98658" y="2.70513" rotation="0" height="204.237" frame="true" outlineWidth="0" zValue="1" lastValidViewScaleFactor="2.95735" id="" positionLock="false">
+   <FrameColor alpha="0" red="255" blue="255" green="255"/>
+   <BackgroundColor alpha="0" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerShape>
+ <ComposerMap keepLayerSet="true" id="1" previewMode="Cache" drawCanvasItems="true">
+  <Extent ymin="9.21104e+06" xmin="-136794" ymax="9.53962e+06" xmax="295206"/>
+  <LayerSet>
+   <Layer>RN_SAD6920121116182046850</Layer>
+  </LayerSet>
+  <Grid gridStyle="1" crossLength="0" penColorRed="0" penColorBlue="0" intervalX="100000" offsetX="0" intervalY="250000" offsetY="0" show="1" penWidth="0" penColorGreen="0">
+   <Annotation direction="3" precision="0" position="1" frameDistance="1" show="0" font="MS Shell Dlg 2,8.25,-1,5,50,0,0,0,0,0"/>
+  </Grid>
+  <ComposerItem width="55.7933" x="4.39583" y="9.46795" rotation="0" height="42.4375" frame="true" outlineWidth="0.3" zValue="3" lastValidViewScaleFactor="2.95735" id="" positionLock="false">
+   <FrameColor alpha="255" red="0" blue="0" green="0"/>
+   <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerMap>
+ <ComposerLegend symbolWidth="7" title="Legenda" boxSpace="2" titleFont="MS Shell Dlg 2,16,-1,5,50,0,0,0,0,0" map="2" groupFont="MS Shell Dlg 2,14,-1,5,50,0,0,0,0,0" layerFont="MS Shell Dlg 2,12,-1,5,50,0,0,0,0,0" groupSpace="2" symbolSpace="2" symbolHeight="4" layerSpace="2" iconLabelSpace="2" wrapChar="" itemFont="MS Shell Dlg 2,12,-1,5,50,0,0,0,0,0">
+  <Model autoUpdate="1">
+   <LayerItem layerId="Limite_dos_bairros20121116181455170" text="Limite_dos_bairros">
+    <VectorClassificationItemNg text="">
+     <symbols>
+      <symbol outputUnit="MM" alpha="1" type="fill" name="classificationSymbol">
+       <layer pass="0" class="SimpleFill" locked="0">
+        <prop k="color" v="214,205,104,255"/>
+        <prop k="color_border" v="0,0,0,255"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="style" v="solid"/>
+        <prop k="style_border" v="solid"/>
+        <prop k="width_border" v="0.26"/>
+       </layer>
+      </symbol>
+     </symbols>
+    </VectorClassificationItemNg>
+   </LayerItem>
+   <LayerItem layerId="RN_SAD6920121116182046850" text="RN_SAD69">
+    <VectorClassificationItemNg text="Nome_Munic"/>
+   </LayerItem>
+   <LayerItem layerId="Divisão_Estadual20121116182618558" text="Divisão_Estadual"/>
+  </Model>
+  <ComposerItem width="39" x="216.748" y="77.0962" rotation="0" height="49.2" frame="true" outlineWidth="0.3" zValue="20" lastValidViewScaleFactor="2.95735" id="" positionLock="false">
+   <FrameColor alpha="255" red="0" blue="0" green="0"/>
+   <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerLegend>
+ <ComposerMap keepLayerSet="true" id="2" previewMode="Cache" drawCanvasItems="true">
+  <Extent ymin="6.02841e+06" xmin="-4.47601e+06" ymax="1.15269e+07" xmax="383994"/>
+  <LayerSet>
+   <Layer>Divisão_Estadual20121116182618558</Layer>
+  </LayerSet>
+  <Grid gridStyle="1" crossLength="0" penColorRed="0" penColorBlue="0" intervalX="2e+06" offsetX="0" intervalY="2e+06" offsetY="0" show="1" penWidth="0" penColorGreen="0">
+   <Annotation direction="3" precision="0" position="1" frameDistance="1" show="0" font="MS Shell Dlg 2,8.25,-1,5,50,0,0,0,0,0"/>
+  </Grid>
+  <ComposerItem width="55.7179" x="4.39583" y="54.7628" rotation="0" height="63.0385" frame="true" outlineWidth="0.3" zValue="6" lastValidViewScaleFactor="2.95735" id="" positionLock="false">
+   <FrameColor alpha="255" red="0" blue="0" green="0"/>
+   <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerMap>
+ <ComposerLabel valign="32" labelText="BRASIL" halign="1" margin="1">
+  <LabelFont description="MS Shell Dlg 2,10,-1,5,50,0,0,0,0,0"/>
+  <FontColor red="0" blue="0" green="0"/>
+  <ComposerItem width="14.3414" x="28.8477" y="56.8711" rotation="0" height="7.1" frame="false" outlineWidth="0.3" zValue="18" lastValidViewScaleFactor="2.95735" id="" positionLock="false">
+   <FrameColor alpha="255" red="0" blue="0" green="0"/>
+   <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerLabel>
+ <ComposerLabel valign="32" labelText="RN" halign="1" margin="1">
+  <LabelFont description="MS Shell Dlg 2,10,-1,5,50,0,0,0,0,0"/>
+  <FontColor red="0" blue="0" green="0"/>
+  <ComposerItem width="7.10096" x="33.476" y="13.1875" rotation="0" height="7.1" frame="false" outlineWidth="0.3" zValue="17" lastValidViewScaleFactor="2.95735" id="" positionLock="false">
+   <FrameColor alpha="255" red="0" blue="0" green="0"/>
+   <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerLabel>
+ <ComposerLabel valign="32" labelText="" halign="1" margin="1">
+  <LabelFont description="MS Shell Dlg 2,10,-1,5,50,0,0,0,0,0"/>
+  <FontColor red="0" blue="0" green="0"/>
+  <ComposerItem width="82.5381" x="207.814" y="7.1855" rotation="0" height="195.755" frame="true" outlineWidth="0.5" zValue="12" lastValidViewScaleFactor="2.95735" id="" positionLock="false">
+   <FrameColor alpha="255" red="0" blue="0" green="0"/>
+   <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerLabel>
+ <Composition printResolution="300" paperWidth="297" snapGridOffsetX="0" snapGridResolution="0" snapGridOffsetY="0" snapping="0" paperHeight="210" printAsRaster="0"/>
+</Composer>

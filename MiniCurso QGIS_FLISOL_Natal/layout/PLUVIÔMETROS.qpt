@@ -1,0 +1,213 @@
+<Composer title="Compositor 1" visible="1">
+ <ComposerLabel valign="32" labelText="______________________________________&#xa;Pedro Celestino Dantas Junior&#xa;Analista de Regulação em Saneamento" halign="4" margin="0.5">
+  <LabelFont description="MS Shell Dlg 2,7,-1,5,50,0,0,0,0,0"/>
+  <FontColor red="0" blue="0" green="0"/>
+  <ComposerItem width="63.5575" x="225.917" y="28.2558" rotation="0" height="11.0437" frame="true" outlineWidth="0" zValue="12" lastValidViewScaleFactor="6.06635" id="" positionLock="false">
+   <FrameColor alpha="255" red="0" blue="0" green="0"/>
+   <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerLabel>
+ <ComposerPicture pictureWidth="10" file="../../PROGRA~1/QUANTU~1/apps/qgis/svg/north_arrows/NorthArrow1.svg" pictureHeight="10" mapId="-1">
+  <ComposerItem width="10" x="245.626" y="142.076" rotation="0" height="10" frame="false" outlineWidth="0.3" zValue="9" lastValidViewScaleFactor="3.03318" id="" positionLock="false">
+   <FrameColor alpha="255" red="0" blue="0" green="0"/>
+   <BackgroundColor alpha="0" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerPicture>
+ <ComposerPicture pictureWidth="12.4612" file="C:/OSGeo4W/apps/qgis/./svg/north_arrows/NorthArrow1.svg" pictureHeight="15" mapId="-1">
+  <ComposerItem width="12.4612" x="9.12982" y="11.3385" rotation="0" height="15" frame="false" outlineWidth="0.3" zValue="19" lastValidViewScaleFactor="2.95735" id="" positionLock="false">
+   <FrameColor alpha="255" red="0" blue="0" green="0"/>
+   <BackgroundColor alpha="103" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerPicture>
+ <ComposerLabel valign="32" labelText="Elaborado por: Pedro Junior   Matrícula: 61.872-1" halign="4" margin="1">
+  <LabelFont description="MS Shell Dlg 2,6,-1,5,50,0,0,0,0,0"/>
+  <FontColor red="0" blue="0" green="0"/>
+  <ComposerItem width="61.943" x="219.488" y="24.1642" rotation="0" height="4.89778" frame="false" outlineWidth="0.3" zValue="10" lastValidViewScaleFactor="6.06635" id="" positionLock="false">
+   <FrameColor alpha="255" red="0" blue="0" green="0"/>
+   <BackgroundColor alpha="0" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerLabel>
+ <ComposerLabel valign="32" labelText="Mapa - Sugestões para colocação de Pluviômetros" halign="1" margin="1">
+  <LabelFont description="MS Shell Dlg 2,10,-1,5,50,0,0,0,0,0"/>
+  <FontColor red="0" blue="0" green="0"/>
+  <ComposerItem width="59.1702" x="227.511" y="9.01512" rotation="0" height="13.2388" frame="false" outlineWidth="0.3" zValue="8" lastValidViewScaleFactor="12.1327" id="" positionLock="false">
+   <FrameColor alpha="255" red="0" blue="0" green="0"/>
+   <BackgroundColor alpha="0" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerLabel>
+ <ComposerLabel valign="32" labelText="Fonte: INPE&#xa;Dados Cartográficos: Secretaria Municipal de Meio Ambiente e Urbanismo - SEMURB&#xa;Fotografia Aérea ano de 2006&#xa;Escala de Vôo: 1:8000 -  Escala de Restiuição - 1:2000 " halign="1" margin="1">
+  <LabelFont description="MS Shell Dlg 2,10,-1,5,50,0,0,0,0,0"/>
+  <FontColor red="0" blue="0" green="0"/>
+  <ComposerItem width="63.5745" x="225.925" y="142.691" rotation="0" height="33.1776" frame="true" outlineWidth="0" zValue="14" lastValidViewScaleFactor="2.95735" id="" positionLock="false">
+   <FrameColor alpha="255" red="0" blue="0" green="0"/>
+   <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerLabel>
+ <ComposerLabel valign="32" labelText="Data: 21/08/2012                          Prancha: 1/1" halign="1" margin="1">
+  <LabelFont description="MS Shell Dlg 2,6,-1,5,50,0,0,0,0,0"/>
+  <FontColor red="0" blue="0" green="0"/>
+  <ComposerItem width="63.5623" x="225.921" y="39.1023" rotation="0" height="4.28757" frame="true" outlineWidth="0" zValue="11" lastValidViewScaleFactor="6.06635" id="" positionLock="false">
+   <FrameColor alpha="255" red="0" blue="0" green="0"/>
+   <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerLabel>
+ <ComposerLabel valign="32" labelText="Projeção Universal Transversa de Mercator&#xa;Datum Horizontal IBGE - SAD69&#xa;Datum Vertical IBGE - Marégrafo Imbituba&#xa;Zona UTM - 25M - Sul&#xa;Meridiano Central - 33° WGr" halign="1" margin="1">
+  <LabelFont description="MS Shell Dlg 2,9,-1,5,50,0,0,0,0,0"/>
+  <FontColor red="0" blue="0" green="0"/>
+  <ComposerItem width="64.8656" x="225.849" y="178.997" rotation="0" height="37.1538" frame="false" outlineWidth="0" zValue="15" lastValidViewScaleFactor="2.95735" id="" positionLock="false">
+   <FrameColor alpha="255" red="0" blue="0" green="0"/>
+   <BackgroundColor alpha="0" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerLabel>
+ <ComposerLabel valign="32" labelText="" halign="1" margin="1">
+  <LabelFont description="MS Shell Dlg 2,10,-1,5,50,0,0,0,0,0"/>
+  <FontColor red="0" blue="0" green="0"/>
+  <ComposerItem width="63.5762" x="225.925" y="7.93032" rotation="0" height="16.9299" frame="true" outlineWidth="0" zValue="1" lastValidViewScaleFactor="2.95735" id="" positionLock="false">
+   <FrameColor alpha="255" red="0" blue="0" green="0"/>
+   <BackgroundColor alpha="0" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerLabel>
+ <ComposerScaleBar segmentMillimeters="8.34984" numMapUnitsPerScaleBarUnit="1" numSegments="2" height="5" alignment="0" labelBarSpace="3" outlineWidth="1" numSegmentsLeft="0" style="Double Box" unitLabel="Metros" font="MS Shell Dlg 2,12,-1,5,50,0,0,0,0,0" mapId="0" boxContentSpace="1" numUnitsPerSegment="1000">
+  <BrushColor red="0" blue="0" green="0"/>
+  <ComposerItem width="40.1997" x="225.996" y="124.617" rotation="0" height="14.2" frame="false" outlineWidth="0.3" zValue="18" lastValidViewScaleFactor="2.95735" id="" positionLock="false">
+   <FrameColor alpha="255" red="0" blue="0" green="0"/>
+   <BackgroundColor alpha="0" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerScaleBar>
+ <ComposerMap keepLayerSet="false" id="0" previewMode="Cache" drawCanvasItems="false">
+  <Extent ymin="9.34562e+06" xmin="245536" ymax="9.3693e+06" xmax="270496"/>
+  <LayerSet/>
+  <Grid gridStyle="1" crossLength="1" penColorRed="0" penColorBlue="0" intervalX="5000" offsetX="0" intervalY="5000" offsetY="0" show="1" penWidth="0" penColorGreen="0">
+   <Annotation direction="3" precision="0" position="1" frameDistance="1" show="1" font="MS Shell Dlg 2,8.25,-1,5,50,0,0,0,0,0"/>
+  </Grid>
+  <ComposerItem width="208.412" x="6.59375" y="8.24219" rotation="0" height="197.686" frame="true" outlineWidth="0.3" zValue="3" lastValidViewScaleFactor="3.03318" id="" positionLock="false">
+   <FrameColor alpha="255" red="0" blue="0" green="0"/>
+   <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerMap>
+ <ComposerShape shapeType="1" shapeWidth="63.583" outlineWidth="0" transparentFill="1" shapeHeight="3.61357">
+  <OutlineColor alpha="255" red="0" blue="0" green="0"/>
+  <FillColor alpha="255" red="0" blue="0" green="0"/>
+  <ComposerItem width="63.583" x="225.954" y="24.8497" rotation="0" height="3.61357" frame="true" outlineWidth="0" zValue="5" lastValidViewScaleFactor="24.2654" id="" positionLock="false">
+   <FrameColor alpha="0" red="255" blue="255" green="255"/>
+   <BackgroundColor alpha="0" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerShape>
+ <ComposerShape shapeType="1" shapeWidth="63.585" outlineWidth="0" transparentFill="1" shapeHeight="196.085">
+  <OutlineColor alpha="255" red="0" blue="0" green="0"/>
+  <FillColor alpha="255" red="0" blue="0" green="0"/>
+  <ComposerItem width="63.585" x="225.915" y="7.89605" rotation="0" height="196.085" frame="false" outlineWidth="0" zValue="4" lastValidViewScaleFactor="2.95735" id="" positionLock="false">
+   <FrameColor alpha="0" red="255" blue="255" green="255"/>
+   <BackgroundColor alpha="0" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerShape>
+ <ComposerLegend symbolWidth="7" title="" boxSpace="2" titleFont="MS Shell Dlg 2,16,-1,5,50,0,0,0,0,0" map="0" groupFont="MS Shell Dlg 2,14,-1,5,50,0,0,0,0,0" layerFont="MS Shell Dlg 2,12,-1,5,50,0,0,0,0,0" groupSpace="2" symbolSpace="2" symbolHeight="4" layerSpace="2" iconLabelSpace="2" wrapChar="" itemFont="MS Shell Dlg 2,12,-1,5,50,0,0,0,0,0">
+  <Model autoUpdate="1">
+   <LayerItem layerId="Limite_dos_bairros20130822182258795" text="Bairros da Região Oeste">
+    <VectorClassificationItemNg text="">
+     <symbols>
+      <symbol outputUnit="MM" alpha="1" type="fill" name="classificationSymbol">
+       <layer pass="0" class="SimpleFill" locked="0">
+        <prop k="color" v="106,106,106,255"/>
+        <prop k="color_border" v="0,0,0,255"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="style" v="diagonal_x"/>
+        <prop k="style_border" v="solid"/>
+        <prop k="width_border" v="0.26"/>
+       </layer>
+      </symbol>
+     </symbols>
+    </VectorClassificationItemNg>
+   </LayerItem>
+   <LayerItem layerId="Estações_Meteoro_Natal20130821204310752" text="Estações Meteorológicas">
+    <VectorClassificationItemNg text="">
+     <symbols>
+      <symbol outputUnit="MM" alpha="1" type="marker" name="classificationSymbol">
+       <layer pass="0" class="SvgMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="fill" v="#000000"/>
+        <prop k="name" v="/symbol/Estação Clima.svg"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="outline" v="#000000"/>
+        <prop k="outline-width" v="1"/>
+        <prop k="size" v="11"/>
+       </layer>
+      </symbol>
+     </symbols>
+    </VectorClassificationItemNg>
+   </LayerItem>
+   <LayerItem layerId="Sugestão_de_Local20130821215050439" text="Sugestão para Pluviômetros">
+    <VectorClassificationItemNg text="">
+     <symbols>
+      <symbol outputUnit="MM" alpha="1" type="marker" name="classificationSymbol">
+       <layer pass="0" class="SvgMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="fill" v="#000000"/>
+        <prop k="name" v="/symbol/Google maps.svg"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="outline" v="#000000"/>
+        <prop k="outline-width" v="1"/>
+        <prop k="size" v="9"/>
+       </layer>
+      </symbol>
+     </symbols>
+    </VectorClassificationItemNg>
+   </LayerItem>
+   <LayerItem layerId="Pontos_de_Inundações_Oeste20130821214331210" text="Pontos de Inundações">
+    <VectorClassificationItemNg text="">
+     <symbols>
+      <symbol outputUnit="MM" alpha="1" type="marker" name="classificationSymbol">
+       <layer pass="0" class="SvgMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="fill" v="#000000"/>
+        <prop k="name" v="/symbol/Enchente.svg"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="outline" v="#000000"/>
+        <prop k="outline-width" v="1"/>
+        <prop k="size" v="8"/>
+       </layer>
+      </symbol>
+     </symbols>
+    </VectorClassificationItemNg>
+   </LayerItem>
+   <LayerItem layerId="Limite_dos_bairros20130821193053805" text="Limite dos bairros">
+    <VectorClassificationItemNg text="">
+     <symbols>
+      <symbol outputUnit="MM" alpha="1" type="fill" name="classificationSymbol">
+       <layer pass="0" class="SimpleFill" locked="0">
+        <prop k="color" v="18,184,104,255"/>
+        <prop k="color_border" v="0,0,0,255"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="style" v="no"/>
+        <prop k="style_border" v="solid"/>
+        <prop k="width_border" v="0.26"/>
+       </layer>
+      </symbol>
+     </symbols>
+    </VectorClassificationItemNg>
+   </LayerItem>
+  </Model>
+  <ComposerItem width="55" x="228.473" y="45.0023" rotation="0" height="94" frame="false" outlineWidth="0.3" zValue="18" lastValidViewScaleFactor="2.95735" id="" positionLock="false">
+   <FrameColor alpha="255" red="0" blue="0" green="0"/>
+   <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerLegend>
+ <ComposerAttributeTable contentFont="MS Shell Dlg 2,8.25,-1,5,50,0,0,0,0,0" gridStrokeWidth="0.5" gridColorGreen="0" composerMap="0" showGrid="1" headerFont="MS Shell Dlg 2,8.25,-1,5,50,0,0,0,0,0" gridColorBlue="0" lineTextDist="1" gridColorRed="0" showOnlyVisibleFeatures="1" vectorLayer="Sugestão_de_Local20130821215050439">
+  <displayAttributes/>
+  <attributeAliasMap/>
+  <sortColumns/>
+  <ComposerItem width="66" x="145.739" y="26.6122" rotation="0" height="59.9" frame="true" outlineWidth="0.3" zValue="19" lastValidViewScaleFactor="3.03318" id="" positionLock="false">
+   <FrameColor alpha="255" red="0" blue="0" green="0"/>
+   <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerAttributeTable>
+ <ComposerLabel valign="32" labelText="Sugestão de Locais para colocar os Pluviômetros na Regiãso Oeste" halign="1" margin="1">
+  <LabelFont description="MS Shell Dlg 2,10,-1,5,50,0,0,0,0,0"/>
+  <FontColor red="0" blue="0" green="0"/>
+  <ComposerItem width="56.1314" x="154.192" y="14.8782" rotation="0" height="11.1587" frame="true" outlineWidth="0.3" zValue="20" lastValidViewScaleFactor="2.95735" id="" positionLock="false">
+   <FrameColor alpha="255" red="0" blue="0" green="0"/>
+   <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerLabel>
+ <Composition printResolution="303" paperWidth="297" snapGridOffsetX="0" snapGridResolution="0" snapGridOffsetY="1" snapping="0" paperHeight="210" printAsRaster="0"/>
+</Composer>

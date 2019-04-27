@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OGRVRTDataSource>
+    <OGRVRTLayer name="dados_setores-Plan2">
+        <SrcDataSource relativeToVRT="1">dados_setores.ods</SrcDataSource>
+        <!--Header=False-->
+        <SrcLayer>Plan2</SrcLayer>
+        <Field name="sector_id" src="sector_id" type="String"/>
+        <Field name="descript" src="descript" type="String"/>
+        <Field name="ligações (un)" src="ligações (un)" type="Integer"/>
+        <Field name="Rede cadastrada (m) " src="Rede cadastrada (m) " type="Real"/>
+        <Field name="m/lig " src="m/lig " type="Real"/>
+        <Field name="Cota Max (m) " src="Cota Max (m) " type="Real"/>
+        <Field name="Cota min (m)" src="Cota min (m)" type="Real"/>
+    </OGRVRTLayer>
+</OGRVRTDataSource>

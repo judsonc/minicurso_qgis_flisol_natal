@@ -1,0 +1,193 @@
+<Composer title="Compositor 5" visible="1">
+ <ComposerLabel valign="32" labelText="TÍTULO:" halign="4" margin="0">
+  <LabelFont description="MS Shell Dlg 2,9,-1,5,50,0,0,0,0,0"/>
+  <FontColor red="0" blue="0" green="0"/>
+  <ComposerItem width="33" x="217.366" y="25.1604" rotation="0" height="5.17105" frame="false" outlineWidth="0.3" zValue="10" lastValidViewScaleFactor="7.69668" id="" positionLock="false">
+   <FrameColor alpha="255" red="0" blue="0" green="0"/>
+   <BackgroundColor alpha="0" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerLabel>
+ <ComposerLabel valign="32" labelText="" halign="1" margin="1">
+  <LabelFont description="MS Shell Dlg 2,10,-1,5,50,0,0,0,0,0"/>
+  <FontColor red="0" blue="0" green="0"/>
+  <ComposerItem width="63.5762" x="225.925" y="7.93032" rotation="0" height="16.9299" frame="true" outlineWidth="0" zValue="21" lastValidViewScaleFactor="3.84834" id="" positionLock="false">
+   <FrameColor alpha="255" red="0" blue="0" green="0"/>
+   <BackgroundColor alpha="0" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerLabel>
+ <ComposerLabel valign="32" labelText="Mapa 1- Localização da residência em questão, na Rua José Edilson Batista, 195 - Nossa  Senhora da Apresentação" halign="1" margin="1">
+  <LabelFont description="MS Shell Dlg 2,10,-1,5,50,0,0,0,0,0"/>
+  <FontColor red="0" blue="0" green="0"/>
+  <ComposerItem width="59.1702" x="228.525" y="28.6273" rotation="0" height="19.5199" frame="false" outlineWidth="0.3" zValue="12" lastValidViewScaleFactor="3.84834" id="" positionLock="false">
+   <FrameColor alpha="255" red="0" blue="0" green="0"/>
+   <BackgroundColor alpha="0" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerLabel>
+ <ComposerPicture pictureWidth="10" file="../../../PROGRA~1/QUANTU~1/apps/qgis/svg/north_arrows/NorthArrow1.svg" pictureHeight="10" mapId="-1">
+  <ComposerItem width="10" x="245.626" y="142.076" rotation="0" height="10" frame="false" outlineWidth="0.3" zValue="18" lastValidViewScaleFactor="11.2227" id="" positionLock="false">
+   <FrameColor alpha="255" red="0" blue="0" green="0"/>
+   <BackgroundColor alpha="0" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerPicture>
+ <ComposerShape shapeType="1" shapeWidth="216.9" outlineWidth="1" transparentFill="1" shapeHeight="196.771">
+  <OutlineColor alpha="255" red="0" blue="0" green="0"/>
+  <FillColor alpha="255" red="0" blue="0" green="0"/>
+  <ComposerItem width="216.9" x="4.48337" y="7.31597" rotation="0" height="196.771" frame="true" outlineWidth="0" zValue="5" lastValidViewScaleFactor="2.80569" id="" positionLock="false">
+   <FrameColor alpha="0" red="255" blue="255" green="255"/>
+   <BackgroundColor alpha="0" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerShape>
+ <ComposerShape shapeType="1" shapeWidth="63.583" outlineWidth="0" transparentFill="1" shapeHeight="3.61357">
+  <OutlineColor alpha="255" red="0" blue="0" green="0"/>
+  <FillColor alpha="255" red="0" blue="0" green="0"/>
+  <ComposerItem width="63.583" x="225.913" y="48.097" rotation="0" height="3.61357" frame="true" outlineWidth="0" zValue="2" lastValidViewScaleFactor="15.3934" id="" positionLock="false">
+   <FrameColor alpha="0" red="255" blue="255" green="255"/>
+   <BackgroundColor alpha="0" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerShape>
+ <ComposerShape shapeType="1" shapeWidth="2.39677" outlineWidth="0.8" transparentFill="1" shapeHeight="3.68044">
+  <OutlineColor alpha="255" red="255" blue="0" green="0"/>
+  <FillColor alpha="255" red="0" blue="0" green="0"/>
+  <ComposerItem width="2.39677" x="232.77" y="152.144" rotation="0" height="3.68044" frame="true" outlineWidth="0" zValue="16" lastValidViewScaleFactor="3.84834" id="" positionLock="false">
+   <FrameColor alpha="0" red="255" blue="255" green="255"/>
+   <BackgroundColor alpha="0" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerShape>
+ <ComposerShape shapeType="1" shapeWidth="63.585" outlineWidth="0" transparentFill="1" shapeHeight="196.085">
+  <OutlineColor alpha="255" red="0" blue="0" green="0"/>
+  <FillColor alpha="255" red="0" blue="0" green="0"/>
+  <ComposerItem width="63.585" x="225.915" y="7.89605" rotation="0" height="196.085" frame="false" outlineWidth="0" zValue="1" lastValidViewScaleFactor="3.84834" id="" positionLock="false">
+   <FrameColor alpha="0" red="255" blue="255" green="255"/>
+   <BackgroundColor alpha="0" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerShape>
+ <ComposerMap keepLayerSet="true" id="2" previewMode="Cache" drawCanvasItems="true">
+  <Extent ymin="9.36009e+06" xmin="248402" ymax="9.36654e+06" xmax="253533"/>
+  <LayerSet>
+   <Layer>Limite_dos_bairros20121116120323245</Layer>
+  </LayerSet>
+  <Grid gridStyle="0" crossLength="3" penColorRed="0" penColorBlue="0" intervalX="0" offsetX="0" intervalY="0" offsetY="0" show="0" penWidth="0" penColorGreen="0">
+   <Annotation direction="0" precision="3" position="1" frameDistance="1" show="0" font="MS Shell Dlg 2,8.25,-1,5,50,0,0,0,0,0"/>
+  </Grid>
+  <ComposerItem width="33.2138" x="256.265" y="141.632" rotation="0" height="41.7456" frame="true" outlineWidth="0" zValue="28" lastValidViewScaleFactor="2.80569" id="" positionLock="false">
+   <FrameColor alpha="255" red="0" blue="0" green="0"/>
+   <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerMap>
+ <ComposerMap keepLayerSet="true" id="1" previewMode="Cache" drawCanvasItems="true">
+  <Extent ymin="9.34398e+06" xmin="244924" ymax="9.37017e+06" xmax="262024"/>
+  <LayerSet>
+   <Layer>Limite_dos_bairros20120614082525712</Layer>
+  </LayerSet>
+  <Grid gridStyle="0" crossLength="3" penColorRed="0" penColorBlue="0" intervalX="0" offsetX="0" intervalY="0" offsetY="0" show="0" penWidth="0" penColorGreen="0">
+   <Annotation direction="0" precision="3" position="1" frameDistance="1" show="0" font="MS Shell Dlg 2,8.25,-1,5,50,0,0,0,0,0"/>
+  </Grid>
+  <ComposerItem width="28.1586" x="226.497" y="141.36" rotation="0" height="43.1316" frame="false" outlineWidth="0.3" zValue="4" lastValidViewScaleFactor="2.80569" id="" positionLock="false">
+   <FrameColor alpha="255" red="0" blue="0" green="0"/>
+   <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerMap>
+ <ComposerMap keepLayerSet="false" id="0" previewMode="Cache" drawCanvasItems="false">
+  <Extent ymin="9.34532e+06" xmin="241104" ymax="9.36939e+06" xmax="267754"/>
+  <LayerSet/>
+  <Grid gridStyle="1" crossLength="1" penColorRed="0" penColorBlue="0" intervalX="3000" offsetX="0" intervalY="3000" offsetY="0" show="1" penWidth="0" penColorGreen="0">
+   <Annotation direction="3" precision="0" position="1" frameDistance="1" show="1" font="MS Shell Dlg 2,8.25,-1,5,50,0,0,0,0,0"/>
+  </Grid>
+  <ComposerItem width="205.681" x="11.3934" y="11.5353" rotation="0" height="185.795" frame="true" outlineWidth="0.3" zValue="29" lastValidViewScaleFactor="2.80569" id="" positionLock="false">
+   <FrameColor alpha="255" red="0" blue="0" green="0"/>
+   <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerMap>
+ <ComposerPicture pictureWidth="20" file="../../../OSGeo4W/apps/qgis/svg/north_arrows/north-arrow_3_simple_symmetric_triangular.svg" pictureHeight="23" mapId="-1">
+  <ComposerItem width="20" x="13.4211" y="12.7418" rotation="0" height="23" frame="false" outlineWidth="0.3" zValue="11" lastValidViewScaleFactor="2.88152" id="" positionLock="false">
+   <FrameColor alpha="255" red="0" blue="0" green="0"/>
+   <BackgroundColor alpha="103" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerPicture>
+ <ComposerPicture pictureWidth="61.426" file="../Pictures/Logo_ARSBAN.jpg" pictureHeight="51.3618" mapId="-1">
+  <ComposerItem width="61.426" x="226.79" y="-9.54359" rotation="0" height="51.3618" frame="false" outlineWidth="0.3" zValue="3" lastValidViewScaleFactor="3.84834" id="" positionLock="false">
+   <FrameColor alpha="255" red="0" blue="0" green="0"/>
+   <BackgroundColor alpha="0" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerPicture>
+ <ComposerLabel valign="32" labelText="Fonte: Secretaria Municipal de Meio Ambiente e Urbanismo - SEMURB&#xa;Fotografia Aérea ano de 2006&#xa;Escala de Vôo: 1:8000 -  Escala de Restiuição - 1:2000 " halign="4" margin="1">
+  <LabelFont description="MS Shell Dlg 2,5,-1,5,50,0,0,0,0,0"/>
+  <FontColor red="0" blue="0" green="0"/>
+  <ComposerItem width="63.5745" x="225.925" y="183.393" rotation="0" height="8.29903" frame="true" outlineWidth="0" zValue="26" lastValidViewScaleFactor="3.84834" id="" positionLock="false">
+   <FrameColor alpha="255" red="0" blue="0" green="0"/>
+   <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerLabel>
+ <ComposerLabel valign="32" labelText="______________________________________&#xa;Pedro Celestino Dantas Junior&#xa;Analista de Regulação em Saneamento" halign="4" margin="0.5">
+  <LabelFont description="MS Shell Dlg 2,7,-1,5,50,0,0,0,0,0"/>
+  <FontColor red="0" blue="0" green="0"/>
+  <ComposerItem width="63.5575" x="225.917" y="51.2558" rotation="0" height="11.0437" frame="true" outlineWidth="0" zValue="24" lastValidViewScaleFactor="30.7867" id="" positionLock="false">
+   <FrameColor alpha="255" red="0" blue="0" green="0"/>
+   <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerLabel>
+ <ComposerLabel valign="32" labelText="Projeção Universal Transversa de Mercator&#xa;Datum Horizontal IBGE - SAD69&#xa;Datum Vertical IBGE - Marégrafo Imbituba&#xa;Zona UTM - 25M - Sul&#xa;Meridiano Central - 33° WGr" halign="4" margin="1">
+  <LabelFont description="MS Shell Dlg 2,5,-1,5,50,0,0,0,0,0"/>
+  <FontColor red="0" blue="0" green="0"/>
+  <ComposerItem width="63.1441" x="225.909" y="191.335" rotation="0" height="13.2525" frame="false" outlineWidth="0" zValue="27" lastValidViewScaleFactor="3.84834" id="" positionLock="false">
+   <FrameColor alpha="255" red="0" blue="0" green="0"/>
+   <BackgroundColor alpha="0" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerLabel>
+ <ComposerLabel valign="32" labelText="Elaborado por: Pedro Junior   Matrícula: 61.872-1" halign="4" margin="1">
+  <LabelFont description="MS Shell Dlg 2,6,-1,5,50,0,0,0,0,0"/>
+  <FontColor red="0" blue="0" green="0"/>
+  <ComposerItem width="61.943" x="224.062" y="47.1121" rotation="0" height="4.89778" frame="false" outlineWidth="0.3" zValue="20" lastValidViewScaleFactor="3.84834" id="" positionLock="false">
+   <FrameColor alpha="255" red="0" blue="0" green="0"/>
+   <BackgroundColor alpha="0" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerLabel>
+ <ComposerLabel valign="32" labelText="Informações:&#xa;&#xa;AO loteamento apresenta irregularidades constantes no abastecimento de água" halign="1" margin="1">
+  <LabelFont description="MS Shell Dlg 2,10,-1,5,50,0,0,0,0,0"/>
+  <FontColor red="0" blue="0" green="0"/>
+  <ComposerItem width="63.5663" x="225.909" y="117.973" rotation="0" height="23.6466" frame="true" outlineWidth="0" zValue="25" lastValidViewScaleFactor="3.84834" id="" positionLock="false">
+   <FrameColor alpha="255" red="0" blue="0" green="0"/>
+   <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerLabel>
+ <ComposerLabel valign="32" labelText="Data: 27/11/2012                           Prancha: 1/1" halign="1" margin="1">
+  <LabelFont description="MS Shell Dlg 2,6,-1,5,50,0,0,0,0,0"/>
+  <FontColor red="0" blue="0" green="0"/>
+  <ComposerItem width="63.5623" x="225.921" y="62.2671" rotation="0" height="4.28757" frame="true" outlineWidth="0" zValue="23" lastValidViewScaleFactor="123.147" id="" positionLock="false">
+   <FrameColor alpha="255" red="0" blue="0" green="0"/>
+   <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerLabel>
+ <ComposerScaleBar segmentMillimeters="1.54357" numMapUnitsPerScaleBarUnit="1" numSegments="2" height="5" alignment="0" labelBarSpace="3" outlineWidth="1" numSegmentsLeft="0" style="Line Ticks Up" unitLabel="Metros" font="MS Shell Dlg 2,12,-1,5,50,0,0,0,0,0" mapId="0" boxContentSpace="1" numUnitsPerSegment="200">
+  <BrushColor red="0" blue="0" green="0"/>
+  <ComposerItem width="25.0871" x="20.6067" y="178.153" rotation="0" height="14.2" frame="false" outlineWidth="0.3" zValue="13" lastValidViewScaleFactor="2.88152" id="" positionLock="false">
+   <FrameColor alpha="255" red="0" blue="0" green="0"/>
+   <BackgroundColor alpha="0" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerScaleBar>
+ <ComposerLegend symbolWidth="5" title="Legenda" boxSpace="1" titleFont="MS Shell Dlg 2,16,-1,5,50,0,0,0,0,0" map="0" groupFont="MS Shell Dlg 2,14,-1,5,50,0,0,0,0,0" layerFont="MS Shell Dlg 2,12,-1,5,50,0,0,0,0,0" groupSpace="2" symbolSpace="0" symbolHeight="2" layerSpace="0" iconLabelSpace="2" wrapChar="" itemFont="MS Shell Dlg 2,12,-1,5,50,0,0,0,0,0">
+  <Model autoUpdate="1">
+   <LayerItem layerId="Limite_dos_bairros20130626125744009" text="Limite_dos_bairros">
+    <VectorClassificationItemNg text="">
+     <symbols>
+      <symbol outputUnit="MM" alpha="1" type="fill" name="classificationSymbol">
+       <layer pass="0" class="SimpleFill" locked="0">
+        <prop k="color" v="3,122,143,255"/>
+        <prop k="color_border" v="0,0,0,255"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="style" v="no"/>
+        <prop k="style_border" v="solid"/>
+        <prop k="width_border" v="0.26"/>
+       </layer>
+      </symbol>
+     </symbols>
+    </VectorClassificationItemNg>
+   </LayerItem>
+  </Model>
+  <ComposerItem width="37" x="227.984" y="66.3677" rotation="0" height="19.6" frame="false" outlineWidth="0.3" zValue="19" lastValidViewScaleFactor="1" id="" positionLock="false">
+   <FrameColor alpha="255" red="0" blue="0" green="0"/>
+   <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerLegend>
+ <Composition printResolution="303" paperWidth="297" snapGridOffsetX="0" snapGridResolution="0" snapGridOffsetY="1" snapping="0" paperHeight="210" printAsRaster="0"/>
+</Composer>
